@@ -46,6 +46,8 @@ docs/              Project_Summary.md
 
 ## Running it
 ```
+git clone https://github.com/omkarvyas7/Data-Analytics-Portfolio.git
+cd Data-Analytics-Portfolio/Movie-Recommendation
 pip install -r requirements.txt
 python src/run_all.py
 ```

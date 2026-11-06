@@ -72,6 +72,8 @@ Returns-Program-Health-Automated-Reporting/
 ## How to run
 
 ```
+git clone https://github.com/omkarvyas7/Data-Analytics-Portfolio.git
+cd Data-Analytics-Portfolio/Returns-Program-Health-Automated-Reporting
 python -m venv .venv && .venv\Scripts\activate      # or source .venv/bin/activate
 pip install -r requirements.txt
 python src/run_all.py                                 # rebuilds data, db, WBR, workbooks, dashboard, notebook, docs

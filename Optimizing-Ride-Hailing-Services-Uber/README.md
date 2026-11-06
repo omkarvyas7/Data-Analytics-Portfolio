@@ -73,6 +73,8 @@ Optimizing-Ride-Hailing-Services-Uber/
 ## Running it
 
 ```
+git clone https://github.com/omkarvyas7/Data-Analytics-Portfolio.git
+cd Data-Analytics-Portfolio/Optimizing-Ride-Hailing-Services-Uber
 python -m venv .venv
 .venv\Scripts\activate          # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt

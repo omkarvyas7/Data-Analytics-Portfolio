@@ -620,6 +620,8 @@ Also: [fishbone](docs/fishbone_ishikawa.png), [I-MR chart](screenshots/imr_chart
 ## Running it
 
 ```
+git clone https://github.com/omkarvyas7/Data-Analytics-Portfolio.git
+cd Data-Analytics-Portfolio/DMAIC-Returns-Processing-Defect-Reduction
 python -m venv .venv
 .venv\\Scripts\\activate          (macOS/Linux: source .venv/bin/activate)
 pip install -r requirements.txt

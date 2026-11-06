@@ -370,6 +370,8 @@ I loosely followed DMAIC.
 
 ## How to run
 ```
+git clone https://github.com/omkarvyas7/Data-Analytics-Portfolio.git
+cd Data-Analytics-Portfolio/Returns-Abuse-and-Bad-Debt-Analysis
 python -m venv .venv
 .venv\\Scripts\\activate          (macOS / Linux: source .venv/bin/activate)
 pip install -r requirements.txt

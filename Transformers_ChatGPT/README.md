@@ -40,6 +40,8 @@ Open `notebooks/Transformers.ipynb` in Google Colab and run all cells. It instal
 
 To redraw just the summary image:
 ```
+git clone https://github.com/omkarvyas7/Data-Analytics-Portfolio.git
+cd Data-Analytics-Portfolio/Transformers_ChatGPT
 pip install matplotlib==3.9.2
 python src/make_results_table.py
 ```

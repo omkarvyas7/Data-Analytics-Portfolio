@@ -1,0 +1,11 @@
+risk_id,initiative_id,risk,likelihood,impact,status,owner_role,mitigation,opened_date,target_close_date
+R01,INI-1,Grading labor not staffed at 4 of 6 scale sites before peak,4,4,Open,Returns Operations Manager,Cross-train inbound associates; stagger site launches,2026-09-14,2026-11-13
+R02,INI-1,Open-box price erosion if graded supply outpaces demand,3,3,Mitigating,ReCommerce Analyst,Tiered price floors; weekly sell-through review,2026-07-06,2026-12-11
+R03,INI-2,Returnless refunds increase abuse / bad debt in new categories,3,5,Mitigating,Risk & Abuse Prevention Manager,Per-customer frequency caps; abuse dashboard (M205),2026-04-20,2026-11-13
+R04,INI-3,QR label API slip blocks Wave 2 drop-off go-live,5,4,Open,Software Development Manager,,2026-09-14,2026-10-30
+R05,INI-3,Carrier linehaul consolidation lengthens US mail-in transit,5,4,Open,Transportation Manager,,2026-10-12,2026-11-06
+R06,INI-3,Retail partner capacity limits during holiday peak,3,3,Open,Vendor Manager,Peak capacity clauses; overflow to carrier pickup,2026-08-03,2026-12-18
+R07,INI-4,Engineering capacity shared with peak code freeze,4,4,Open,Software Development Manager,Request 2 additional SDEs; descope phase-2 fields,2026-08-24,2026-11-06
+R08,INI-4,Reason taxonomy change breaks downstream reports,2,3,Mitigating,Data Engineer,Mapping table and parallel run for 4 weeks,2026-06-01,2026-12-04
+R09,INI-5,EU partner recovery below business case,2,4,Closed,Disposition Program Manager,Auction floor pricing pilot,2026-07-20,2026-10-09
+R10,INI-5,Liquidation lot quality disputes delay payment,3,2,Open,Finance Partner,Standard lot manifest and photo audit,2026-10-12,2026-12-18

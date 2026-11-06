@@ -1,0 +1,36 @@
+dimension,segment,audited_units,defects,defect_rate,index_vs_network
+Category,Electronics,2345,232,0.0989,1.45
+Category,Books & Media,545,38,0.0697,1.02
+Category,Tools & Home Improvement,759,50,0.0659,0.97
+Category,Toys & Games,1070,63,0.0589,0.86
+Category,Apparel,2110,124,0.0588,0.86
+Category,Home & Kitchen,1888,111,0.0588,0.86
+Category,Sports & Outdoors,1057,61,0.0577,0.85
+Category,Beauty & Personal Care,862,46,0.0534,0.78
+Correct disposition,OPEN_BOX,2003,222,0.1108,1.63
+Correct disposition,REFURB,785,60,0.0764,1.12
+Correct disposition,NEW,4497,269,0.0598,0.88
+Correct disposition,LIQUIDATE,1865,106,0.0568,0.83
+Correct disposition,DESTROY,565,31,0.0549,0.8
+Correct disposition,RECYCLE,921,37,0.0402,0.59
+Month,2026-01,2028,173,0.0853,1.25
+Month,2025-12,1710,133,0.0778,1.14
+Month,2025-11,1343,97,0.0722,1.06
+Month,2025-10,1180,72,0.061,0.9
+Month,2025-08,1068,64,0.0599,0.88
+Month,2025-09,977,57,0.0583,0.86
+Month,2025-07,1082,62,0.0573,0.84
+Month,2026-02,1248,67,0.0537,0.79
+Photo step done,No,2952,258,0.0874,1.28
+Photo step done,Yes,7684,467,0.0608,0.89
+Shift,Night,2132,187,0.0877,1.29
+Shift,Swing,3739,244,0.0653,0.96
+Shift,Day,4765,294,0.0617,0.91
+Site,RC-CENTRAL,2646,224,0.0847,1.24
+Site,RC-EAST,2855,183,0.0641,0.94
+Site,RC-WEST,3226,205,0.0635,0.93
+Site,RC-SOUTH,1909,113,0.0592,0.87
+Tenure band,0-29 days,727,96,0.132,1.94
+Tenure band,30-89 days,1372,124,0.0904,1.33
+Tenure band,365+ days,6708,400,0.0596,0.87
+Tenure band,90-364 days,1829,105,0.0574,0.84

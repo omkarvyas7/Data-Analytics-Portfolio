@@ -1,0 +1,7 @@
+budget_band,segment,films,avg_adj_budget_musd,avg_adj_gross_musd,gap_vs_non_action_musd
+1,Action,1,43.9,29.5,-44.6
+1,Non-Action,49,28.8,74.1,0.0
+2,Action,6,87.0,59.1,-48.2
+2,Non-Action,43,68.1,107.3,0.0
+3,Action,13,180.7,287.1,87.3
+3,Non-Action,36,165.8,199.7,0.0

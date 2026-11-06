@@ -1,0 +1,9 @@
+scenario_id,scenario,refunds_affected,customers_affected,good_customers_affected,pct_good_customers_affected,dollars_saved,baseline_loss_dollars,pct_of_baseline_loss,saved_per_good_customer_affected
+0,S0 Baseline: current policy (loss $ in window),0,0,0,0.0,0.0,154621.99,0.0,
+1,S1 Disable instant refund for High tier,1241,370,120,0.69,10493.42,154621.99,6.79,87.45
+2,"S2 Receipt-before-refund over $X, all customers",483,449,267,1.53,16769.53,154621.99,10.85,62.81
+3,"S3 Receipt-before-refund over $X, Medium + High tier",173,147,42,0.24,7584.89,154621.99,4.91,180.59
+4,S4 Disable instant refund for everyone,8032,5216,4111,23.53,37628.73,154621.99,24.34,9.15
+5,"S5 Restocking fee on no-longer-needed, repeat returners",590,297,128,0.73,7108.51,154621.99,4.6,55.54
+6,S6 Investigate INR claims at cluster addresses,75,52,0,0.0,5850.82,154621.99,3.78,
+7,S7 Recommended package (S1 + S5 + S6),1714,568,206,1.18,23452.76,154621.99,15.17,113.85

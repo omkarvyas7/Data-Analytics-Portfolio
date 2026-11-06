@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# SQLite database is rebuilt by src/build_db.py
+*.db
+~$*.xlsx
+~$*.docx

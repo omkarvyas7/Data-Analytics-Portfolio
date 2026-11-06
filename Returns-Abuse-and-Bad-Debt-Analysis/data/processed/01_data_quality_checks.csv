@@ -1,0 +1,13 @@
+check_name,rows_flagged,handling
+orders: exact duplicate rows,150,drop duplicates
+orders: zero or negative item_price,45,exclude order
+orders: null category,0,exclude order
+orders: delivered before ordered,0,exclude order
+returns: exact duplicate rows,60,drop duplicates
+returns: null reason_code,261,map to unknown
+returns: order_id not in orders,0,exclude return
+refunds: exact duplicate rows,40,drop duplicates
+refunds: return_id not in returns,0,exclude refund
+refunds: amount above item price,0,review
+refunds: issued before return request,0,review
+customers: duplicate customer_id,0,drop duplicates

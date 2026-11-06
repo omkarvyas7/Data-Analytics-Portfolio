@@ -1,0 +1,9 @@
+star_quartile,min_star_power,max_star_power,segment,films,avg_adj_gross_musd,avg_adj_budget_musd,pooled_roi
+1,492,536,Action,3,167.7,126.8,1.32
+1,457,575,Non-Action,34,147.8,98.1,1.51
+2,592,674,Action,3,151.9,128.1,1.19
+2,577,720,Non-Action,34,91.2,81.0,1.13
+3,746,892,Action,8,111.7,116.7,0.96
+3,720,906,Non-Action,29,115.8,64.6,1.79
+4,947,1077,Action,6,377.2,202.9,1.86
+4,937,2237,Non-Action,31,127.5,75.7,1.68

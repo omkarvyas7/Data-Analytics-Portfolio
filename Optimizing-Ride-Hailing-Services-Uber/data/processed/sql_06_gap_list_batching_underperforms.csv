@@ -1,0 +1,507 @@
+window_id,gap_type,riders,drivers,supply_ratio,mdr_miles,extra_riders_served,avg_eta_delta_min,p90_delta_min,contribution_delta_usd
+426,Higher avg ETA - serves more riders (expected trade-off),18,17,0.94,3.0,4,3.519,6.187,36.92
+997,Higher avg ETA - serves more riders (expected trade-off),20,19,0.95,4.0,4,2.544,3.494,30.54
+41,Higher avg ETA - serves more riders (expected trade-off),13,5,0.38,3.0,2,2.348,3.561,10.06
+986,Higher avg ETA - serves more riders (expected trade-off),13,14,1.08,2.0,3,1.73,0.013,35.12
+860,Higher avg ETA - serves more riders (expected trade-off),8,6,0.75,3.0,1,1.672,2.405,7.68
+504,Higher avg ETA - serves more riders (expected trade-off),15,20,1.33,3.0,4,1.635,2.706,35.05
+92,Higher avg ETA - serves more riders (expected trade-off),9,3,0.33,4.0,1,1.578,3.696,24.09
+111,Higher avg ETA - serves more riders (expected trade-off),15,15,1.0,3.0,3,1.577,3.774,43.84
+192,Higher avg ETA - serves more riders (expected trade-off),19,17,0.89,2.0,4,1.54,1.423,47.33
+731,Higher avg ETA - serves more riders (expected trade-off),14,15,1.07,4.0,3,1.494,1.264,29.65
+27,Higher avg ETA - serves more riders (expected trade-off),10,10,1.0,3.0,1,1.434,0.277,26.02
+962,Higher avg ETA - serves more riders (expected trade-off),14,19,1.36,3.0,2,1.427,3.595,18.9
+976,Higher avg ETA - serves more riders (expected trade-off),10,10,1.0,4.0,2,1.426,0.608,9.94
+219,Higher avg ETA - serves more riders (expected trade-off),17,19,1.12,4.0,2,1.389,1.872,8.31
+275,Higher avg ETA - serves more riders (expected trade-off),13,14,1.08,3.0,3,1.295,0.549,22.68
+720,Higher avg ETA - serves more riders (expected trade-off),12,6,0.5,3.0,1,1.201,0.638,4.98
+871,Higher avg ETA - serves more riders (expected trade-off),15,15,1.0,3.0,4,1.167,-0.016,47.62
+147,Higher avg ETA - serves more riders (expected trade-off),15,13,0.87,1.5,3,1.115,1.652,34.81
+821,Higher avg ETA - serves more riders (expected trade-off),15,14,0.93,2.0,2,1.099,1.902,36.81
+714,Higher avg ETA - serves more riders (expected trade-off),15,13,0.87,3.0,2,1.069,1.484,31.58
+106,Higher avg ETA - serves more riders (expected trade-off),16,18,1.13,3.0,3,1.068,1.862,40.63
+453,Higher avg ETA - serves more riders (expected trade-off),17,14,0.82,2.0,2,1.068,1.649,0.64
+973,Higher avg ETA - serves more riders (expected trade-off),21,26,1.24,2.0,2,1.059,0.98,11.79
+450,Higher avg ETA - serves more riders (expected trade-off),19,18,0.95,3.0,3,1.054,2.445,24.23
+441,Higher avg ETA - serves more riders (expected trade-off),17,26,1.53,2.0,3,1.044,1.354,21.45
+291,Higher avg ETA - serves more riders (expected trade-off),14,15,1.07,4.0,2,1.042,2.161,14.81
+718,Higher avg ETA - serves more riders (expected trade-off),16,20,1.25,3.0,2,1.034,1.558,15.94
+546,Higher avg ETA - serves more riders (expected trade-off),15,15,1.0,4.0,2,1.018,3.587,17.76
+588,Higher avg ETA - serves more riders (expected trade-off),10,12,1.2,4.0,1,0.972,3.66,6.21
+422,Higher avg ETA - serves more riders (expected trade-off),14,14,1.0,3.0,2,0.969,2.567,22.37
+173,Higher avg ETA - serves more riders (expected trade-off),20,22,1.1,3.0,3,0.963,1.931,30.84
+157,Higher avg ETA - serves more riders (expected trade-off),12,22,1.83,2.0,2,0.957,1.259,11.37
+18,Higher avg ETA - serves more riders (expected trade-off),12,10,0.83,3.0,2,0.943,1.527,31.71
+355,Higher avg ETA - serves more riders (expected trade-off),10,10,1.0,4.0,1,0.942,1.315,10.67
+748,Higher avg ETA - serves more riders (expected trade-off),15,16,1.07,2.0,2,0.934,1.013,14.16
+394,Higher avg ETA - serves more riders (expected trade-off),13,14,1.08,3.0,2,0.915,1.61,20.45
+653,Higher avg ETA - serves more riders (expected trade-off),7,8,1.14,3.0,1,0.913,-0.26,-3.33
+479,Higher avg ETA - serves more riders (expected trade-off),17,14,0.82,2.0,2,0.881,0.208,35.35
+32,Higher avg ETA - serves more riders (expected trade-off),15,17,1.13,4.0,3,0.835,1.448,19.05
+263,Higher avg ETA - serves more riders (expected trade-off),15,23,1.53,2.0,3,0.819,1.575,38.03
+665,Higher avg ETA - serves more riders (expected trade-off),20,22,1.1,3.0,3,0.794,0.298,33.85
+783,Higher avg ETA - serves more riders (expected trade-off),17,16,0.94,3.0,2,0.789,2.73,13.37
+484,Higher avg ETA - serves more riders (expected trade-off),18,18,1.0,3.0,2,0.78,1.095,27.95
+578,Higher avg ETA - serves more riders (expected trade-off),13,18,1.38,2.0,2,0.769,0.99,16.13
+839,Higher avg ETA - serves more riders (expected trade-off),17,16,0.94,1.5,1,0.769,1.588,12.57
+594,Higher avg ETA - serves more riders (expected trade-off),20,21,1.05,4.0,3,0.766,3.863,23.43
+437,Higher avg ETA - serves more riders (expected trade-off),15,5,0.33,2.0,1,0.756,-1.155,15.24
+791,Higher avg ETA - serves more riders (expected trade-off),14,16,1.14,3.0,1,0.752,0.063,10.23
+140,Higher avg ETA - serves more riders (expected trade-off),12,11,0.92,2.0,1,0.751,1.269,6.48
+259,Higher avg ETA - serves more riders (expected trade-off),8,9,1.13,4.0,1,0.75,-0.121,2.09
+408,Higher avg ETA - serves more riders (expected trade-off),12,10,0.83,2.0,1,0.749,1.155,10.57
+728,Higher avg ETA - serves more riders (expected trade-off),15,8,0.53,1.5,1,0.741,0.825,4.13
+723,Higher avg ETA - serves more riders (expected trade-off),14,24,1.71,2.0,2,0.73,1.436,14.19
+761,Higher avg ETA - serves more riders (expected trade-off),12,10,0.83,2.0,2,0.73,-0.611,16.33
+516,Higher avg ETA - serves more riders (expected trade-off),22,30,1.36,3.0,4,0.727,2.115,29.4
+252,Higher avg ETA - serves more riders (expected trade-off),10,11,1.1,4.0,1,0.711,1.245,10.19
+500,Higher avg ETA - serves more riders (expected trade-off),15,18,1.2,2.0,2,0.694,1.868,23.75
+832,Higher avg ETA - serves more riders (expected trade-off),14,11,0.79,3.0,2,0.635,0.019,25.41
+567,Higher avg ETA - serves more riders (expected trade-off),17,20,1.18,2.0,3,0.621,1.794,37.22
+203,Higher avg ETA - serves more riders (expected trade-off),10,7,0.7,3.0,2,0.606,-0.476,31.92
+480,Higher avg ETA - serves more riders (expected trade-off),15,16,1.07,1.5,1,0.605,1.185,5.41
+213,Higher avg ETA - serves more riders (expected trade-off),14,10,0.71,3.0,1,0.605,3.945,10.55
+729,Higher avg ETA - serves more riders (expected trade-off),13,15,1.15,2.0,2,0.599,0.331,42.81
+599,Higher avg ETA - serves more riders (expected trade-off),20,23,1.15,2.0,3,0.598,1.073,39.96
+636,Higher avg ETA - serves more riders (expected trade-off),13,13,1.0,2.0,1,0.595,1.037,7.34
+278,Higher avg ETA - serves more riders (expected trade-off),20,24,1.2,3.0,3,0.59,-0.983,25.72
+455,Higher avg ETA - serves more riders (expected trade-off),12,17,1.42,1.5,1,0.582,0.518,7.88
+470,Higher avg ETA - serves more riders (expected trade-off),12,12,1.0,1.5,1,0.582,0.299,11.82
+400,Higher avg ETA - serves more riders (expected trade-off),14,11,0.79,2.0,2,0.582,0.333,46.55
+700,Higher avg ETA - serves more riders (expected trade-off),14,20,1.43,1.5,2,0.58,1.564,17.6
+898,Higher avg ETA - serves more riders (expected trade-off),15,18,1.2,3.0,1,0.573,1.344,3.21
+999,Higher avg ETA - serves more riders (expected trade-off),9,8,0.89,2.0,1,0.57,0.964,7.26
+561,Higher avg ETA - serves more riders (expected trade-off),20,18,0.9,2.0,2,0.57,1.805,15.12
+816,Higher avg ETA - serves more riders (expected trade-off),14,13,0.93,3.0,1,0.559,1.68,5.94
+505,Higher avg ETA - serves more riders (expected trade-off),13,11,0.85,1.5,1,0.555,0.916,7.45
+335,Higher avg ETA - serves more riders (expected trade-off),11,9,0.82,1.5,1,0.555,0.94,16.55
+687,Higher avg ETA - serves more riders (expected trade-off),14,13,0.93,2.0,1,0.542,0.148,16.15
+870,Higher avg ETA - serves more riders (expected trade-off),12,13,1.08,1.5,1,0.538,0.707,8.14
+824,Higher avg ETA - serves more riders (expected trade-off),16,7,0.44,2.0,1,0.534,0.931,7.04
+961,Higher avg ETA - serves more riders (expected trade-off),23,35,1.52,2.0,2,0.531,0.958,28.73
+407,Higher avg ETA - serves more riders (expected trade-off),12,13,1.08,2.0,1,0.53,0.897,4.77
+510,Higher avg ETA - serves more riders (expected trade-off),17,21,1.24,3.0,1,0.526,1.43,4.55
+241,Higher avg ETA - serves more riders (expected trade-off),17,13,0.76,3.0,1,0.514,-0.507,9.1
+323,Higher avg ETA - serves more riders (expected trade-off),12,12,1.0,4.0,1,0.511,0.08,7.09
+51,Higher avg ETA - serves more riders (expected trade-off),13,16,1.23,3.0,2,0.509,-0.123,33.47
+58,Higher avg ETA - serves more riders (expected trade-off),10,8,0.8,3.0,1,0.5,0.442,-6.62
+792,Higher avg ETA - serves more riders (expected trade-off),13,25,1.92,2.0,2,0.497,0.585,25.27
+131,Higher avg ETA - serves more riders (expected trade-off),17,28,1.65,1.5,3,0.487,0.949,16.61
+174,Higher avg ETA - serves more riders (expected trade-off),15,21,1.4,3.0,2,0.483,1.273,26.4
+239,Higher avg ETA - serves more riders (expected trade-off),12,17,1.42,1.5,1,0.48,0.35,6.11
+508,Higher avg ETA - serves more riders (expected trade-off),16,23,1.44,2.0,2,0.476,1.684,10.61
+641,Higher avg ETA - serves more riders (expected trade-off),14,15,1.07,3.0,2,0.476,1.876,9.48
+434,Higher avg ETA - serves more riders (expected trade-off),15,21,1.4,2.0,2,0.474,0.096,21.26
+694,Higher avg ETA - serves more riders (expected trade-off),14,15,1.07,4.0,1,0.471,0.286,36.43
+417,Higher avg ETA - serves more riders (expected trade-off),16,24,1.5,2.0,2,0.463,0.513,15.17
+60,Higher avg ETA - serves more riders (expected trade-off),12,5,0.42,2.0,1,0.46,2.272,41.55
+769,Higher avg ETA - serves more riders (expected trade-off),10,14,1.4,2.0,1,0.449,0.136,12.76
+466,Higher avg ETA - serves more riders (expected trade-off),15,24,1.6,1.5,1,0.448,0.145,28.28
+461,Higher avg ETA - serves more riders (expected trade-off),13,14,1.08,2.0,1,0.442,-0.129,7.24
+979,Higher avg ETA - serves more riders (expected trade-off),10,13,1.3,2.0,2,0.437,1.495,14.87
+781,Higher avg ETA - serves more riders (expected trade-off),18,25,1.39,2.0,1,0.433,0.959,8.06
+67,Higher avg ETA - serves more riders (expected trade-off),20,13,0.65,2.0,3,0.429,0.112,35.15
+910,Higher avg ETA - serves more riders (expected trade-off),13,20,1.54,2.0,1,0.428,0.266,21.14
+139,Higher avg ETA - serves more riders (expected trade-off),16,9,0.56,2.0,1,0.421,1.347,12.77
+908,Higher avg ETA - serves more riders (expected trade-off),14,15,1.07,4.0,2,0.417,-0.218,15.64
+483,Higher avg ETA - serves more riders (expected trade-off),18,20,1.11,3.0,2,0.411,0.598,38.28
+598,Higher avg ETA - serves more riders (expected trade-off),6,5,0.83,3.0,1,0.411,-0.045,11.07
+218,Higher avg ETA - serves more riders (expected trade-off),16,20,1.25,3.0,2,0.41,0.371,24.26
+436,Higher avg ETA - serves more riders (expected trade-off),13,12,0.92,4.0,2,0.399,-0.664,22.91
+923,Higher avg ETA - serves more riders (expected trade-off),17,26,1.53,2.0,1,0.393,0.119,9.52
+376,Higher avg ETA - serves more riders (expected trade-off),19,29,1.53,2.0,1,0.389,1.439,16.8
+964,Higher avg ETA - serves more riders (expected trade-off),20,21,1.05,1.5,2,0.384,0.452,17.78
+568,Higher avg ETA - serves more riders (expected trade-off),14,22,1.57,1.5,1,0.38,1.21,9.32
+680,Higher avg ETA - serves more riders (expected trade-off),13,12,0.92,4.0,2,0.379,-0.506,67.92
+742,Higher avg ETA - serves more riders (expected trade-off),20,12,0.6,2.0,2,0.375,1.957,14.9
+601,Higher avg ETA - serves more riders (expected trade-off),15,12,0.8,2.0,1,0.375,-0.338,16.27
+54,Higher avg ETA - serves more riders (expected trade-off),9,5,0.56,4.0,1,0.37,3.36,5.41
+223,Higher avg ETA - serves more riders (expected trade-off),15,15,1.0,1.5,2,0.361,-0.184,17.08
+836,Higher avg ETA - serves more riders (expected trade-off),17,22,1.29,3.0,1,0.358,0.16,7.91
+310,Higher avg ETA - serves more riders (expected trade-off),15,14,0.93,3.0,1,0.352,1.977,7.17
+292,Higher avg ETA - serves more riders (expected trade-off),17,17,1.0,2.0,2,0.351,0.069,21.93
+358,Higher avg ETA - serves more riders (expected trade-off),18,15,0.83,2.0,1,0.349,0.862,18.9
+55,Higher avg ETA - serves more riders (expected trade-off),16,31,1.94,1.5,1,0.347,0.839,8.21
+199,Higher avg ETA - serves more riders (expected trade-off),19,16,0.84,2.0,2,0.347,1.761,12.02
+224,Higher avg ETA - serves more riders (expected trade-off),17,23,1.35,2.0,2,0.346,-0.273,19.22
+443,Higher avg ETA - serves more riders (expected trade-off),13,12,0.92,2.0,2,0.345,-0.239,10.75
+274,Higher avg ETA - serves more riders (expected trade-off),25,27,1.08,1.5,4,0.345,0.177,55.51
+205,Higher avg ETA - serves more riders (expected trade-off),17,15,0.88,2.0,2,0.343,0.744,52.74
+229,Higher avg ETA - serves more riders (expected trade-off),14,11,0.79,1.5,1,0.342,0.436,7.13
+177,Higher avg ETA - serves more riders (expected trade-off),17,30,1.76,2.0,2,0.341,0.487,32.14
+302,Higher avg ETA - serves more riders (expected trade-off),14,18,1.29,3.0,1,0.34,0.58,8.89
+190,Higher avg ETA - serves more riders (expected trade-off),11,13,1.18,3.0,1,0.34,-0.098,6.16
+344,Higher avg ETA - serves more riders (expected trade-off),14,11,0.79,2.0,1,0.34,1.263,15.61
+153,Higher avg ETA - serves more riders (expected trade-off),27,26,0.96,3.0,2,0.334,1.348,38.8
+446,Higher avg ETA - serves more riders (expected trade-off),13,26,2.0,3.0,2,0.332,-1.383,30.89
+148,Higher avg ETA - serves more riders (expected trade-off),16,19,1.19,2.0,1,0.331,2.62,7.45
+645,Higher avg ETA - serves more riders (expected trade-off),18,20,1.11,2.0,1,0.327,0.31,9.33
+411,Higher avg ETA - serves more riders (expected trade-off),18,21,1.17,2.0,1,0.324,0.156,8.44
+515,Higher avg ETA - serves more riders (expected trade-off),16,19,1.19,4.0,1,0.317,-0.278,14.27
+948,Higher avg ETA - serves more riders (expected trade-off),10,16,1.6,3.0,1,0.313,-0.178,11.57
+885,Higher avg ETA - serves more riders (expected trade-off),17,16,0.94,3.0,1,0.312,-0.087,15.64
+699,Higher avg ETA - serves more riders (expected trade-off),15,12,0.8,2.0,1,0.306,0.224,3.6
+557,Higher avg ETA - serves more riders (expected trade-off),24,35,1.46,1.5,2,0.302,0.486,18.39
+595,Higher avg ETA - serves more riders (expected trade-off),13,8,0.62,2.0,1,0.289,0.098,8.05
+155,Higher avg ETA - serves more riders (expected trade-off),14,11,0.79,1.5,1,0.289,-0.033,8.98
+667,Higher avg ETA - serves more riders (expected trade-off),9,7,0.78,4.0,1,0.288,2.509,24.08
+366,Higher avg ETA - serves more riders (expected trade-off),15,15,1.0,1.5,1,0.284,0.734,7.74
+790,Higher avg ETA - serves more riders (expected trade-off),15,26,1.73,3.0,1,0.281,0.667,5.36
+499,Higher avg ETA - serves more riders (expected trade-off),16,20,1.25,4.0,2,0.279,0.865,23.89
+47,Higher avg ETA - serves more riders (expected trade-off),16,26,1.63,1.5,2,0.267,0.444,24.03
+963,Higher avg ETA - serves more riders (expected trade-off),17,19,1.12,2.0,2,0.265,0.023,19.61
+895,Higher avg ETA - serves more riders (expected trade-off),19,23,1.21,2.0,2,0.258,1.265,27.75
+810,Higher avg ETA - serves more riders (expected trade-off),9,3,0.33,3.0,1,0.256,2.198,13.04
+8,Higher avg ETA - serves more riders (expected trade-off),9,14,1.56,3.0,1,0.256,0.16,12.91
+105,Higher avg ETA - serves more riders (expected trade-off),16,13,0.81,1.5,1,0.255,0.818,6.59
+129,Higher avg ETA - serves more riders (expected trade-off),12,11,0.92,3.0,1,0.254,0.926,10.71
+888,Higher avg ETA - serves more riders (expected trade-off),14,21,1.5,2.0,1,0.249,0.332,7.72
+802,Higher avg ETA - serves more riders (expected trade-off),13,15,1.15,1.5,1,0.248,0.128,7.92
+639,Higher avg ETA - serves more riders (expected trade-off),17,12,0.71,3.0,2,0.246,0.859,20.86
+926,Higher avg ETA - serves more riders (expected trade-off),14,22,1.57,1.5,2,0.244,0.679,14.14
+180,Higher avg ETA - serves more riders (expected trade-off),15,14,0.93,2.0,1,0.242,-0.153,11.39
+602,Higher avg ETA - serves more riders (expected trade-off),15,17,1.13,3.0,1,0.242,-1.042,4.88
+819,Higher avg ETA - serves more riders (expected trade-off),12,13,1.08,1.5,1,0.241,0.363,9.86
+16,Higher avg ETA - serves more riders (expected trade-off),18,20,1.11,1.5,1,0.241,-0.124,10.97
+637,Higher avg ETA - serves more riders (expected trade-off),17,25,1.47,3.0,2,0.238,-0.611,17.69
+237,Higher avg ETA - serves more riders (expected trade-off),13,16,1.23,1.5,1,0.237,0.001,9.51
+52,Higher avg ETA - serves more riders (expected trade-off),11,11,1.0,3.0,1,0.235,-0.273,10.12
+518,Higher avg ETA - serves more riders (expected trade-off),21,22,1.05,1.5,2,0.234,-0.021,17.34
+988,Higher avg ETA - serves more riders (expected trade-off),15,12,0.8,1.5,1,0.232,0.173,12.94
+329,Higher avg ETA - serves more riders (expected trade-off),18,18,1.0,3.0,2,0.232,0.71,9.51
+726,Higher avg ETA - serves more riders (expected trade-off),16,21,1.31,1.5,1,0.229,0.228,6.24
+575,Higher avg ETA - serves more riders (expected trade-off),17,13,0.76,3.0,1,0.228,0.258,6.66
+257,Higher avg ETA - serves more riders (expected trade-off),20,34,1.7,1.5,2,0.224,-0.006,22.42
+526,Higher avg ETA - serves more riders (expected trade-off),15,20,1.33,4.0,2,0.222,0.87,14.43
+827,Higher avg ETA - serves more riders (expected trade-off),11,15,1.36,3.0,1,0.221,-0.069,4.5
+775,Higher avg ETA - serves more riders (expected trade-off),22,34,1.55,2.0,2,0.218,-0.154,17.0
+950,Higher avg ETA - serves more riders (expected trade-off),10,10,1.0,3.0,2,0.214,0.468,22.27
+600,Higher avg ETA - serves more riders (expected trade-off),15,15,1.0,2.0,1,0.209,0.009,7.72
+609,Higher avg ETA - serves more riders (expected trade-off),16,22,1.38,1.5,1,0.209,0.0,11.1
+321,Higher avg ETA - serves more riders (expected trade-off),24,19,0.79,1.5,4,0.208,-0.257,50.52
+388,Higher avg ETA - serves more riders (expected trade-off),17,30,1.76,1.5,1,0.206,0.357,9.01
+825,Higher avg ETA - serves more riders (expected trade-off),11,17,1.55,4.0,1,0.2,1.556,4.13
+347,Higher avg ETA - serves more riders (expected trade-off),22,32,1.45,3.0,1,0.198,0.427,2.83
+906,Higher avg ETA - serves more riders (expected trade-off),12,16,1.33,2.0,1,0.197,-0.258,19.26
+597,Higher avg ETA - serves more riders (expected trade-off),10,24,2.4,1.5,1,0.195,0.185,11.56
+57,Higher avg ETA - serves more riders (expected trade-off),12,17,1.42,3.0,2,0.192,-2.266,48.76
+186,Higher avg ETA - serves more riders (expected trade-off),15,29,1.93,2.0,1,0.185,0.479,5.54
+352,Higher avg ETA - serves more riders (expected trade-off),15,19,1.27,3.0,1,0.18,-0.022,7.24
+338,Higher avg ETA - serves more riders (expected trade-off),14,28,2.0,1.5,1,0.179,0.669,19.71
+925,Higher avg ETA - serves more riders (expected trade-off),18,17,0.94,3.0,2,0.177,0.391,33.22
+228,Higher avg ETA - serves more riders (expected trade-off),22,39,1.77,1.5,2,0.175,-0.087,14.06
+62,Higher avg ETA - serves more riders (expected trade-off),14,14,1.0,2.0,1,0.172,-0.125,17.64
+664,Higher avg ETA - serves more riders (expected trade-off),17,19,1.12,3.0,2,0.168,1.151,10.25
+686,Higher avg ETA - serves more riders (expected trade-off),17,21,1.24,4.0,2,0.167,0.029,17.01
+747,Higher avg ETA - serves more riders (expected trade-off),18,23,1.28,3.0,1,0.165,0.119,7.34
+225,Higher avg ETA - serves more riders (expected trade-off),19,21,1.11,1.5,1,0.162,0.45,24.17
+442,Higher avg ETA - serves more riders (expected trade-off),15,11,0.73,1.5,1,0.143,-0.523,11.97
+858,Higher avg ETA - serves more riders (expected trade-off),19,24,1.26,2.0,1,0.142,-0.02,7.03
+897,Higher avg ETA - serves more riders (expected trade-off),13,19,1.46,2.0,1,0.139,-0.138,9.9
+449,Higher avg ETA - serves more riders (expected trade-off),19,27,1.42,2.0,3,0.136,-0.091,28.65
+478,Higher avg ETA - serves more riders (expected trade-off),14,22,1.57,2.0,1,0.136,0.674,6.24
+891,Higher avg ETA - serves more riders (expected trade-off),19,28,1.47,2.0,2,0.131,0.238,18.62
+565,Higher avg ETA - serves more riders (expected trade-off),15,14,0.93,2.0,2,0.128,0.008,15.1
+811,Higher avg ETA - serves more riders (expected trade-off),14,15,1.07,1.5,1,0.127,-0.365,16.05
+677,Higher avg ETA - serves more riders (expected trade-off),15,12,0.8,3.0,1,0.125,0.719,9.39
+261,Higher avg ETA - serves more riders (expected trade-off),21,43,2.05,1.5,1,0.123,0.304,10.36
+738,Higher avg ETA - serves more riders (expected trade-off),12,16,1.33,1.5,1,0.117,0.605,11.28
+305,Higher avg ETA - serves more riders (expected trade-off),20,33,1.65,1.5,1,0.114,0.513,9.8
+127,Higher avg ETA - serves more riders (expected trade-off),18,29,1.61,1.5,1,0.103,-0.016,27.51
+772,Higher avg ETA - serves more riders (expected trade-off),11,13,1.18,1.5,1,0.103,0.652,-11.42
+357,Higher avg ETA - serves more riders (expected trade-off),17,23,1.35,2.0,1,0.102,-0.614,18.22
+304,Higher avg ETA - serves more riders (expected trade-off),18,23,1.28,3.0,2,0.096,0.014,24.15
+307,Higher avg ETA - serves more riders (expected trade-off),20,33,1.65,4.0,1,0.095,1.121,11.09
+300,Higher avg ETA - serves more riders (expected trade-off),14,15,1.07,1.5,1,0.094,0.424,-7.41
+202,Higher avg ETA - serves more riders (expected trade-off),9,18,2.0,1.5,1,0.093,0.298,11.85
+869,Higher avg ETA - serves more riders (expected trade-off),13,13,1.0,4.0,1,0.09,-0.072,17.01
+451,Higher avg ETA - serves more riders (expected trade-off),18,19,1.06,2.0,2,0.09,0.34,22.06
+529,Higher avg ETA - serves more riders (expected trade-off),13,13,1.0,1.5,1,0.087,1.028,10.16
+622,Higher avg ETA - serves more riders (expected trade-off),18,20,1.11,1.5,2,0.087,0.104,15.69
+159,Higher avg ETA - serves more riders (expected trade-off),19,31,1.63,1.5,2,0.086,0.448,41.54
+97,Higher avg ETA - serves more riders (expected trade-off),16,15,0.94,2.0,1,0.082,-0.037,14.79
+532,Higher avg ETA - serves more riders (expected trade-off),16,18,1.13,1.5,1,0.08,-0.024,11.02
+652,Higher avg ETA - serves more riders (expected trade-off),13,22,1.69,1.5,1,0.08,0.065,8.7
+249,Higher avg ETA - serves more riders (expected trade-off),20,26,1.3,1.5,3,0.077,0.026,32.76
+327,Higher avg ETA - serves more riders (expected trade-off),15,23,1.53,2.0,1,0.076,-0.008,7.23
+676,Higher avg ETA - serves more riders (expected trade-off),11,16,1.45,3.0,2,0.076,-1.326,10.37
+981,Higher avg ETA - serves more riders (expected trade-off),14,19,1.36,2.0,1,0.075,-0.357,13.9
+113,Higher avg ETA - serves more riders (expected trade-off),21,15,0.71,1.5,3,0.073,-0.304,35.97
+978,Higher avg ETA - serves more riders (expected trade-off),12,15,1.25,4.0,1,0.069,0.838,6.63
+91,Higher avg ETA - serves more riders (expected trade-off),16,15,0.94,2.0,1,0.06,0.79,5.09
+471,Higher avg ETA - serves more riders (expected trade-off),15,18,1.2,3.0,1,0.06,-0.041,14.19
+691,Higher avg ETA - serves more riders (expected trade-off),24,35,1.46,3.0,1,0.059,1.233,6.82
+921,Higher avg ETA - serves more riders (expected trade-off),13,21,1.62,3.0,1,0.057,0.609,20.6
+365,Higher avg ETA - serves more riders (expected trade-off),11,19,1.73,1.5,1,0.055,-0.224,4.93
+662,Higher avg ETA - serves more riders (expected trade-off),20,19,0.95,2.0,2,0.054,-0.346,21.45
+221,Higher avg ETA - serves more riders (expected trade-off),15,25,1.67,2.0,1,0.052,-0.202,3.57
+682,Higher avg ETA - serves more riders (expected trade-off),17,26,1.53,1.5,2,0.05,0.314,22.28
+87,Higher avg ETA - serves more riders (expected trade-off),23,26,1.13,2.0,2,0.048,0.325,17.99
+608,Higher avg ETA - serves more riders (expected trade-off),19,25,1.32,3.0,1,0.048,-0.303,6.44
+387,Higher avg ETA - serves more riders (expected trade-off),25,32,1.28,1.5,1,0.046,-0.046,11.55
+627,Higher avg ETA - serves more riders (expected trade-off),18,14,0.78,2.0,1,0.046,-1.032,16.81
+692,Higher avg ETA - serves more riders (expected trade-off),22,30,1.36,1.5,1,0.045,0.16,4.5
+66,Higher avg ETA - serves more riders (expected trade-off),19,21,1.11,3.0,2,0.042,1.113,26.27
+474,Higher avg ETA - serves more riders (expected trade-off),20,27,1.35,1.5,1,0.037,0.056,7.05
+363,Higher avg ETA - serves more riders (expected trade-off),19,32,1.68,1.5,1,0.036,-0.201,9.57
+430,Higher avg ETA - serves more riders (expected trade-off),19,23,1.21,3.0,1,0.034,1.181,12.1
+268,Higher avg ETA - serves more riders (expected trade-off),18,28,1.56,2.0,1,0.032,0.502,3.66
+419,Higher avg ETA - serves more riders (expected trade-off),18,16,0.89,1.5,1,0.03,-0.755,2.66
+712,Higher avg ETA - serves more riders (expected trade-off),12,8,0.67,2.0,1,0.03,0.075,-0.3
+476,Higher avg ETA - serves more riders (expected trade-off),17,28,1.65,2.0,2,0.022,-0.324,36.18
+539,Higher avg ETA - serves more riders (expected trade-off),19,16,0.84,1.5,2,0.016,0.075,17.65
+317,Higher avg ETA - serves more riders (expected trade-off),8,5,0.63,3.0,1,0.015,1.05,10.64
+459,Higher avg ETA - serves more riders (expected trade-off),14,21,1.5,2.0,1,0.007,0.052,15.31
+423,Higher avg ETA - serves more riders (expected trade-off),16,16,1.0,2.0,2,0.003,0.549,16.29
+322,Higher avg ETA - serves more riders (expected trade-off),19,20,1.05,2.0,1,0.002,-0.952,4.26
+486,Longer p90 tail - avg ETA better,19,25,1.32,4.0,0,-0.0,0.015,-0.05
+548,Lower contribution - ETA better,14,10,0.71,1.5,0,-0.002,-0.118,-0.29
+296,Longer p90 tail - avg ETA better,28,36,1.29,1.5,3,-0.003,0.429,77.86
+917,Longer p90 tail - avg ETA better,14,20,1.43,1.5,2,-0.003,0.232,16.87
+248,Longer p90 tail - avg ETA better,11,16,1.45,2.0,1,-0.005,0.649,5.38
+815,Longer p90 tail - avg ETA better,10,14,1.4,2.0,0,-0.007,1.285,0.83
+939,Lower contribution - ETA better,15,23,1.53,1.5,0,-0.013,0.0,-8.7
+149,Lower contribution - ETA better,15,15,1.0,2.0,0,-0.014,0.0,-8.61
+563,Lower contribution - ETA better,14,12,0.86,1.5,0,-0.018,-0.013,-2.79
+770,Longer p90 tail - avg ETA better,16,25,1.56,2.0,2,-0.019,0.482,22.67
+788,Lower contribution - ETA better,21,23,1.1,4.0,0,-0.02,0.0,-0.45
+585,Longer p90 tail - avg ETA better,11,15,1.36,3.0,0,-0.02,0.025,-0.28
+163,Lower contribution - ETA better,16,27,1.69,4.0,0,-0.021,-0.298,-0.38
+838,Lower contribution - ETA better,15,13,0.87,1.5,0,-0.022,0.0,-0.28
+135,Lower contribution - ETA better,8,12,1.5,4.0,0,-0.023,0.0,-0.17
+697,Longer p90 tail - avg ETA better,18,22,1.22,1.5,2,-0.028,0.121,27.3
+380,Longer p90 tail - avg ETA better,17,27,1.59,2.0,0,-0.028,0.233,0.38
+703,Longer p90 tail - avg ETA better,14,25,1.79,1.5,0,-0.031,0.011,2.91
+194,Lower contribution - ETA better,16,22,1.38,1.5,0,-0.033,0.0,-0.27
+98,Longer p90 tail - avg ETA better,25,18,0.72,1.5,1,-0.033,0.078,8.27
+379,Longer p90 tail - avg ETA better,10,13,1.3,3.0,2,-0.034,0.413,18.14
+916,Longer p90 tail - avg ETA better,16,22,1.38,3.0,0,-0.036,0.56,-0.14
+167,Lower contribution - ETA better,11,18,1.64,3.0,0,-0.037,0.0,-0.15
+995,Longer p90 tail - avg ETA better,17,15,0.88,1.5,1,-0.038,0.025,10.55
+285,Longer p90 tail - avg ETA better,18,33,1.83,2.0,0,-0.041,0.044,0.03
+764,Longer p90 tail - avg ETA better,15,14,0.93,3.0,1,-0.042,1.483,14.14
+80,Longer p90 tail - avg ETA better,14,18,1.29,2.0,1,-0.046,0.569,6.27
+648,Lower contribution - ETA better,8,12,1.5,2.0,0,-0.047,-0.31,-0.42
+730,Longer p90 tail - avg ETA better,15,18,1.2,4.0,1,-0.047,1.704,17.24
+840,Lower contribution - ETA better,15,11,0.73,1.5,0,-0.052,0.0,-0.0
+631,Longer p90 tail - avg ETA better,15,21,1.4,1.5,0,-0.053,0.146,0.67
+256,Lower contribution - ETA better,7,2,0.29,4.0,0,-0.058,-0.104,-1.33
+902,Longer p90 tail - avg ETA better,18,23,1.28,3.0,1,-0.063,0.54,11.82
+143,Longer p90 tail - avg ETA better,19,26,1.37,3.0,1,-0.066,0.585,11.42
+623,Lower contribution - ETA better,15,8,0.53,1.5,0,-0.068,-0.162,-2.99
+972,Longer p90 tail - avg ETA better,18,32,1.78,2.0,0,-0.068,0.321,-0.14
+727,Longer p90 tail - avg ETA better,14,17,1.21,4.0,0,-0.072,0.096,-0.51
+982,Lower contribution - ETA better,12,8,0.67,1.5,0,-0.079,-0.237,-5.01
+311,Longer p90 tail - avg ETA better,9,10,1.11,1.5,0,-0.085,0.634,0.34
+974,Longer p90 tail - avg ETA better,20,27,1.35,1.5,1,-0.085,1.326,6.02
+349,Longer p90 tail - avg ETA better,15,23,1.53,3.0,0,-0.091,0.247,-0.17
+340,Longer p90 tail - avg ETA better,7,11,1.57,3.0,0,-0.092,0.166,0.01
+391,Lower contribution - ETA better,11,8,0.73,2.0,0,-0.096,-0.084,-0.18
+884,Lower contribution - ETA better,20,25,1.25,3.0,0,-0.096,-0.58,-0.87
+272,Lower contribution - ETA better,11,8,0.73,2.0,0,-0.097,-0.352,-0.17
+822,Longer p90 tail - avg ETA better,14,21,1.5,4.0,0,-0.098,0.133,-0.56
+626,Lower contribution - ETA better,21,30,1.43,3.0,0,-0.098,-0.33,-0.39
+511,Lower contribution - ETA better,9,15,1.67,1.5,0,-0.106,-0.307,-0.04
+786,Lower contribution - ETA better,21,31,1.48,1.5,0,-0.109,-0.149,-1.09
+938,Lower contribution - ETA better,14,15,1.07,1.5,0,-0.111,-0.199,-7.84
+242,Longer p90 tail - avg ETA better,18,37,2.06,3.0,0,-0.113,0.375,0.42
+169,Lower contribution - ETA better,12,14,1.17,1.5,0,-0.117,-0.282,-1.69
+517,Longer p90 tail - avg ETA better,12,13,1.08,3.0,1,-0.128,1.139,6.77
+281,Lower contribution - ETA better,15,23,1.53,2.0,0,-0.136,-0.368,-0.35
+807,Longer p90 tail - avg ETA better,12,27,2.25,2.0,0,-0.139,0.16,0.12
+12,Longer p90 tail - avg ETA better,12,10,0.83,4.0,1,-0.14,0.033,26.58
+607,Lower contribution - ETA better,18,23,1.28,1.5,0,-0.142,-0.549,-10.96
+435,Lower contribution - ETA better,15,14,0.93,1.5,0,-0.145,0.0,-3.85
+767,Lower contribution - ETA better,9,12,1.33,4.0,0,-0.156,-1.839,-0.18
+658,Longer p90 tail - avg ETA better,13,24,1.85,3.0,0,-0.157,0.11,0.6
+758,Longer p90 tail - avg ETA better,15,39,2.6,2.0,0,-0.162,0.023,0.46
+405,Lower contribution - ETA better,14,10,0.71,2.0,0,-0.164,-0.153,-2.91
+569,Lower contribution - ETA better,12,14,1.17,4.0,0,-0.166,-0.075,-0.71
+495,Longer p90 tail - avg ETA better,20,24,1.2,3.0,1,-0.168,0.635,8.46
+713,Longer p90 tail - avg ETA better,14,23,1.64,3.0,0,-0.172,0.105,0.6
+114,Longer p90 tail - avg ETA better,17,25,1.47,1.5,1,-0.177,0.031,11.21
+17,Lower contribution - ETA better,18,21,1.17,1.5,0,-0.182,-0.788,-1.48
+475,Longer p90 tail - avg ETA better,14,20,1.43,2.0,1,-0.187,0.403,8.2
+756,Lower contribution - ETA better,15,18,1.2,3.0,0,-0.19,-0.186,-0.75
+967,Lower contribution - ETA better,9,6,0.67,3.0,0,-0.191,0.0,-6.92
+951,Longer p90 tail - avg ETA better,8,12,1.5,3.0,0,-0.202,0.952,0.16
+614,Longer p90 tail - avg ETA better,15,9,0.6,3.0,2,-0.205,2.298,33.38
+576,Longer p90 tail - avg ETA better,14,12,0.86,4.0,1,-0.206,0.884,10.05
+752,Longer p90 tail - avg ETA better,13,12,0.92,3.0,2,-0.219,0.15,22.22
+980,Lower contribution - ETA better,19,26,1.37,1.5,0,-0.22,-0.382,-6.59
+432,Longer p90 tail - avg ETA better,20,20,1.0,1.5,0,-0.222,0.324,20.64
+512,Longer p90 tail - avg ETA better,13,19,1.46,4.0,0,-0.222,0.002,0.67
+73,Lower contribution - ETA better,14,19,1.36,1.5,0,-0.223,-0.571,-1.58
+28,Longer p90 tail - avg ETA better,18,28,1.56,2.0,1,-0.224,0.086,15.36
+334,Longer p90 tail - avg ETA better,14,29,2.07,2.0,0,-0.226,0.471,0.39
+490,Longer p90 tail - avg ETA better,12,14,1.17,3.0,1,-0.226,0.326,8.25
+789,Lower contribution - ETA better,16,8,0.5,2.0,0,-0.229,-0.467,-12.34
+409,Lower contribution - ETA better,16,15,0.94,2.0,1,-0.232,-2.196,-46.89
+117,Longer p90 tail - avg ETA better,6,11,1.83,3.0,1,-0.236,0.556,6.07
+785,Longer p90 tail - avg ETA better,19,16,0.84,1.5,1,-0.239,0.791,16.03
+659,Lower contribution - ETA better,18,14,0.78,1.5,1,-0.244,-0.192,-7.67
+212,Longer p90 tail - avg ETA better,13,24,1.85,3.0,0,-0.245,0.343,0.94
+312,Lower contribution - ETA better,18,24,1.33,2.0,0,-0.25,-0.075,-0.22
+185,Longer p90 tail - avg ETA better,18,34,1.89,3.0,0,-0.255,0.563,2.39
+942,Longer p90 tail - avg ETA better,9,15,1.67,4.0,0,-0.256,0.036,0.03
+74,Longer p90 tail - avg ETA better,21,16,0.76,4.0,1,-0.257,0.149,13.79
+873,Lower contribution - ETA better,13,7,0.54,2.0,0,-0.261,-0.127,-5.54
+122,Lower contribution - ETA better,17,25,1.47,3.0,0,-0.266,-0.192,-0.22
+90,Longer p90 tail - avg ETA better,15,13,0.87,1.5,1,-0.267,0.031,1.06
+590,Longer p90 tail - avg ETA better,16,15,0.94,2.0,0,-0.267,0.368,-4.08
+266,Longer p90 tail - avg ETA better,17,20,1.18,1.5,1,-0.275,0.107,25.37
+49,Lower contribution - ETA better,17,22,1.29,3.0,0,-0.277,-2.792,-0.68
+115,Longer p90 tail - avg ETA better,17,22,1.29,2.0,1,-0.282,0.315,14.34
+29,Longer p90 tail - avg ETA better,16,14,0.88,3.0,2,-0.287,0.604,21.22
+560,Lower contribution - ETA better,8,4,0.5,2.0,0,-0.287,-0.805,-4.48
+555,Lower contribution - ETA better,14,8,0.57,2.0,0,-0.288,-0.748,-12.71
+325,Lower contribution - ETA better,16,12,0.75,1.5,0,-0.29,0.0,-8.02
+656,Lower contribution - ETA better,21,23,1.1,1.5,0,-0.293,-1.021,-10.76
+883,Lower contribution - ETA better,10,16,1.6,1.5,0,-0.294,-0.647,-2.73
+577,Lower contribution - ETA better,9,11,1.22,3.0,0,-0.294,-0.886,-0.41
+987,Lower contribution - ETA better,12,15,1.25,3.0,0,-0.306,0.0,-2.63
+303,Lower contribution - ETA better,13,19,1.46,2.0,0,-0.318,-0.066,-0.44
+377,Lower contribution - ETA better,15,23,1.53,1.5,0,-0.319,-0.924,-2.56
+661,Lower contribution - ETA better,13,21,1.62,3.0,0,-0.32,-1.838,-0.14
+707,Lower contribution - ETA better,12,5,0.42,3.0,0,-0.327,-0.165,-4.14
+927,Lower contribution - ETA better,13,10,0.77,1.5,0,-0.33,-0.865,-7.52
+616,Lower contribution - ETA better,10,12,1.2,1.5,0,-0.33,-0.209,-0.54
+21,Lower contribution - ETA better,18,18,1.0,1.5,0,-0.336,-1.401,-2.65
+634,Lower contribution - ETA better,12,6,0.5,2.0,0,-0.339,0.0,-14.79
+181,Lower contribution - ETA better,17,26,1.53,4.0,0,-0.348,0.0,-0.35
+571,Longer p90 tail - avg ETA better,15,6,0.4,2.0,1,-0.348,1.291,12.96
+386,Lower contribution - ETA better,9,9,1.0,1.5,0,-0.351,0.0,-2.6
+890,Lower contribution - ETA better,8,3,0.38,2.0,0,-0.352,-0.845,-3.6
+779,Longer p90 tail - avg ETA better,7,9,1.29,4.0,0,-0.353,0.018,-0.11
+35,Lower contribution - ETA better,13,18,1.38,2.0,0,-0.37,-1.835,-11.35
+867,Lower contribution - ETA better,16,19,1.19,1.5,0,-0.376,-1.19,-2.14
+734,Lower contribution - ETA better,17,14,0.82,1.5,0,-0.381,-0.811,-7.18
+591,Lower contribution - ETA better,10,8,0.8,2.0,0,-0.381,-0.772,-1.43
+914,Lower contribution - ETA better,15,12,0.8,1.5,0,-0.385,-0.233,-12.21
+725,Longer p90 tail - avg ETA better,10,14,1.4,4.0,0,-0.385,0.967,1.63
+6,Lower contribution - ETA better,13,11,0.85,2.0,0,-0.402,-0.583,-8.09
+440,Longer p90 tail - avg ETA better,14,18,1.29,4.0,0,-0.406,0.651,1.45
+330,Longer p90 tail - avg ETA better,14,14,1.0,4.0,1,-0.41,0.798,7.8
+690,Longer p90 tail - avg ETA better,8,4,0.5,3.0,1,-0.416,0.27,5.07
+96,Longer p90 tail - avg ETA better,20,15,0.75,3.0,1,-0.417,0.181,11.19
+141,Longer p90 tail - avg ETA better,16,16,1.0,3.0,0,-0.421,0.392,1.81
+79,Lower contribution - ETA better,18,13,0.72,2.0,0,-0.426,-0.197,-4.33
+520,Longer p90 tail - avg ETA better,9,11,1.22,2.0,0,-0.428,0.15,-4.49
+481,Lower contribution - ETA better,13,12,0.92,2.0,0,-0.43,-1.062,-8.28
+245,Lower contribution - ETA better,18,33,1.83,3.0,0,-0.43,-1.035,-0.12
+318,Lower contribution - ETA better,11,10,0.91,3.0,0,-0.431,-1.116,-0.78
+489,Longer p90 tail - avg ETA better,16,10,0.63,1.5,1,-0.437,0.088,2.22
+230,Longer p90 tail - avg ETA better,8,10,1.25,2.0,0,-0.44,0.083,-0.02
+833,Longer p90 tail - avg ETA better,13,9,0.69,2.0,1,-0.443,0.413,8.76
+638,Lower contribution - ETA better,15,16,1.07,1.5,0,-0.451,-0.48,-4.45
+438,Longer p90 tail - avg ETA better,13,7,0.54,2.0,0,-0.452,0.371,2.03
+879,Lower contribution - ETA better,20,11,0.55,1.5,0,-0.453,0.0,-7.84
+427,Longer p90 tail - avg ETA better,13,20,1.54,3.0,0,-0.456,0.06,0.71
+851,Lower contribution - ETA better,21,10,0.48,1.5,1,-0.465,-0.358,-26.58
+85,Lower contribution - ETA better,14,12,0.86,1.5,0,-0.471,-0.572,-5.3
+931,Lower contribution - ETA better,23,12,0.52,1.5,0,-0.475,-0.618,-14.82
+297,Lower contribution - ETA better,17,15,0.88,1.5,0,-0.477,-1.719,-3.63
+989,Lower contribution - ETA better,13,9,0.69,3.0,0,-0.479,-1.666,-0.32
+503,Longer p90 tail - avg ETA better,12,18,1.5,4.0,0,-0.484,0.01,1.87
+722,Lower contribution - ETA better,16,16,1.0,1.5,0,-0.485,-0.17,-27.35
+799,Longer p90 tail - avg ETA better,15,18,1.2,4.0,1,-0.493,0.096,11.01
+909,Longer p90 tail - avg ETA better,17,21,1.24,4.0,0,-0.5,0.215,-0.81
+132,Lower contribution - ETA better,22,14,0.64,2.0,0,-0.534,-0.915,-1.43
+270,Lower contribution - ETA better,13,6,0.46,1.5,0,-0.553,-0.313,-7.77
+125,Lower contribution - ETA better,19,19,1.0,2.0,0,-0.555,-0.755,-3.91
+220,Lower contribution - ETA better,21,20,0.95,1.5,0,-0.559,-0.576,-8.93
+611,Longer p90 tail - avg ETA better,13,20,1.54,3.0,0,-0.56,0.009,2.38
+741,Lower contribution - ETA better,12,18,1.5,2.0,1,-0.56,-1.298,-6.61
+991,Longer p90 tail - avg ETA better,16,14,0.88,4.0,0,-0.563,0.251,16.25
+468,Lower contribution - ETA better,9,8,0.89,4.0,0,-0.566,0.0,-0.72
+787,Lower contribution - ETA better,12,12,1.0,1.5,0,-0.576,-1.018,-1.3
+320,Longer p90 tail - avg ETA better,11,12,1.09,3.0,0,-0.582,0.056,1.14
+152,Longer p90 tail - avg ETA better,19,27,1.42,3.0,0,-0.596,0.081,2.49
+663,Lower contribution - ETA better,12,12,1.0,2.0,0,-0.597,-0.466,-0.75
+506,Longer p90 tail - avg ETA better,13,19,1.46,4.0,0,-0.625,0.269,1.92
+845,Lower contribution - ETA better,14,10,0.71,1.5,0,-0.629,-1.19,-0.11
+170,Lower contribution - ETA better,9,5,0.56,1.5,0,-0.63,-0.076,-10.09
+260,Lower contribution - ETA better,9,6,0.67,3.0,0,-0.635,-1.271,-1.12
+233,Lower contribution - ETA better,17,16,0.94,1.5,0,-0.636,-2.315,-8.41
+123,Lower contribution - ETA better,14,15,1.07,2.0,0,-0.658,0.0,-0.84
+447,Lower contribution - ETA better,13,9,0.69,1.5,0,-0.659,-1.977,-10.14
+760,Lower contribution - ETA better,14,8,0.57,1.5,0,-0.682,-0.643,-3.77
+279,Lower contribution - ETA better,16,17,1.06,1.5,0,-0.689,-1.686,-13.49
+615,Lower contribution - ETA better,12,8,0.67,3.0,0,-0.693,-0.724,-3.75
+915,Lower contribution - ETA better,15,14,0.93,4.0,0,-0.698,-1.425,-0.91
+583,Lower contribution - ETA better,10,6,0.6,2.0,0,-0.707,-0.922,-7.18
+351,Longer p90 tail - avg ETA better,15,18,1.2,4.0,0,-0.709,0.019,0.87
+719,Lower contribution - ETA better,12,10,0.83,4.0,1,-0.72,-1.052,-1.78
+649,Lower contribution - ETA better,11,13,1.18,3.0,0,-0.721,-0.223,-9.17
+768,Lower contribution - ETA better,13,10,0.77,1.5,0,-0.737,-0.517,-2.88
+144,Lower contribution - ETA better,11,4,0.36,3.0,0,-0.766,-0.982,-3.94
+222,Lower contribution - ETA better,21,8,0.38,1.5,0,-0.771,-0.785,-9.98
+214,Longer p90 tail - avg ETA better,13,19,1.46,4.0,0,-0.777,0.057,0.88
+830,Lower contribution - ETA better,14,10,0.71,2.0,1,-0.793,-0.494,-8.62
+396,Lower contribution - ETA better,10,8,0.8,2.0,0,-0.797,-1.906,-10.95
+485,Lower contribution - ETA better,17,15,0.88,2.0,0,-0.807,-1.731,-8.26
+462,Lower contribution - ETA better,13,8,0.62,3.0,0,-0.815,-0.463,-0.65
+488,Lower contribution - ETA better,18,14,0.78,2.0,0,-0.815,-1.093,-7.69
+37,Lower contribution - ETA better,12,10,0.83,2.0,0,-0.823,-1.955,-22.36
+345,Lower contribution - ETA better,13,6,0.46,2.0,0,-0.876,-0.681,-69.45
+137,Lower contribution - ETA better,14,10,0.71,3.0,0,-0.876,-1.482,-15.23
+721,Lower contribution - ETA better,15,11,0.73,3.0,1,-0.922,-2.704,-13.0
+360,Lower contribution - ETA better,11,7,0.64,4.0,0,-0.952,-1.845,-3.93
+502,Longer p90 tail - avg ETA better,23,18,0.78,4.0,1,-1.014,0.492,6.15
+625,Lower contribution - ETA better,16,8,0.5,3.0,0,-1.028,-0.181,-5.05
+207,Lower contribution - ETA better,22,16,0.73,3.0,0,-1.05,-1.183,-17.78
+762,Longer p90 tail - avg ETA better,11,8,0.73,4.0,1,-1.064,0.296,14.03
+862,Lower contribution - ETA better,12,6,0.5,3.0,0,-1.064,-0.205,-2.6
+200,Lower contribution - ETA better,21,19,0.9,4.0,0,-1.087,-5.151,-1.83
+93,Lower contribution - ETA better,16,13,0.81,1.5,0,-1.106,-0.63,-0.42
+941,Lower contribution - ETA better,14,6,0.43,2.0,0,-1.154,-1.693,-9.07
+493,Lower contribution - ETA better,15,5,0.33,2.0,0,-1.168,-0.424,-0.46
+678,Lower contribution - ETA better,15,7,0.47,3.0,0,-1.174,-2.753,-10.9
+339,Lower contribution - ETA better,21,17,0.81,3.0,0,-1.177,-0.91,-25.16
+273,Lower contribution - ETA better,18,11,0.61,3.0,0,-1.181,-0.714,-13.27
+342,Lower contribution - ETA better,12,11,0.92,1.5,0,-1.182,-1.563,-2.02
+1,Lower contribution - ETA better,14,11,0.79,4.0,0,-1.209,-2.494,-21.89
+882,Lower contribution - ETA better,12,3,0.25,1.5,0,-1.216,-0.531,-1.79
+63,Lower contribution - ETA better,15,21,1.4,2.0,0,-1.234,-1.676,-8.55
+383,Lower contribution - ETA better,9,10,1.11,1.5,0,-1.24,-2.396,-12.2
+452,Lower contribution - ETA better,15,6,0.4,4.0,0,-1.27,-2.027,-6.23
+301,Lower contribution - ETA better,15,11,0.73,3.0,0,-1.276,-1.275,-9.54
+766,Lower contribution - ETA better,17,9,0.53,2.0,0,-1.284,-0.069,-11.61
+813,Lower contribution - ETA better,17,13,0.76,3.0,0,-1.285,-0.926,-14.7
+650,Lower contribution - ETA better,19,8,0.42,2.0,0,-1.286,-0.869,-10.74
+998,Longer p90 tail - avg ETA better,12,15,1.25,4.0,0,-1.316,0.103,2.21
+286,Lower contribution - ETA better,16,13,0.81,4.0,0,-1.358,-2.229,-3.52
+108,Lower contribution - ETA better,16,13,0.81,4.0,0,-1.38,-3.382,-3.34
+540,Lower contribution - ETA better,21,12,0.57,4.0,0,-1.42,-3.198,-3.7
+735,Lower contribution - ETA better,10,7,0.7,1.5,0,-1.473,-1.474,-0.81
+138,Lower contribution - ETA better,12,9,0.75,3.0,0,-1.485,-2.654,-3.91
+702,Lower contribution - ETA better,18,14,0.78,3.0,1,-1.517,-1.732,-0.06
+514,Lower contribution - ETA better,15,11,0.73,4.0,0,-1.532,-4.816,-2.24
+264,Lower contribution - ETA better,13,9,0.69,2.0,0,-1.537,-1.953,-0.61
+782,Lower contribution - ETA better,14,7,0.5,4.0,0,-1.543,-2.091,-4.53
+564,Lower contribution - ETA better,20,13,0.65,4.0,0,-1.588,-3.285,-15.18
+271,Lower contribution - ETA better,9,3,0.33,3.0,0,-1.613,-0.394,-1.63
+717,Lower contribution - ETA better,14,11,0.79,4.0,0,-1.648,-5.401,-25.02
+739,Lower contribution - ETA better,23,17,0.74,4.0,0,-1.66,-2.955,-1.36
+913,Lower contribution - ETA better,21,17,0.81,2.0,0,-1.703,-1.91,-16.22
+75,Lower contribution - ETA better,9,7,0.78,4.0,0,-1.72,-3.049,-10.44
+628,Lower contribution - ETA better,14,11,0.79,3.0,0,-1.84,-3.292,-3.69
+549,Lower contribution - ETA better,14,7,0.5,4.0,0,-1.846,-1.177,-30.87
+238,Lower contribution - ETA better,19,11,0.58,2.0,0,-2.136,-4.539,-6.54
+899,Lower contribution - ETA better,12,7,0.58,4.0,0,-2.319,-2.944,-10.44
+613,Lower contribution - ETA better,8,4,0.5,4.0,0,-2.863,-4.36,-4.18
+371,Lower contribution - ETA better,18,11,0.61,4.0,0,-2.883,-6.062,-18.86
+119,Lower contribution - ETA better,11,8,0.73,4.0,0,-2.894,-4.033,-2.84
+968,Lower contribution - ETA better,18,12,0.67,4.0,0,-2.94,-5.248,-0.47
+930,Lower contribution - ETA better,12,6,0.5,3.0,0,-2.99,-2.466,-6.54
+101,Lower contribution - ETA better,20,12,0.6,4.0,0,-3.141,-7.574,-3.06
+523,Lower contribution - ETA better,13,7,0.54,4.0,0,-3.213,-4.664,-7.54
+558,Lower contribution - ETA better,13,3,0.23,4.0,0,-3.215,-4.472,-14.46
+1000,Lower contribution - ETA better,19,5,0.26,3.0,0,-3.28,-6.815,-2.14
+146,Lower contribution - ETA better,11,4,0.36,3.0,0,-3.303,-5.313,-7.24
+990,Lower contribution - ETA better,14,3,0.21,4.0,0,-3.334,-7.032,-2.13
+198,Lower contribution - ETA better,16,11,0.69,4.0,0,-3.412,-4.896,-6.46
+107,Lower contribution - ETA better,20,8,0.4,3.0,0,-3.613,-6.828,-2.52
+227,Lower contribution - ETA better,12,8,0.67,4.0,0,-4.056,-8.194,-3.81
+868,Lower contribution - ETA better,15,5,0.33,4.0,0,-5.721,-6.554,-33.21
+46,Lower contribution - ETA better,13,6,0.46,4.0,0,-6.352,-12.081,-16.13

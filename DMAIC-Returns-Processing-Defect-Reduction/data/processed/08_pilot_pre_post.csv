@@ -1,0 +1,7 @@
+site_group,phase,units,audited_units,defects,upgrade_defects,defect_rate,leakage_usd_per_unit,waste_per_10k_units,mean_cycle_hrs,complaint_rate
+Pilot site (RC-CENTRAL),Baseline,26295,2646,224,62,0.0847,2.058,49.1,15.84,0.0154
+Pilot site (RC-CENTRAL),Pilot,5509,1081,28,8,0.0259,0.834,7.3,10.87,0.0062
+Pilot site (RC-CENTRAL),Control,5667,573,11,3,0.0192,0.941,8.8,10.71,0.0081
+Comparison sites,Baseline,79841,7990,501,136,0.0627,1.767,42.5,14.83,0.011
+Comparison sites,Pilot,17006,1773,105,29,0.0592,1.722,35.9,10.67,0.011
+Comparison sites,Control,16600,1626,54,14,0.0332,1.133,17.5,10.11,0.0064

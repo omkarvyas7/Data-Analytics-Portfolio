@@ -1,0 +1,6 @@
+protocol,windows,riders_requested,riders_matched,match_rate,riders_unmatched,avg_eta_min,avg_window_p90_eta_min,avg_enroute_min_per_window,driver_utilization,avg_contribution_usd_per_window,total_contribution_usd
+batched_min_eta_mdr,1000,14795,11438,0.7731,3357,4.521,6.69,51.71,0.7378,129.28,129276.0
+greedy_first_dispatch_mdr,1000,14795,10849,0.7333,3946,4.847,7.332,52.58,0.6998,122.01,122007.0
+batched_min_eta,1000,14795,12659,0.8556,2136,4.95,7.905,62.66,0.8166,141.45,141455.0
+batched_max_profit_mdr,1000,14795,11438,0.7731,3357,5.024,7.696,57.47,0.7378,136.66,136663.0
+greedy_first_dispatch,1000,14795,12659,0.8556,2136,6.487,11.716,82.12,0.8166,137.97,137968.0

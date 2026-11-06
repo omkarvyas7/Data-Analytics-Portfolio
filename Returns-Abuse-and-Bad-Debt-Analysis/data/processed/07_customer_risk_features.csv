@@ -1,0 +1,9 @@
+signal,customers,pct_of_customers
+customers with scoring-window orders,18953,94.77
+max 90-day return rate >= 50%,1781,8.9
+return $ share >= 40%,1900,9.5
+1+ INR claim,556,2.78
+1+ condition mismatch,1460,7.3
+1+ never-received refund,413,2.06
+address in INR cluster,104,0.52
+account tenure < 180 days,1622,8.11

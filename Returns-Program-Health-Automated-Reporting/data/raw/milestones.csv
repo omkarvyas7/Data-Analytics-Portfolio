@@ -1,0 +1,29 @@
+milestone_id,initiative_id,milestone,owner_role,planned_start,planned_end,actual_start,actual_end,forecast_end,status,pct_complete,depends_on
+M101,INI-1,Grading SOP and condition codes defined,ReCommerce Program Manager,2026-02-02,2026-03-13,2026-02-02,2026-03-20,,Complete,100,
+M102,INI-1,Grading station pilot at 2 sites,Returns Operations Manager,2026-03-16,2026-05-08,2026-03-23,2026-05-22,,Complete,100,M101
+M103,INI-1,Open-box listing integration,Software Development Manager,2026-05-11,2026-07-31,2026-05-26,2026-08-21,,Complete,100,M102
+M104,INI-1,Scale grading to 6 sites,Returns Operations Manager,2026-08-03,2026-10-30,2026-08-24,,2026-11-20,At Risk,70,M103
+M105,INI-1,Price optimization for graded tiers,ReCommerce Analyst,2026-10-05,2026-12-11,2026-10-12,,2026-12-18,On Track,35,
+M106,INI-1,Program review and handoff to operations,ReCommerce Program Manager,2026-12-14,2027-01-15,,,,Not Started,0,M104
+M201,INI-2,Policy thresholds and abuse guardrails,Returns Policy Manager,2026-03-02,2026-04-10,2026-03-02,2026-04-10,,Complete,100,
+M202,INI-2,Abuse-prevention rules with Risk partner,Risk & Abuse Prevention Manager,2026-04-13,2026-05-29,2026-04-13,2026-06-12,,Complete,100,M201
+M203,INI-2,Launch returnless in Beauty/Toys (US),Returns Policy Manager,2026-06-01,2026-06-30,2026-06-01,2026-07-03,,Complete,100,M202
+M204,INI-2,Extend to Apparel and UK/DE,Returns Policy Manager,2026-08-03,2026-10-16,2026-08-10,2026-10-30,,Complete,100,M203
+M205,INI-2,Bad-debt and abuse monitoring dashboard,Business Intelligence Engineer,2026-09-07,2026-11-13,2026-09-07,,2026-11-13,On Track,75,
+M206,INI-2,Expand to CA,Returns Policy Manager,2026-11-16,2026-12-18,,,,Not Started,0,M205
+M301,INI-3,Site selection model and partner shortlist,Reverse Logistics Program Manager,2026-01-12,2026-02-27,2026-01-12,2026-02-27,,Complete,100,
+M302,INI-3,Retail drop-off partner contracts signed,Vendor Manager,2026-03-02,2026-04-24,2026-03-02,2026-05-15,,Complete,100,M301
+M303,INI-3,"Wave 1 go-live (400 points, US)",Reverse Logistics Program Manager,2026-04-27,2026-06-26,2026-05-18,2026-07-10,,Complete,100,M302
+M304,INI-3,"Wave 2 go-live (900 points, US/CA)",Reverse Logistics Program Manager,2026-07-13,2026-10-02,2026-07-20,,2026-11-27,Blocked,55,M402
+M305,INI-3,Carrier consolidation SLA review,Transportation Manager,2026-10-05,2026-11-06,2026-10-12,,2026-11-20,At Risk,40,
+M306,INI-3,Wave 3 plan and business case,Reverse Logistics Program Manager,2026-11-09,2026-12-18,,,,Not Started,0,M304
+M401,INI-4,Customer research and reason taxonomy,UX Researcher,2026-04-06,2026-05-15,2026-04-06,2026-05-22,,Complete,100,
+M402,INI-4,QR label and reason-code API,Software Development Manager,2026-06-01,2026-09-11,2026-06-15,,2026-11-13,At Risk,60,M401
+M403,INI-4,Return-flow UX redesign A/B test,Returns Experience Product Manager,2026-09-14,2026-10-23,,,2026-12-04,Blocked,10,M402
+M404,INI-4,Reason-code data feed to Operations,Data Engineer,2026-10-26,2026-12-04,,,2026-12-18,Not Started,0,M402
+M405,INI-4,Launch to all marketplaces,Returns Experience Product Manager,2026-12-07,2027-01-29,,,,Not Started,0,M403
+M501,INI-5,RFP and partner scoring,Disposition Program Manager,2026-03-02,2026-04-17,2026-03-02,2026-04-17,,Complete,100,
+M502,INI-5,Partner 1 onboarding (US electronics/home),Disposition Program Manager,2026-04-20,2026-06-26,2026-04-20,2026-06-26,,Complete,100,M501
+M503,INI-5,Partner 2 onboarding (EU),Disposition Program Manager,2026-07-06,2026-09-25,2026-07-06,2026-10-09,,Complete,100,M501
+M504,INI-5,Auction price floors and recovery tracking,Finance Partner,2026-09-28,2026-11-20,2026-09-28,,2026-11-20,On Track,50,M502
+M505,INI-5,Partner 3 onboarding (apparel bulk lots),Disposition Program Manager,2026-10-12,2026-12-18,2026-10-12,,2026-12-18,On Track,20,M501

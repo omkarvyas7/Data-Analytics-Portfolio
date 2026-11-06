@@ -1,0 +1,16 @@
+seed_movie,rank,recommended_movie,cosine_similarity
+Toy Story (1995),1,Toy Story 2 (1999),0.573
+Toy Story (1995),2,Jurassic Park (1993),0.566
+Toy Story (1995),3,Independence Day (a.k.a. ID4) (1996),0.564
+Toy Story (1995),4,Star Wars: Episode IV - A New Hope (1977),0.557
+Toy Story (1995),5,Forrest Gump (1994),0.547
+"Matrix, The (1999)",1,Fight Club (1999),0.714
+"Matrix, The (1999)",2,Star Wars: Episode V - The Empire Strikes Back (1980),0.701
+"Matrix, The (1999)",3,Saving Private Ryan (1998),0.68
+"Matrix, The (1999)",4,Star Wars: Episode IV - A New Hope (1977),0.663
+"Matrix, The (1999)",5,Star Wars: Episode VI - Return of the Jedi (1983),0.661
+"Godfather, The (1972)",1,"Godfather: Part II, The (1974)",0.822
+"Godfather, The (1972)",2,Goodfellas (1990),0.665
+"Godfather, The (1972)",3,One Flew Over the Cuckoo's Nest (1975),0.621
+"Godfather, The (1972)",4,Star Wars: Episode IV - A New Hope (1977),0.595
+"Godfather, The (1972)",5,Fargo (1996),0.589

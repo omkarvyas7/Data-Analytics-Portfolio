@@ -1,0 +1,7 @@
+disposition,ladder_rank,recovery_pct_of_price,resellable_flag
+NEW,1,0.9,1
+OPEN_BOX,2,0.72,1
+REFURB,3,0.55,1
+LIQUIDATE,4,0.18,0
+RECYCLE,5,0.03,0
+DESTROY,6,0.0,0

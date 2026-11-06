@@ -1,0 +1,7 @@
+pattern,events,customers,pct_of_customers,refund_dollars,est_loss_dollars,pct_of_pattern_loss
+Serial returners (resale value lost),6464,414,2.07,494234.57,182119.03,39.76
+"Wardrobing (used high-value item, fast return)",569,331,1.66,139975.56,90984.29,19.86
+"Refund issued, item never received (bad debt)",971,710,3.55,80031.84,80031.84,17.47
+INR claims at other addresses,754,724,3.62,54565.97,54565.97,11.91
+INR claims at cluster addresses,235,91,0.46,25596.85,25596.85,5.59
+Empty-box / wrong-item returned,217,128,0.64,24801.17,24801.17,5.41

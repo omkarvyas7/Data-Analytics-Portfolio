@@ -1,0 +1,625 @@
+week_start,kpi,value,t4w_rolling_avg,target,yoy_value,display_name,unit,direction,owner_team
+2025-05-05,contacts_per_return,0.18241435101167003,0.18241435101167003,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-05-12,contacts_per_return,0.18098214561995235,0.1816982483158112,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-05-19,contacts_per_return,0.1813871069318301,0.18159453452115082,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-05-26,contacts_per_return,0.18217895417027347,0.1817406394334315,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-06-02,contacts_per_return,0.1811430819868716,0.18142282217723188,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-06-09,contacts_per_return,0.18184289041121277,0.18163800837504698,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-06-16,contacts_per_return,0.18217371363405352,0.18183466005060284,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-06-23,contacts_per_return,0.18177455941371487,0.18173356136146318,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-06-30,contacts_per_return,0.1827120393800909,0.18212580070976803,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-07-07,contacts_per_return,0.1835042848475656,0.18254114931885623,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-07-14,contacts_per_return,0.18248522190598318,0.18261902638683863,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-07-21,contacts_per_return,0.18259328417254803,0.18282370757654692,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-07-28,contacts_per_return,0.18154453305180074,0.1825318309944744,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-08-04,contacts_per_return,0.18316380749962047,0.1824467116574881,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-08-11,contacts_per_return,0.181805500957405,0.18227678142034356,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-08-18,contacts_per_return,0.18258763591645177,0.1822753693563195,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-08-25,contacts_per_return,0.1803825133175263,0.18198486442275089,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-09-01,contacts_per_return,0.18505857838045414,0.1824585571429593,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-09-08,contacts_per_return,0.18074215227997928,0.18219271997360287,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-09-15,contacts_per_return,0.1817926150345471,0.1819939647531267,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-09-22,contacts_per_return,0.18177323351737165,0.18234164480308804,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-09-29,contacts_per_return,0.18122092624997665,0.18138223177046867,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-10-06,contacts_per_return,0.17989030845973736,0.18116927081540818,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-10-13,contacts_per_return,0.18246569470970508,0.1813375407341977,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-10-20,contacts_per_return,0.18162328098880817,0.1813000526020568,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-10-27,contacts_per_return,0.18291225872308833,0.18172288572033474,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-11-03,contacts_per_return,0.17990226023213196,0.1817258736634334,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-11-10,contacts_per_return,0.1810984111973676,0.18138405278534903,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-11-17,contacts_per_return,0.18255986991931764,0.18161820001797638,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-11-24,contacts_per_return,0.18332079008278546,0.18172033285790068,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-12-01,contacts_per_return,0.19246154358517029,0.18486015369616024,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-12-08,contacts_per_return,0.19476813748595048,0.18827758526830596,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-12-15,contacts_per_return,0.193214026584889,0.1909411244346988,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-12-22,contacts_per_return,0.19463529889256104,0.19376975163714272,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-12-29,contacts_per_return,0.19333859707446807,0.19398901500946714,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-01-05,contacts_per_return,0.19467240238252811,0.19396508123361156,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-01-12,contacts_per_return,0.1929419416258607,0.19389705999385448,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-01-19,contacts_per_return,0.19370493367337577,0.19366446868905818,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-01-26,contacts_per_return,0.191739704080671,0.1932647454406089,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-02-02,contacts_per_return,0.1822317568805856,0.19015458406512326,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-02-09,contacts_per_return,0.18166784046743356,0.18733605877551648,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-02-16,contacts_per_return,0.1810211020842526,0.18416510087823568,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-02-23,contacts_per_return,0.18170204611748675,0.18165568638743962,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-03-02,contacts_per_return,0.1833509438272839,0.1819354831241142,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-03-09,contacts_per_return,0.1808452549961778,0.18172983675630025,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-03-16,contacts_per_return,0.1797588071326329,0.18141426301839533,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-03-23,contacts_per_return,0.18135130612409767,0.18132657802004806,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-03-30,contacts_per_return,0.18233227756982437,0.1810719114556832,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-04-06,contacts_per_return,0.18330319016774238,0.18168639524857433,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-04-13,contacts_per_return,0.1817520047230645,0.18218469464618223,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-04-20,contacts_per_return,0.1806373807724044,0.18200621330825892,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-04-27,contacts_per_return,0.18116211675292898,0.18171367310403508,0.18,,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-05-04,contacts_per_return,0.18010383482170844,0.18091383426752658,0.18,0.18241435101167003,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-05-11,contacts_per_return,0.18204378318521253,0.18098677888306358,0.18,0.18098214561995235,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-05-18,contacts_per_return,0.18150946168146143,0.18120479911032783,0.18,0.1813871069318301,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-05-25,contacts_per_return,0.18354164538137566,0.1817996812674395,0.18,0.18217895417027347,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-06-01,contacts_per_return,0.18310200968439055,0.18254922498311005,0.18,0.1811430819868716,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-06-08,contacts_per_return,0.18205555331400475,0.1825521675153081,0.18,0.18184289041121277,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-06-15,contacts_per_return,0.1815661130842697,0.18256633036601017,0.18,0.18217371363405352,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-06-22,contacts_per_return,0.1806220373640673,0.18183642836168307,0.18,0.18177455941371487,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-06-29,contacts_per_return,0.18265035503464797,0.1817235146992474,0.18,0.1827120393800909,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-07-06,contacts_per_return,0.18142608542414698,0.18156614772678298,0.18,0.1835042848475656,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-07-13,contacts_per_return,0.18196943338509497,0.18166697780198932,0.18,0.18248522190598318,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-07-20,contacts_per_return,0.18020263377538717,0.18156212690481927,0.18,0.18259328417254803,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-07-27,contacts_per_return,0.18069124236489276,0.18107234873738048,0.18,0.18154453305180074,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-08-03,contacts_per_return,0.17984742975119852,0.18067768481914337,0.18,0.18316380749962047,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-08-10,contacts_per_return,0.1782257312123898,0.17974175927596706,0.18,0.181805500957405,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-08-17,contacts_per_return,0.17866569475225,0.17935752452018278,0.18,0.18258763591645177,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-08-24,contacts_per_return,0.17735386545689008,0.1785231802931821,0.18,0.1803825133175263,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-08-31,contacts_per_return,0.1779419925811257,0.17804682100066388,0.18,0.18505857838045414,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-09-07,contacts_per_return,0.17692520824613425,0.1777216902591,0.18,0.18074215227997928,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-09-14,contacts_per_return,0.1774241393149418,0.17741130139977296,0.18,0.1817926150345471,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-09-21,contacts_per_return,0.17616865046886326,0.17711499765276625,0.18,0.18177323351737165,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-09-28,contacts_per_return,0.17797307449231467,0.1771227681305635,0.18,0.18122092624997665,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-10-05,contacts_per_return,0.1821928130739886,0.17843966933752708,0.18,0.17989030845973736,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-10-12,contacts_per_return,0.1875195423330361,0.18096352009205066,0.18,0.18246569470970508,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-10-19,contacts_per_return,0.18962729451178373,0.18432818110278076,0.18,0.18162328098880817,Customer contacts per return,ratio,lower,Returns Experience Tech
+2026-10-26,contacts_per_return,0.19227894151065633,0.18790464785736619,0.18,0.18291225872308833,Customer contacts per return,ratio,lower,Returns Experience Tech
+2025-05-05,cost_per_return,7.223887039919288,7.223887039919288,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-05-12,cost_per_return,7.261416963208219,7.242652001563753,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-05-19,cost_per_return,7.2363197767391325,7.240541259955546,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-05-26,cost_per_return,7.258188512697967,7.244953073141152,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-06-02,cost_per_return,7.268083142320016,7.256002098741334,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-06-09,cost_per_return,7.267258705146182,7.257462534225825,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-06-16,cost_per_return,7.263781004797144,7.264327841240327,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-06-23,cost_per_return,7.2610713662537085,7.265048554629263,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-06-30,cost_per_return,7.2479136609132455,7.26000618427757,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-07-07,cost_per_return,7.2759224271955105,7.262172114789902,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-07-14,cost_per_return,7.28834235135896,7.268312451430356,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-07-21,cost_per_return,7.274801784979587,7.2717450561118255,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-07-28,cost_per_return,7.251299323190619,7.272591471681169,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-08-04,cost_per_return,7.263983730580436,7.2696067975274,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-08-11,cost_per_return,7.2461655613183025,7.259062600017236,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-08-18,cost_per_return,7.263534298316613,7.256245728351493,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-08-25,cost_per_return,7.256344362614072,7.257506988207355,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-09-01,cost_per_return,7.250988435412693,7.25425816441542,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-09-08,cost_per_return,7.262399813278938,7.258316727405579,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-09-15,cost_per_return,7.247745457102133,7.254369517101959,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-09-22,cost_per_return,7.255718605196599,7.254213077747591,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-09-29,cost_per_return,7.271440127535293,7.259326000778241,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-10-06,cost_per_return,7.288116410465234,7.265755150074815,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-10-13,cost_per_return,7.262120845388247,7.269348997146343,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-10-20,cost_per_return,7.264810310649325,7.2716219235095245,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-10-27,cost_per_return,7.277195967891611,7.273060883598604,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-11-03,cost_per_return,7.251596718463653,7.263930960598209,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-11-10,cost_per_return,7.293690238971742,7.271823308994083,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-11-17,cost_per_return,7.284883588248999,7.276841628394001,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-11-24,cost_per_return,7.2524886282417205,7.2706647934815285,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-12-01,cost_per_return,7.210797880410448,7.260465083968227,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-12-08,cost_per_return,7.241779449621116,7.247487386630571,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-12-15,cost_per_return,7.235371948974741,7.235109476812006,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-12-22,cost_per_return,7.259432981098162,7.236845565026117,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2025-12-29,cost_per_return,7.237391663896276,7.243494010897574,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-01-05,cost_per_return,7.290350524723457,7.255636779673159,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-01-12,cost_per_return,7.278705645598375,7.266470203829067,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-01-19,cost_per_return,7.256377263636864,7.265706274463743,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-01-26,cost_per_return,7.277934454811045,7.275841972192435,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-02-02,cost_per_return,7.257400523927081,7.267604471993341,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-02-09,cost_per_return,7.253738738033753,7.261362745102185,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-02-16,cost_per_return,7.257291406026942,7.261591280699705,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-02-23,cost_per_return,7.28258175953329,7.262753106880266,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-03-02,cost_per_return,7.272338121483851,7.266487506269459,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-03-09,cost_per_return,7.236996660593276,7.26230198690934,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-03-16,cost_per_return,7.276607942790582,7.26713112110025,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-03-23,cost_per_return,7.251948712918136,7.259472859446461,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-03-30,cost_per_return,7.276152663403397,7.260426494926348,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-04-06,cost_per_return,7.251601844415039,7.264077790881789,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-04-13,cost_per_return,7.271526455466202,7.262807419050693,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-04-20,cost_per_return,7.211748036675649,7.252757249990072,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-04-27,cost_per_return,7.241280628756357,7.244039241328312,6.8,,Cost per return,usd,lower,Reverse Logistics Ops
+2026-05-04,cost_per_return,7.235116970895476,7.239918022948421,6.8,7.223887039919288,Cost per return,usd,lower,Reverse Logistics Ops
+2026-05-11,cost_per_return,7.272831653368921,7.2402443224241,6.8,7.261416963208219,Cost per return,usd,lower,Reverse Logistics Ops
+2026-05-18,cost_per_return,7.24336416596507,7.248148354746456,6.8,7.2363197767391325,Cost per return,usd,lower,Reverse Logistics Ops
+2026-05-25,cost_per_return,7.250538546243005,7.250462834118117,6.8,7.258188512697967,Cost per return,usd,lower,Reverse Logistics Ops
+2026-06-01,cost_per_return,7.241765436664316,7.252124950560328,6.8,7.268083142320016,Cost per return,usd,lower,Reverse Logistics Ops
+2026-06-08,cost_per_return,7.19614919505911,7.232954335982876,6.8,7.267258705146182,Cost per return,usd,lower,Reverse Logistics Ops
+2026-06-15,cost_per_return,7.286981241752939,7.243858604929843,6.8,7.263781004797144,Cost per return,usd,lower,Reverse Logistics Ops
+2026-06-22,cost_per_return,7.240190131517799,7.241271501248542,6.8,7.2610713662537085,Cost per return,usd,lower,Reverse Logistics Ops
+2026-06-29,cost_per_return,7.251021701314626,7.2435855674111185,6.8,7.2479136609132455,Cost per return,usd,lower,Reverse Logistics Ops
+2026-07-06,cost_per_return,7.260699517589268,7.259723148043658,6.8,7.2759224271955105,Cost per return,usd,lower,Reverse Logistics Ops
+2026-07-13,cost_per_return,7.2289776296279,7.245222245012398,6.8,7.28834235135896,Cost per return,usd,lower,Reverse Logistics Ops
+2026-07-20,cost_per_return,7.192907701938236,7.233401637617508,6.8,7.274801784979587,Cost per return,usd,lower,Reverse Logistics Ops
+2026-07-27,cost_per_return,7.120964159310036,7.20088725211636,6.8,7.251299323190619,Cost per return,usd,lower,Reverse Logistics Ops
+2026-08-03,cost_per_return,7.15499790040942,7.174461847821398,6.8,7.263983730580436,Cost per return,usd,lower,Reverse Logistics Ops
+2026-08-10,cost_per_return,7.107447054158698,7.144079203954098,6.8,7.2461655613183025,Cost per return,usd,lower,Reverse Logistics Ops
+2026-08-17,cost_per_return,7.07414793869885,7.1143892631442505,6.8,7.263534298316613,Cost per return,usd,lower,Reverse Logistics Ops
+2026-08-24,cost_per_return,7.062137168681348,7.099682515487078,6.8,7.256344362614072,Cost per return,usd,lower,Reverse Logistics Ops
+2026-08-31,cost_per_return,7.059511989952391,7.075811037872821,6.8,7.250988435412693,Cost per return,usd,lower,Reverse Logistics Ops
+2026-09-07,cost_per_return,7.056884060106938,7.063170289359881,6.8,7.262399813278938,Cost per return,usd,lower,Reverse Logistics Ops
+2026-09-14,cost_per_return,7.0277090276687195,7.051560561602349,6.8,7.247745457102133,Cost per return,usd,lower,Reverse Logistics Ops
+2026-09-21,cost_per_return,7.070974440521011,7.053769879562265,6.8,7.255718605196599,Cost per return,usd,lower,Reverse Logistics Ops
+2026-09-28,cost_per_return,7.066616067063355,7.0555458988400055,6.8,7.271440127535293,Cost per return,usd,lower,Reverse Logistics Ops
+2026-10-05,cost_per_return,7.056674103989073,7.0554934098105395,6.8,7.288116410465234,Cost per return,usd,lower,Reverse Logistics Ops
+2026-10-12,cost_per_return,7.075439659065906,7.067426067659836,6.8,7.262120845388247,Cost per return,usd,lower,Reverse Logistics Ops
+2026-10-19,cost_per_return,7.098892294628109,7.074405531186611,6.8,7.264810310649325,Cost per return,usd,lower,Reverse Logistics Ops
+2026-10-26,cost_per_return,7.0526564671616905,7.070915631211195,6.8,7.277195967891611,Cost per return,usd,lower,Reverse Logistics Ops
+2025-05-05,liquidation_pct,0.3444055725620041,0.3444055725620041,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-05-12,liquidation_pct,0.34543306393836176,0.34491931825018296,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-05-19,liquidation_pct,0.3474436986387303,0.34576077837969876,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-05-26,liquidation_pct,0.3474902519031999,0.346193146760574,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-06-02,liquidation_pct,0.3466655674496474,0.34675814548248485,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-06-09,liquidation_pct,0.34556383052144835,0.3467908371282565,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-06-16,liquidation_pct,0.3471735175053671,0.3467232918449157,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-06-23,liquidation_pct,0.3469735234731532,0.346594109737404,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-06-30,liquidation_pct,0.3475114279321037,0.3468055748580181,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-07-07,liquidation_pct,0.3460819907358365,0.3469351149116151,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-07-14,liquidation_pct,0.3465956014077528,0.34679063588721154,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-07-21,liquidation_pct,0.3437445741294492,0.34598339855128557,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-07-28,liquidation_pct,0.34642745490854104,0.3457124052953949,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-08-04,liquidation_pct,0.3460283824568163,0.34569900322563984,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-08-11,liquidation_pct,0.34418332055980266,0.34509593301365227,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-08-18,liquidation_pct,0.343524286314824,0.345040861059996,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-08-25,liquidation_pct,0.345911146309685,0.344911783910282,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-09-01,liquidation_pct,0.34828236346786823,0.345475279163045,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-09-08,liquidation_pct,0.3459030024294864,0.3459051996304659,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-09-15,liquidation_pct,0.3479756480652154,0.34701804006806375,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-09-22,liquidation_pct,0.34751467257001645,0.34741892163314664,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-09-29,liquidation_pct,0.34778648551205904,0.3472949521441943,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-10-06,liquidation_pct,0.3441328508658568,0.34685241425328694,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-10-13,liquidation_pct,0.3463439937497598,0.346444500674423,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-10-20,liquidation_pct,0.34345212185443835,0.3454288629955285,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-10-27,liquidation_pct,0.34796590902397795,0.34547371887350825,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-11-03,liquidation_pct,0.34577255517905015,0.34588364495180657,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-11-10,liquidation_pct,0.34561166171612306,0.3457005619433974,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-11-17,liquidation_pct,0.3444536751707416,0.3459509502724732,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-11-24,liquidation_pct,0.34524462140665724,0.34527062836814304,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-12-01,liquidation_pct,0.34643764182558645,0.3454369000297771,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-12-08,liquidation_pct,0.3448152703011201,0.34523780217602634,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-12-15,liquidation_pct,0.34603531824534023,0.34563321294467597,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-12-22,liquidation_pct,0.346632599339516,0.3459802074278907,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-12-29,liquidation_pct,0.3455952471370583,0.3457696087557587,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-01-05,liquidation_pct,0.3448414888766229,0.34577616339963435,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-01-12,liquidation_pct,0.3478652072574817,0.34623363565266974,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-01-19,liquidation_pct,0.34675796534376746,0.3462649771537326,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-01-26,liquidation_pct,0.34489147190333486,0.3460890333453017,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-02-02,liquidation_pct,0.3453880558612119,0.34622567509144897,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-02-09,liquidation_pct,0.3446557947011093,0.34542332195235587,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-02-16,liquidation_pct,0.3455299986289957,0.34511633027366295,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-02-23,liquidation_pct,0.34561586582392095,0.3452974287538095,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-03-02,liquidation_pct,0.345420699493734,0.34530558966193997,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-03-09,liquidation_pct,0.3489134939210525,0.3463700144669258,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-03-16,liquidation_pct,0.34391353744179615,0.3459658991701259,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-03-23,liquidation_pct,0.3466572110115402,0.3462262354670307,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-03-30,liquidation_pct,0.34648569023569026,0.3464924831525198,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-04-06,liquidation_pct,0.3458055206879157,0.34571548984423556,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-04-13,liquidation_pct,0.3454542279550865,0.34610066247255816,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-04-20,liquidation_pct,0.3475232606541711,0.3463171748832159,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-04-27,liquidation_pct,0.34263760299110796,0.3453551530720703,0.36,,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-05-04,liquidation_pct,0.3459978358861005,0.34540323187161653,0.36,0.3444055725620041,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-05-11,liquidation_pct,0.34647000121137306,0.34565717518568817,0.36,0.34543306393836176,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-05-18,liquidation_pct,0.34643716305053024,0.34538565078477795,0.36,0.3474436986387303,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-05-25,liquidation_pct,0.3459858724836082,0.346222718157903,0.36,0.3474902519031999,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-06-01,liquidation_pct,0.3444696743001649,0.3458406777614191,0.36,0.3466655674496474,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-06-08,liquidation_pct,0.3431189546920075,0.3450029161315777,0.36,0.34556383052144835,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-06-15,liquidation_pct,0.34203425656407016,0.34390218950996265,0.36,0.3471735175053671,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-06-22,liquidation_pct,0.3432022137129843,0.3432062748173067,0.36,0.3469735234731532,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-06-29,liquidation_pct,0.34414970993410493,0.34312628372579174,0.36,0.3475114279321037,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-07-06,liquidation_pct,0.34533234760400566,0.34367963195379125,0.36,0.3460819907358365,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-07-13,liquidation_pct,0.34457184998394214,0.3443140303087593,0.36,0.3465956014077528,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-07-20,liquidation_pct,0.348207312744054,0.34556530506652666,0.36,0.3437445741294492,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-07-27,liquidation_pct,0.3483512760000238,0.3466156965830064,0.36,0.34642745490854104,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-08-03,liquidation_pct,0.35089783873549896,0.3480070693658797,0.36,0.3460283824568163,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-08-10,liquidation_pct,0.3529612388257961,0.3501044165763432,0.36,0.34418332055980266,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-08-17,liquidation_pct,0.35291952302790386,0.35128246914730565,0.36,0.343524286314824,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-08-24,liquidation_pct,0.35592077388092214,0.35317484361753027,0.36,0.345911146309685,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-08-31,liquidation_pct,0.35861601736273485,0.3551043882743392,0.36,0.34828236346786823,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-09-07,liquidation_pct,0.3535330298333979,0.3552473360262397,0.36,0.3459030024294864,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-09-14,liquidation_pct,0.355218945647049,0.35582219168102597,0.36,0.3479756480652154,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-09-21,liquidation_pct,0.3546417011463882,0.3555024234973925,0.36,0.34751467257001645,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-09-28,liquidation_pct,0.35367824394304814,0.3542679801424708,0.36,0.34778648551205904,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-10-05,liquidation_pct,0.3555672523111176,0.3547765357619007,0.36,0.3441328508658568,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-10-12,liquidation_pct,0.35553217166943113,0.35485484226749625,0.36,0.3463439937497598,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-10-19,liquidation_pct,0.35777015724322514,0.3556369562917055,0.36,0.34345212185443835,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2026-10-26,liquidation_pct,0.3552754488289438,0.3560362575131794,0.36,0.34796590902397795,Liquidated share of dispositions,pct,lower,Liquidation & Disposition
+2025-05-05,recovery_rate,0.3474913684754379,0.3474913684754379,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-05-12,recovery_rate,0.34891524580847333,0.3482033071419556,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-05-19,recovery_rate,0.3494901321910783,0.3486322488249965,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-05-26,recovery_rate,0.3499976835999179,0.34897360751872686,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-06-02,recovery_rate,0.3487515376007087,0.34928864980004454,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-06-09,recovery_rate,0.3491262999793769,0.34934141334277047,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-06-16,recovery_rate,0.34576364440883894,0.3484097913972106,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-06-23,recovery_rate,0.3471023829144087,0.3476859662258333,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-06-30,recovery_rate,0.3445339922188156,0.34663157988036003,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-07-07,recovery_rate,0.3503529847595889,0.34693825107541304,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-07-14,recovery_rate,0.3515829842654488,0.34839308603956554,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-07-21,recovery_rate,0.3472875522828207,0.3484393783816685,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-07-28,recovery_rate,0.34603684671340895,0.34881509200531685,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-08-04,recovery_rate,0.34547729633242036,0.3475961698985247,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-08-11,recovery_rate,0.3479682150800913,0.34669247760218536,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-08-18,recovery_rate,0.3534479964331026,0.3482325886397558,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-08-25,recovery_rate,0.34900652487306943,0.3489750081796709,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-09-01,recovery_rate,0.34712482684421125,0.34938689080761864,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-09-08,recovery_rate,0.34765301237240964,0.34930809013069825,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-09-15,recovery_rate,0.3480097062102802,0.3479485175749926,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-09-22,recovery_rate,0.3490498308051213,0.3479593440580056,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-09-29,recovery_rate,0.3457302939878678,0.34761071084391976,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-10-06,recovery_rate,0.3494298642720952,0.3480549238188411,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-10-13,recovery_rate,0.3461760186997616,0.3475965019412115,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-10-20,recovery_rate,0.3494842492842528,0.34770510656099435,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-10-27,recovery_rate,0.34497393289587736,0.3475160162879968,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-11-03,recovery_rate,0.3481826539002745,0.34720421369504156,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-11-10,recovery_rate,0.35010467288097163,0.34818637724034407,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-11-17,recovery_rate,0.35161328128847075,0.34871863524139857,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-11-24,recovery_rate,0.34826992759396097,0.34954263391591944,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-12-01,recovery_rate,0.34935760725591175,0.3498363722548288,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-12-08,recovery_rate,0.34930280187954227,0.34963590450447146,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-12-15,recovery_rate,0.34668376110913,0.34840352445963624,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-12-22,recovery_rate,0.3484736905828711,0.3484544652068638,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-12-29,recovery_rate,0.34707267345878084,0.34788323175758107,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-01-05,recovery_rate,0.3465729094197603,0.34720075864263555,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-01-12,recovery_rate,0.348415490758395,0.3476336910549518,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-01-19,recovery_rate,0.34722484254445035,0.3473214790453466,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-01-26,recovery_rate,0.3479372496501454,0.34753762309318775,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-02-02,recovery_rate,0.3469250873374761,0.3476256675726167,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-02-09,recovery_rate,0.35157401298606666,0.34841529812953465,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-02-16,recovery_rate,0.34757314125200595,0.34850237280642354,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-02-23,recovery_rate,0.34897292939533425,0.3487612927427207,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-03-02,recovery_rate,0.35113192839261503,0.3498130030065055,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-03-09,recovery_rate,0.3465487931122074,0.3485566980380407,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-03-16,recovery_rate,0.3477979037184755,0.34861288865465806,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-03-23,recovery_rate,0.35001719411718335,0.3488739548351203,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-03-30,recovery_rate,0.34642323895791927,0.34769678247644636,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-04-06,recovery_rate,0.3489848732570677,0.34830580251266147,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-04-13,recovery_rate,0.3464879365238891,0.34797831071401486,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-04-20,recovery_rate,0.34602926187181404,0.34698132765267253,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-04-27,recovery_rate,0.3510261444756646,0.34813205403210884,0.36,,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-05-04,recovery_rate,0.35281469956665823,0.3490895106095065,0.36,0.3474913684754379,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-05-11,recovery_rate,0.3480489190321089,0.34947975623656147,0.36,0.34891524580847333,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-05-18,recovery_rate,0.3462348004492549,0.34953114088092163,0.36,0.3494901321910783,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-05-25,recovery_rate,0.35277898860766893,0.34996935191392275,0.36,0.3499976835999179,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-06-01,recovery_rate,0.34897752322850467,0.3490100578293843,0.36,0.3487515376007087,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-06-08,recovery_rate,0.35178777889310664,0.34994477279463376,0.36,0.3491262999793769,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-06-15,recovery_rate,0.35073929388818303,0.3510708961543658,0.36,0.34576364440883894,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-06-22,recovery_rate,0.35210053411405573,0.35090128253096253,0.36,0.3471023829144087,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-06-29,recovery_rate,0.35461781508697626,0.3523113554955804,0.36,0.3445339922188156,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-07-06,recovery_rate,0.360827177907686,0.35457120524922525,0.36,0.3503529847595889,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-07-13,recovery_rate,0.362164853758352,0.3574275952167675,0.36,0.3515829842654488,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-07-20,recovery_rate,0.3671386928107031,0.36118713489092935,0.36,0.3472875522828207,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-07-27,recovery_rate,0.37063447942145294,0.3651913009745485,0.36,0.34603684671340895,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-08-03,recovery_rate,0.3752864500719447,0.3688061190156132,0.36,0.34547729633242036,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-08-10,recovery_rate,0.3752144949040639,0.37206852930204115,0.36,0.3479682150800913,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-08-17,recovery_rate,0.3764989574077347,0.37440859545129906,0.36,0.3534479964331026,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-08-24,recovery_rate,0.38307515795880287,0.37751876508563653,0.36,0.34900652487306943,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-08-31,recovery_rate,0.3787793135138711,0.37839198094611814,0.36,0.34712482684421125,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-09-07,recovery_rate,0.38533824565388625,0.38092291863357375,0.36,0.34765301237240964,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-09-14,recovery_rate,0.38204667702042455,0.3823098485367462,0.36,0.3480097062102802,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-09-21,recovery_rate,0.3847748973619141,0.382734783387524,0.36,0.3490498308051213,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-09-28,recovery_rate,0.3851155628094306,0.3843188457114139,0.36,0.3457302939878678,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-10-05,recovery_rate,0.37914263891367733,0.38276994402636166,0.36,0.3494298642720952,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-10-12,recovery_rate,0.3844421132027721,0.38336880307194854,0.36,0.3461760186997616,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-10-19,recovery_rate,0.38778139019300323,0.3841204262797208,0.36,0.3494842492842528,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2026-10-26,recovery_rate,0.38554728838531516,0.38422835767369196,0.36,0.34497393289587736,Recovery rate ($ recovered / $ refunded),pct,higher,Liquidation & Disposition
+2025-05-05,refund_cycle_days,3.4664622717923796,3.4664622717923796,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-05-12,refund_cycle_days,3.475483630491116,3.4709729511417478,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-05-19,refund_cycle_days,3.4804648934436546,3.4741369319090496,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-05-26,refund_cycle_days,3.485224439472818,3.476908808799992,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-06-02,refund_cycle_days,3.450288947391432,3.472865477699755,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-06-09,refund_cycle_days,3.4791456893232273,3.473780992407783,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-06-16,refund_cycle_days,3.4777036526284255,3.4730906822039755,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-06-23,refund_cycle_days,3.482591590923802,3.472432470066722,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-06-30,refund_cycle_days,3.456815008204185,3.4740639852699102,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-07-07,refund_cycle_days,3.4674512345796047,3.4711403715840046,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-07-14,refund_cycle_days,3.4799478791823386,3.4717014282224827,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-07-21,refund_cycle_days,3.460093188373641,3.4660768275849425,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-07-28,refund_cycle_days,3.48524056478287,3.4731832167296135,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-08-04,refund_cycle_days,3.487243576362532,3.4781313021753455,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-08-11,refund_cycle_days,3.468493080476969,3.4752676024990032,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-08-18,refund_cycle_days,3.4781325356640163,3.4797774393215968,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-08-25,refund_cycle_days,3.4657403936220708,3.474902396531397,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-09-01,refund_cycle_days,3.500049026408051,3.478103759042777,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-09-08,refund_cycle_days,3.4748415559853307,3.479690877919867,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-09-15,refund_cycle_days,3.471219684718946,3.4779626651835995,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-09-22,refund_cycle_days,3.454049978764809,3.4750400614692842,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-09-29,refund_cycle_days,3.4878644834614816,3.471993925732642,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-10-06,refund_cycle_days,3.470079260448113,3.470803351848337,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-10-13,refund_cycle_days,3.4742073172012855,3.4715502599689225,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-10-20,refund_cycle_days,3.4479129768762777,3.4700160094967893,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-10-27,refund_cycle_days,3.4848758255878534,3.4692688450283824,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-11-03,refund_cycle_days,3.465448280168245,3.4681110999584153,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-11-10,refund_cycle_days,3.458228052442227,3.464116283768651,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-11-17,refund_cycle_days,3.4931003592749836,3.4754131293683272,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-11-24,refund_cycle_days,3.4794983133666877,3.4740687513130357,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-12-01,refund_cycle_days,3.8412231427996986,3.5680124669708992,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-12-08,refund_cycle_days,3.83594275346555,3.6624411422267302,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-12-15,refund_cycle_days,3.8126748940297994,3.7423347759154337,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-12-22,refund_cycle_days,3.8268642114340605,3.829176250432277,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-12-29,refund_cycle_days,3.814460726257757,3.8224856462967916,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-01-05,refund_cycle_days,3.826386873246983,3.8200966762421498,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-01-12,refund_cycle_days,3.831880558291663,3.824898092307616,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-01-19,refund_cycle_days,3.813470703447517,3.82154971531098,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-01-26,refund_cycle_days,3.7910534468947317,3.8156978954702234,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-02-02,refund_cycle_days,3.4941523781546127,3.7326392716971313,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-02-09,refund_cycle_days,3.496095032331619,3.64869289020712,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-02-16,refund_cycle_days,3.4663098389873768,3.561902674092085,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-02-23,refund_cycle_days,3.4573072288514237,3.478466119581258,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-03-02,refund_cycle_days,3.493168080265776,3.478220045109049,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-03-09,refund_cycle_days,3.478065050416803,3.4737125496303447,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-03-16,refund_cycle_days,3.4676613989031773,3.474050439609295,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-03-23,refund_cycle_days,3.4771463386016843,3.47901021704686,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-03-30,refund_cycle_days,3.468052140320568,3.4727312320605583,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-04-06,refund_cycle_days,3.4803754509436833,3.473308832192278,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-04-13,refund_cycle_days,3.4876733653171925,3.478311823795782,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-04-20,refund_cycle_days,3.454873304761685,3.472743565335782,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-04-27,refund_cycle_days,3.485936956036388,3.4772147692647373,3.3,,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-05-04,refund_cycle_days,3.457834823210152,3.4715796123313543,3.3,3.4664622717923796,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-05-11,refund_cycle_days,3.4713874613134954,3.46750813633043,3.3,3.475483630491116,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-05-18,refund_cycle_days,3.477090219821408,3.4730623650953607,3.3,3.4804648934436546,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-05-25,refund_cycle_days,3.487464524514979,3.4734442572150086,3.3,3.485224439472818,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-06-01,refund_cycle_days,3.4740808929747717,3.4775057746561635,3.3,3.450288947391432,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-06-08,refund_cycle_days,3.4725675044541693,3.477800785441332,3.3,3.4791456893232273,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-06-15,refund_cycle_days,3.4684140855800316,3.475631751880988,3.3,3.4777036526284255,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-06-22,refund_cycle_days,3.46488780226632,3.469987571318823,3.3,3.482591590923802,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-06-29,refund_cycle_days,3.4542453256147754,3.465028679478824,3.3,3.456815008204185,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-07-06,refund_cycle_days,3.469333876687887,3.4642202725372533,3.3,3.4674512345796047,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-07-13,refund_cycle_days,3.461111965436438,3.4623947425013553,3.3,3.4799478791823386,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-07-20,refund_cycle_days,3.428349174628404,3.453260085591876,3.3,3.460093188373641,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-07-27,refund_cycle_days,3.4183875447481604,3.4442956403752225,3.3,3.48524056478287,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-08-03,refund_cycle_days,3.3874230384151796,3.4238179308070453,3.3,3.487243576362532,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-08-10,refund_cycle_days,3.3829459822192165,3.40427643500274,3.3,3.468493080476969,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-08-17,refund_cycle_days,3.3652864400823725,3.3885107513662325,3.3,3.4781325356640163,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-08-24,refund_cycle_days,3.361619799441969,3.3743188150396843,3.3,3.4657403936220708,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-08-31,refund_cycle_days,3.3570067470864857,3.366714742207511,3.3,3.500049026408051,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-09-07,refund_cycle_days,3.332205001837322,3.3540294971120375,3.3,3.4748415559853307,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-09-14,refund_cycle_days,3.348130577706429,3.3497405315180515,3.3,3.471219684718946,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-09-21,refund_cycle_days,3.324148917376248,3.3403728110016213,3.3,3.454049978764809,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-09-28,refund_cycle_days,3.3789690430196004,3.3458633849849,3.3,3.4878644834614816,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-10-05,refund_cycle_days,3.4832729173534904,3.383630363863942,3.3,3.470079260448113,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-10-12,refund_cycle_days,3.595424374314661,3.445453813016,3.3,3.4742073172012855,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-10-19,refund_cycle_days,3.704800863209934,3.5406167994744213,3.3,3.4479129768762777,Refund cycle time,days,lower,Reverse Logistics Ops
+2026-10-26,refund_cycle_days,3.7671810255246028,3.6376697951006722,3.3,3.4848758255878534,Refund cycle time,days,lower,Reverse Logistics Ops
+2025-05-05,resale_pct,0.4767164365590054,0.4767164365590054,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-05-12,resale_pct,0.47633890976734833,0.4765276731631769,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-05-19,resale_pct,0.47634401856847125,0.4764664549649417,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-05-26,resale_pct,0.4758432877390605,0.47631066315847137,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-06-02,resale_pct,0.4769418091421034,0.4763670063042459,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-06-09,resale_pct,0.4773093742745462,0.4766096224310453,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-06-16,resale_pct,0.4782135144834012,0.47707699640977785,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-06-23,resale_pct,0.47739399578451663,0.47746467342114185,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-06-30,resale_pct,0.4768788159703353,0.47744892512819986,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-07-07,resale_pct,0.4781492859275238,0.47765890304144426,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-07-14,resale_pct,0.47713036959863797,0.47738811682025345,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-07-21,resale_pct,0.4799395517829009,0.4780245058198495,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-07-28,resale_pct,0.4752547260697857,0.4776184833447121,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-08-04,resale_pct,0.47599049637192575,0.47707878595581255,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-08-11,resale_pct,0.4774294933309289,0.4771535668888853,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-08-18,resale_pct,0.4813441866982586,0.4775047256177247,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-08-25,resale_pct,0.47758858544311883,0.478088190461058,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-09-01,resale_pct,0.47493688684370305,0.47782478807900236,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-09-08,resale_pct,0.4762118200361175,0.4775203697552995,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-09-15,resale_pct,0.4760634500305048,0.4762001855883611,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-09-22,resale_pct,0.4759254015650741,0.4757843896188499,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-09-29,resale_pct,0.4761949942124139,0.4760989164610276,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-10-06,resale_pct,0.4783794262083226,0.47664081800407887,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-10-13,resale_pct,0.47610692009170436,0.47665168551937875,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-10-20,resale_pct,0.48248452847328677,0.4782914672464319,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-10-27,resale_pct,0.4745348419434448,0.4778764291791896,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-11-03,resale_pct,0.47744118516794887,0.4776418689190962,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-11-10,resale_pct,0.4775755080434079,0.4780090159070221,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-11-17,resale_pct,0.4777963465643988,0.4768369704298001,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-11-24,resale_pct,0.47793742846975773,0.4776876170613783,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-12-01,resale_pct,0.47561727003591664,0.4772316382783703,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-12-08,resale_pct,0.4772005920776476,0.4771379092869302,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-12-15,resale_pct,0.4774351621626527,0.4770476131864937,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-12-22,resale_pct,0.47563682952959846,0.47647246345145383,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2025-12-29,resale_pct,0.47739605222073134,0.4769171589976575,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-01-05,resale_pct,0.47735246826177735,0.47695512804368995,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-01-12,resale_pct,0.4750625768750329,0.476361981721785,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-01-19,resale_pct,0.47731973169368364,0.4767827072628063,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-01-26,resale_pct,0.478744386890457,0.4771197909302377,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-02-02,resale_pct,0.47806664586378494,0.4772983353307396,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-02-09,resale_pct,0.4802603335788977,0.4785977745067058,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-02-16,resale_pct,0.4777739108425349,0.47871131929391864,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-02-23,resale_pct,0.47587198771566525,0.47799321950022067,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-03-02,resale_pct,0.47662071805102096,0.4776317375470297,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-03-09,resale_pct,0.47580969946710716,0.4765190790190821,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-03-16,resale_pct,0.4776043843486758,0.47647669739561727,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-03-23,resale_pct,0.4757620691474086,0.47644921775355314,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-03-30,resale_pct,0.47515081369248036,0.476081741663918,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-04-06,resale_pct,0.4757985992984761,0.4760789666217602,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-04-13,resale_pct,0.4765624545248171,0.47581848416579553,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-04-20,resale_pct,0.4763699895055902,0.47597046425534095,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-04-27,resale_pct,0.47973386925926564,0.47711622814703725,0.5,,Resold share of dispositions,pct,higher,ReCommerce
+2026-05-04,resale_pct,0.4776615997083654,0.4775819782495096,0.5,0.4767164365590054,Resold share of dispositions,pct,higher,ReCommerce
+2026-05-11,resale_pct,0.47642148860444056,0.47754673676941545,0.5,0.47633890976734833,Resold share of dispositions,pct,higher,ReCommerce
+2026-05-18,resale_pct,0.4773070452940467,0.47778100071652957,0.5,0.47634401856847125,Resold share of dispositions,pct,higher,ReCommerce
+2026-05-25,resale_pct,0.4781979926481603,0.47739703156375324,0.5,0.4758432877390605,Resold share of dispositions,pct,higher,ReCommerce
+2026-06-01,resale_pct,0.47693228424072803,0.4772147026968439,0.5,0.4769418091421034,Resold share of dispositions,pct,higher,ReCommerce
+2026-06-08,resale_pct,0.4801137527282515,0.4781377687277967,0.5,0.4773093742745462,Resold share of dispositions,pct,higher,ReCommerce
+2026-06-15,resale_pct,0.48136317744097207,0.479151801764528,0.5,0.4782135144834012,Resold share of dispositions,pct,higher,ReCommerce
+2026-06-22,resale_pct,0.4778599201128097,0.47906728363069034,0.5,0.47739399578451663,Resold share of dispositions,pct,higher,ReCommerce
+2026-06-29,resale_pct,0.48294087987620765,0.48056943253956025,0.5,0.4768788159703353,Resold share of dispositions,pct,higher,ReCommerce
+2026-07-06,resale_pct,0.48342406523735915,0.48139701066683716,0.5,0.4781492859275238,Resold share of dispositions,pct,higher,ReCommerce
+2026-07-13,resale_pct,0.4855598244341093,0.48244617241512144,0.5,0.47713036959863797,Resold share of dispositions,pct,higher,ReCommerce
+2026-07-20,resale_pct,0.48554017276062006,0.48436623557707403,0.5,0.4799395517829009,Resold share of dispositions,pct,higher,ReCommerce
+2026-07-27,resale_pct,0.488690472652047,0.48580363377103386,0.5,0.4752547260697857,Resold share of dispositions,pct,higher,ReCommerce
+2026-08-03,resale_pct,0.4882259471213008,0.4870041042420193,0.5,0.47599049637192575,Resold share of dispositions,pct,higher,ReCommerce
+2026-08-10,resale_pct,0.4879611789907016,0.4876044428811674,0.5,0.4774294933309289,Resold share of dispositions,pct,higher,ReCommerce
+2026-08-17,resale_pct,0.48923433426667956,0.48852798325768226,0.5,0.4813441866982586,Resold share of dispositions,pct,higher,ReCommerce
+2026-08-24,resale_pct,0.49169008957397164,0.4892778874881634,0.5,0.47758858544311883,Resold share of dispositions,pct,higher,ReCommerce
+2026-08-31,resale_pct,0.4897718143338489,0.48966435429130045,0.5,0.47493688684370305,Resold share of dispositions,pct,higher,ReCommerce
+2026-09-07,resale_pct,0.4942367299496319,0.491233242031033,0.5,0.4762118200361175,Resold share of dispositions,pct,higher,ReCommerce
+2026-09-14,resale_pct,0.49263815031661623,0.49208419604351716,0.5,0.4760634500305048,Resold share of dispositions,pct,higher,ReCommerce
+2026-09-21,resale_pct,0.4936675414207046,0.4925785590052004,0.5,0.4759254015650741,Resold share of dispositions,pct,higher,ReCommerce
+2026-09-28,resale_pct,0.49306465237564734,0.49340176851565004,0.5,0.4761949942124139,Resold share of dispositions,pct,higher,ReCommerce
+2026-10-05,resale_pct,0.491360534340061,0.49268271961325727,0.5,0.4783794262083226,Resold share of dispositions,pct,higher,ReCommerce
+2026-10-12,resale_pct,0.4935288067678515,0.4929053837260661,0.5,0.47610692009170436,Resold share of dispositions,pct,higher,ReCommerce
+2026-10-19,resale_pct,0.49385245901639346,0.4929516131249883,0.5,0.48248452847328677,Resold share of dispositions,pct,higher,ReCommerce
+2026-10-26,resale_pct,0.495551581153741,0.49357334531951175,0.5,0.4745348419434448,Resold share of dispositions,pct,higher,ReCommerce
+2025-05-05,return_rate,0.09504839455670142,0.09504839455670142,0.095,,Return rate,pct,lower,Returns Policy
+2025-05-12,return_rate,0.0944922179955381,0.09477030627611976,0.095,,Return rate,pct,lower,Returns Policy
+2025-05-19,return_rate,0.09468956650918493,0.09474339302047481,0.095,,Return rate,pct,lower,Returns Policy
+2025-05-26,return_rate,0.095088873740395,0.09482976320045486,0.095,,Return rate,pct,lower,Returns Policy
+2025-06-02,return_rate,0.09439154649422282,0.09466555118483522,0.095,,Return rate,pct,lower,Returns Policy
+2025-06-09,return_rate,0.09547898143642825,0.09491224204505774,0.095,,Return rate,pct,lower,Returns Policy
+2025-06-16,return_rate,0.09540704368018364,0.09509161133780743,0.095,,Return rate,pct,lower,Returns Policy
+2025-06-23,return_rate,0.09501956727572243,0.09507428472163929,0.095,,Return rate,pct,lower,Returns Policy
+2025-06-30,return_rate,0.09389184665431025,0.09494935976166113,0.095,,Return rate,pct,lower,Returns Policy
+2025-07-07,return_rate,0.09466177001752114,0.09474505690693437,0.095,,Return rate,pct,lower,Returns Policy
+2025-07-14,return_rate,0.09509660456373284,0.09466744712782166,0.095,,Return rate,pct,lower,Returns Policy
+2025-07-21,return_rate,0.09438899726066682,0.09450980462405777,0.095,,Return rate,pct,lower,Returns Policy
+2025-07-28,return_rate,0.09535688796498984,0.09487606495172766,0.095,,Return rate,pct,lower,Returns Policy
+2025-08-04,return_rate,0.09467401758519213,0.09487912684364541,0.095,,Return rate,pct,lower,Returns Policy
+2025-08-11,return_rate,0.09426676062382291,0.09467166585866793,0.095,,Return rate,pct,lower,Returns Policy
+2025-08-18,return_rate,0.09531375958932455,0.09490285644083235,0.095,,Return rate,pct,lower,Returns Policy
+2025-08-25,return_rate,0.09568015828648144,0.09498367402120525,0.095,,Return rate,pct,lower,Returns Policy
+2025-09-01,return_rate,0.09527256805954573,0.09513331163979366,0.095,,Return rate,pct,lower,Returns Policy
+2025-09-08,return_rate,0.09416504639818682,0.09510788308338464,0.095,,Return rate,pct,lower,Returns Policy
+2025-09-15,return_rate,0.09405055248004357,0.0947920813060644,0.095,,Return rate,pct,lower,Returns Policy
+2025-09-22,return_rate,0.0946720172736509,0.09454004605285676,0.095,,Return rate,pct,lower,Returns Policy
+2025-09-29,return_rate,0.09504314681755228,0.09448269074235839,0.095,,Return rate,pct,lower,Returns Policy
+2025-10-06,return_rate,0.09419978015576096,0.09449137418175194,0.095,,Return rate,pct,lower,Returns Policy
+2025-10-13,return_rate,0.0943897676444235,0.09457617797284691,0.095,,Return rate,pct,lower,Returns Policy
+2025-10-20,return_rate,0.09554222189501582,0.09479372912818815,0.095,,Return rate,pct,lower,Returns Policy
+2025-10-27,return_rate,0.09432974377407606,0.09461537836731909,0.095,,Return rate,pct,lower,Returns Policy
+2025-11-03,return_rate,0.094770301783637,0.0947580087742881,0.095,,Return rate,pct,lower,Returns Policy
+2025-11-10,return_rate,0.09374458656142,0.09459671350353722,0.095,,Return rate,pct,lower,Returns Policy
+2025-11-17,return_rate,0.09433905563614084,0.09429592193881847,0.095,,Return rate,pct,lower,Returns Policy
+2025-11-24,return_rate,0.09481310147612405,0.09441676136433047,0.095,,Return rate,pct,lower,Returns Policy
+2025-12-01,return_rate,0.1017621536864921,0.09616472434004425,0.095,,Return rate,pct,lower,Returns Policy
+2025-12-08,return_rate,0.10252569089885155,0.09836000042440213,0.095,,Return rate,pct,lower,Returns Policy
+2025-12-15,return_rate,0.10338982549782011,0.10062269288982195,0.095,,Return rate,pct,lower,Returns Policy
+2025-12-22,return_rate,0.10124145076351533,0.10222978021166977,0.095,,Return rate,pct,lower,Returns Policy
+2025-12-29,return_rate,0.11074891282987312,0.10447646999751503,0.095,,Return rate,pct,lower,Returns Policy
+2026-01-05,return_rate,0.12055615173183351,0.10898408520576051,0.095,,Return rate,pct,lower,Returns Policy
+2026-01-12,return_rate,0.11989081264457832,0.11310933199245007,0.095,,Return rate,pct,lower,Returns Policy
+2026-01-19,return_rate,0.12156696772351618,0.11819071123245029,0.095,,Return rate,pct,lower,Returns Policy
+2026-01-26,return_rate,0.11881374369666273,0.12020691894914769,0.095,,Return rate,pct,lower,Returns Policy
+2026-02-02,return_rate,0.10356477361917915,0.11595907442098409,0.095,,Return rate,pct,lower,Returns Policy
+2026-02-09,return_rate,0.1052482752372664,0.11229844006915611,0.095,,Return rate,pct,lower,Returns Policy
+2026-02-16,return_rate,0.10569404116819528,0.1083302084303259,0.095,,Return rate,pct,lower,Returns Policy
+2026-02-23,return_rate,0.1027055129836086,0.10430315075206235,0.095,,Return rate,pct,lower,Returns Policy
+2026-03-02,return_rate,0.09560015943825317,0.10231199720683086,0.095,,Return rate,pct,lower,Returns Policy
+2026-03-09,return_rate,0.0950665995671315,0.09976657828929714,0.095,,Return rate,pct,lower,Returns Policy
+2026-03-16,return_rate,0.09396831654916021,0.09683514713453836,0.095,,Return rate,pct,lower,Returns Policy
+2026-03-23,return_rate,0.09430709462272319,0.09473554254431701,0.095,,Return rate,pct,lower,Returns Policy
+2026-03-30,return_rate,0.09447877260839216,0.09445519583685176,0.095,,Return rate,pct,lower,Returns Policy
+2026-04-06,return_rate,0.0940786798553564,0.09420821590890799,0.095,,Return rate,pct,lower,Returns Policy
+2026-04-13,return_rate,0.09486082406680924,0.09443134278832024,0.095,,Return rate,pct,lower,Returns Policy
+2026-04-20,return_rate,0.09397593758760948,0.09434855352954181,0.095,,Return rate,pct,lower,Returns Policy
+2026-04-27,return_rate,0.09573880642533776,0.09466356198377822,0.095,,Return rate,pct,lower,Returns Policy
+2026-05-04,return_rate,0.09479697399108275,0.09484313551770981,0.095,0.09504839455670142,Return rate,pct,lower,Returns Policy
+2026-05-11,return_rate,0.09596546671004581,0.09511929617851896,0.095,0.0944922179955381,Return rate,pct,lower,Returns Policy
+2026-05-18,return_rate,0.09545139274669301,0.09548815996828983,0.095,0.09468956650918493,Return rate,pct,lower,Returns Policy
+2026-05-25,return_rate,0.0951679746244663,0.09534545201807197,0.095,0.095088873740395,Return rate,pct,lower,Returns Policy
+2026-06-01,return_rate,0.09416105892697026,0.09518647325204385,0.095,0.09439154649422282,Return rate,pct,lower,Returns Policy
+2026-06-08,return_rate,0.09511494977560479,0.09497384401843359,0.095,0.09547898143642825,Return rate,pct,lower,Returns Policy
+2026-06-15,return_rate,0.09462770981151027,0.0947679232846379,0.095,0.09540704368018364,Return rate,pct,lower,Returns Policy
+2026-06-22,return_rate,0.09455744310838149,0.0946152904056167,0.095,0.09501956727572243,Return rate,pct,lower,Returns Policy
+2026-06-29,return_rate,0.09570447466930415,0.09500114434120017,0.095,0.09389184665431025,Return rate,pct,lower,Returns Policy
+2026-07-06,return_rate,0.0951423876868393,0.0950080038190088,0.095,0.09466177001752114,Return rate,pct,lower,Returns Policy
+2026-07-13,return_rate,0.09474860903767365,0.09503822862554964,0.095,0.09509660456373284,Return rate,pct,lower,Returns Policy
+2026-07-20,return_rate,0.0950774410959961,0.0951682281224533,0.095,0.09438899726066682,Return rate,pct,lower,Returns Policy
+2026-07-27,return_rate,0.09446580077453755,0.09485855964876165,0.095,0.09535688796498984,Return rate,pct,lower,Returns Policy
+2026-08-03,return_rate,0.09444199948554882,0.09468346259843903,0.095,0.09467401758519213,Return rate,pct,lower,Returns Policy
+2026-08-10,return_rate,0.09505191951159356,0.094759290216919,0.095,0.09426676062382291,Return rate,pct,lower,Returns Policy
+2026-08-17,return_rate,0.09462591803733728,0.0946464094522543,0.095,0.09531375958932455,Return rate,pct,lower,Returns Policy
+2026-08-24,return_rate,0.09552221414580825,0.09491051279507198,0.095,0.09568015828648144,Return rate,pct,lower,Returns Policy
+2026-08-31,return_rate,0.09490063941582208,0.09502517277764029,0.095,0.09527256805954573,Return rate,pct,lower,Returns Policy
+2026-09-07,return_rate,0.09455046293948037,0.09489980863461199,0.095,0.09416504639818682,Return rate,pct,lower,Returns Policy
+2026-09-14,return_rate,0.09516100107599729,0.09503357939427699,0.095,0.09405055248004357,Return rate,pct,lower,Returns Policy
+2026-09-21,return_rate,0.09515835712032648,0.09494261513790656,0.095,0.0946720172736509,Return rate,pct,lower,Returns Policy
+2026-09-28,return_rate,0.09384524224507461,0.09467876584521968,0.095,0.09504314681755228,Return rate,pct,lower,Returns Policy
+2026-10-05,return_rate,0.0942764455964013,0.09461026150944993,0.095,0.09419978015576096,Return rate,pct,lower,Returns Policy
+2026-10-12,return_rate,0.09528380949858786,0.09464096361509756,0.095,0.0943897676444235,Return rate,pct,lower,Returns Policy
+2026-10-19,return_rate,0.09525846307274641,0.09466599010320255,0.095,0.09554222189501582,Return rate,pct,lower,Returns Policy
+2026-10-26,return_rate,0.09518666858518952,0.09500134668823128,0.095,0.09432974377407606,Return rate,pct,lower,Returns Policy
+2025-05-05,waste_units,14631.0,14631.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-05-12,waste_units,14592.0,14611.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-05-19,waste_units,14213.0,14478.666666666666,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-05-26,waste_units,14385.0,14455.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-06-02,waste_units,14257.0,14361.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-06-09,waste_units,14435.0,14322.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-06-16,waste_units,14058.0,14283.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-06-23,waste_units,14114.0,14216.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-06-30,waste_units,13969.0,14144.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-07-07,waste_units,18643.0,15196.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-07-14,waste_units,14037.0,15190.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-07-21,waste_units,14030.0,15169.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-07-28,waste_units,14103.0,15203.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-08-04,waste_units,13913.0,14020.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-08-11,waste_units,14115.0,14040.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-08-18,waste_units,14021.0,14038.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-08-25,waste_units,14062.0,14027.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-09-01,waste_units,14142.0,14085.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-09-08,waste_units,13851.0,14019.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-09-15,waste_units,13877.0,13983.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-09-22,waste_units,13932.0,13950.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-09-29,waste_units,14080.0,13935.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-10-06,waste_units,14003.0,13973.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-10-13,waste_units,14028.0,14010.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-10-20,waste_units,13957.0,14017.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-10-27,waste_units,15285.0,14318.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-11-03,waste_units,18600.0,15467.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-11-10,waste_units,18473.0,16578.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-11-17,waste_units,18677.0,17758.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-11-24,waste_units,18741.0,18622.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-12-01,waste_units,24056.0,19986.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-12-08,waste_units,24816.0,21572.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-12-15,waste_units,24663.0,23069.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-12-22,waste_units,24737.0,24568.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2025-12-29,waste_units,21216.0,23858.0,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-01-05,waste_units,18997.0,22403.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-01-12,waste_units,18857.0,20951.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-01-19,waste_units,19339.0,19602.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-01-26,waste_units,18612.0,18951.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-02-02,waste_units,16383.0,18297.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-02-09,waste_units,16937.0,17817.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-02-16,waste_units,17019.0,17237.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-02-23,waste_units,16903.0,16810.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-03-02,waste_units,15535.0,16598.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-03-09,waste_units,15046.0,16125.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-03-16,waste_units,15401.0,15721.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-03-23,waste_units,15519.0,15375.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-03-30,waste_units,15724.0,15422.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-04-06,waste_units,15602.0,15561.5,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-04-13,waste_units,15642.0,15621.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-04-20,waste_units,15309.0,15569.25,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-04-27,waste_units,15690.0,15560.75,11000.0,,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-05-04,waste_units,15635.0,15569.0,11000.0,14631.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-05-11,waste_units,15683.0,15579.25,11000.0,14592.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-05-18,waste_units,15547.0,15638.75,11000.0,14213.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-05-25,waste_units,15617.0,15620.5,11000.0,14385.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-06-01,waste_units,15514.0,15590.25,11000.0,14257.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-06-08,waste_units,15439.0,15529.25,11000.0,14435.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-06-15,waste_units,15405.0,15493.75,11000.0,14058.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-06-22,waste_units,15488.0,15461.5,11000.0,14114.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-06-29,waste_units,14834.0,15291.5,11000.0,13969.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-07-06,waste_units,19062.0,16197.25,11000.0,18643.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-07-13,waste_units,13963.0,15836.75,11000.0,14037.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-07-20,waste_units,13500.0,15339.75,11000.0,14030.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-07-27,waste_units,12767.0,14823.0,11000.0,14103.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-08-03,waste_units,12552.0,13195.5,11000.0,13913.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-08-10,waste_units,12097.0,12729.0,11000.0,14115.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-08-17,waste_units,11730.0,12286.5,11000.0,14021.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-08-24,waste_units,11011.0,11847.5,11000.0,14062.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-08-31,waste_units,10894.0,11433.0,11000.0,14142.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-09-07,waste_units,10902.0,11134.25,11000.0,13851.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-09-14,waste_units,11137.0,10986.0,11000.0,13877.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-09-21,waste_units,11036.0,10992.25,11000.0,13932.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-09-28,waste_units,10873.0,10987.0,11000.0,14080.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-10-05,waste_units,11045.0,11022.75,11000.0,14003.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-10-12,waste_units,10834.0,10947.0,11000.0,14028.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-10-19,waste_units,10515.0,10816.75,11000.0,13957.0,Waste (landfill) units,units,lower,Liquidation & Disposition
+2026-10-26,waste_units,10829.0,10805.75,11000.0,15285.0,Waste (landfill) units,units,lower,Liquidation & Disposition

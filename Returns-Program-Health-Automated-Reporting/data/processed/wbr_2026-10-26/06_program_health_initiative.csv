@@ -1,0 +1,6 @@
+initiative_id,initiative,owner_role,team,primary_kpi,milestones_total,milestones_complete,avg_pct_complete,milestones_at_risk,blocked_by_dependency,max_slip_days,avg_slip_days,open_high_risks,open_risks,program_rag,next_milestone,next_milestone_planned_end
+INI-3,Drop-off point expansion,Reverse Logistics Program Manager,Reverse Logistics Ops,refund_cycle_days,6,3,65.8,2,1,56,17.5,2,3,Red,"Wave 2 go-live (900 points, US/CA)",2026-10-02
+INI-4,Return reason capture redesign,Returns Experience Product Manager,Returns Experience Tech,contacts_per_return,5,1,34.0,3,2,63,25.2,1,2,Red,QR label and reason-code API,2026-09-11
+INI-1,Grade-and-resell open-box electronics,ReCommerce Program Manager,ReCommerce,resale_pct,6,3,67.5,1,0,21,11.7,1,2,Amber,Scale grading to 6 sites,2026-10-30
+INI-2,Returnless refunds for low-value items,Returns Policy Manager,Returns Policy,cost_per_return,6,4,79.2,0,0,14,5.2,1,1,Amber,Bad-debt and abuse monitoring dashboard,2026-11-13
+INI-5,Liquidation partner onboarding,Disposition Program Manager,Liquidation & Disposition,recovery_rate,5,3,74.0,0,0,14,2.8,0,1,Green,Auction price floors and recovery tracking,2026-11-20

@@ -1,0 +1,4 @@
+test,statistic,dof,p_value,group_a,rate_a,group_b,rate_b
+Chi-square: tier x loss event,2060.433488057708,2.0,0.0,All tiers,,,
+Two-proportion z-test: High vs Low,44.022125939693105,,0.0,High,0.5910852713178295,Low,0.06313390313390313
+Two-proportion z-test: Medium vs Low,20.456799508525947,,5.225802744954237e-93,Medium,0.23113207547169812,Low,0.06313390313390313

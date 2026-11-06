@@ -1,0 +1,4 @@
+sop_version,effective_from,effective_to,scope,has_checklist,requires_photo,change_summary
+v2.1,2024-01-15,2025-09-30,All sites,0,0,Legacy grading SOP; open-box and electronics criteria described in free text
+v2.2,2025-10-01,2026-04-30,All sites (RC-CENTRAL until 2026-02-28),0,0,"Peak-season refresh; layout changes only, grading criteria unchanged"
+v3.0,2026-03-01,,RC-CENTRAL pilot from 2026-03-01; all sites from 2026-05-01,1,1,"Visual open-box/electronics grading matrix, 8-point grading checklist, mandatory photo capture"

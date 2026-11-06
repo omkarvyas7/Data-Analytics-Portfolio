@@ -1,0 +1,20 @@
+{
+  "n_active_customers": 19126,
+  "base_loss_event_rate": 0.08668827773711178,
+  "loss_event_rate_by_tier": {
+    "High": 0.5910852713178295,
+    "Low": 0.06313390313390313,
+    "Medium": 0.23113207547169812
+  },
+  "lift_high_vs_low": 9.362406598942156,
+  "chi2": 2060.433488057708,
+  "chi2_p_value": 0.0,
+  "z_high_vs_low": 44.022125939693105,
+  "p_high_vs_low": 0.0,
+  "z_med_vs_low": 20.456799508525947,
+  "p_med_vs_low": 5.225802744954237e-93,
+  "logit_pseudo_r2": 0.10161694959279477,
+  "logit_llr_p_value": 4.593387587125777e-242,
+  "score_odds_ratio_per_point": 1.9348087726977834,
+  "score_auc": 0.6746277805108662
+}

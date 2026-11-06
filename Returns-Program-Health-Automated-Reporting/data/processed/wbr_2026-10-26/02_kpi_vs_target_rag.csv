@@ -1,0 +1,9 @@
+sort_order,kpi,display_name,unit,direction,actual,target,variance_abs,variance_pct,rag,weeks_missed_last_4,owner_team,initiative_id
+1,return_rate,Return rate,pct,lower,0.09518666858518952,0.095,0.00018666858518952278,0.001964932475679187,Amber,3,Returns Policy,INI-2
+2,refund_cycle_days,Refund cycle time,days,lower,3.7671810255246028,3.3,0.46718102552460294,0.14157000773472816,Red,4,Reverse Logistics Ops,INI-3
+3,contacts_per_return,Customer contacts per return,ratio,lower,0.19227894151065633,0.18,0.012278941510656338,0.06821634172586855,Red,4,Returns Experience Tech,INI-4
+4,resale_pct,Resold share of dispositions,pct,higher,0.495551581153741,0.5,-0.004448418846259017,0.008896837692518034,Amber,4,ReCommerce,INI-1
+5,liquidation_pct,Liquidated share of dispositions,pct,lower,0.3552754488289438,0.36,-0.0047245511710561905,-0.013123753252933863,Green,0,Liquidation & Disposition,INI-5
+6,recovery_rate,Recovery rate ($ recovered / $ refunded),pct,higher,0.38554728838531516,0.36,0.02554728838531517,-0.07096468995920881,Green,0,Liquidation & Disposition,INI-5
+7,waste_units,Waste (landfill) units,units,lower,10829.0,11000.0,-171.0,-0.015545454545454545,Green,1,Liquidation & Disposition,INI-5
+8,cost_per_return,Cost per return,usd,lower,7.0526564671616905,6.8,0.25265646716169066,0.037155362817895686,Amber,4,Reverse Logistics Ops,INI-3

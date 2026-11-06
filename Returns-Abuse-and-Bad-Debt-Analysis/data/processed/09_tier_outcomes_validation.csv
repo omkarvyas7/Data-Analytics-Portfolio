@@ -1,0 +1,4 @@
+risk_tier,customers,active_customers,good_customers,customers_with_loss_event,loss_event_rate_pct,perf_return_rate_pct,loss_dollars,loss_dollars_per_active_customer,pct_of_loss_dollars,pct_of_active_customers
+High,519,516,211,305,59.11,44.78,48395.83,93.79,31.3,2.7
+Medium,1083,1060,815,245,23.11,30.91,24287.97,22.91,15.71,5.54
+Low,18398,17550,16442,1108,6.31,14.12,81938.19,4.67,52.99,91.76

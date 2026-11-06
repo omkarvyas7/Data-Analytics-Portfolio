@@ -1,0 +1,10 @@
+risk_id,initiative_id,initiative,risk,likelihood,impact,severity,risk_level,status,owner_role,mitigation,opened_date,target_close_date,days_open,past_target_close,needs_escalation
+R04,INI-3,Drop-off point expansion,QR label API slip blocks Wave 2 drop-off go-live,5,4,20,High,Open,Software Development Manager,(none recorded),2026-09-14,2026-10-30,48,1,1
+R05,INI-3,Drop-off point expansion,Carrier linehaul consolidation lengthens US mail-in transit,5,4,20,High,Open,Transportation Manager,(none recorded),2026-10-12,2026-11-06,20,0,1
+R07,INI-4,Return reason capture redesign,Engineering capacity shared with peak code freeze,4,4,16,High,Open,Software Development Manager,Request 2 additional SDEs; descope phase-2 fields,2026-08-24,2026-11-06,69,0,0
+R01,INI-1,Grade-and-resell open-box electronics,Grading labor not staffed at 4 of 6 scale sites before peak,4,4,16,High,Open,Returns Operations Manager,Cross-train inbound associates; stagger site launches,2026-09-14,2026-11-13,48,0,0
+R03,INI-2,Returnless refunds for low-value items,Returnless refunds increase abuse / bad debt in new categories,3,5,15,High,Mitigating,Risk & Abuse Prevention Manager,Per-customer frequency caps; abuse dashboard (M205),2026-04-20,2026-11-13,195,0,0
+R02,INI-1,Grade-and-resell open-box electronics,Open-box price erosion if graded supply outpaces demand,3,3,9,Medium,Mitigating,ReCommerce Analyst,Tiered price floors; weekly sell-through review,2026-07-06,2026-12-11,118,0,0
+R06,INI-3,Drop-off point expansion,Retail partner capacity limits during holiday peak,3,3,9,Medium,Open,Vendor Manager,Peak capacity clauses; overflow to carrier pickup,2026-08-03,2026-12-18,90,0,0
+R08,INI-4,Return reason capture redesign,Reason taxonomy change breaks downstream reports,2,3,6,Low,Mitigating,Data Engineer,Mapping table and parallel run for 4 weeks,2026-06-01,2026-12-04,153,0,0
+R10,INI-5,Liquidation partner onboarding,Liquidation lot quality disputes delay payment,3,2,6,Low,Open,Finance Partner,Standard lot manifest and photo audit,2026-10-12,2026-12-18,20,0,0

@@ -1,0 +1,22 @@
+disney_genre,genre_rank,title,release_year,genre_films,adj_gross_musd,pct_of_genre,cumulative_pct
+Action,1,The Avengers,2012,20,660.1,16.0,16.0
+Action,2,Avengers: Age of Ultron,2015,20,459.0,11.2,27.2
+Action,3,Iron Man 3,2013,20,424.1,10.3,37.5
+Adventure,1,Rogue One: A Star Wars Story,2016,33,529.5,8.2,8.2
+Adventure,2,Toy Story 3,2010,33,443.4,6.9,15.0
+Adventure,3,Frozen,2013,33,415.0,6.4,21.5
+Comedy,1,Cars,2006,43,314.1,7.6,7.6
+Comedy,2,The Waterboy,1998,43,288.7,7.0,14.7
+Comedy,3,Sister Act,1992,43,283.6,6.9,21.6
+Drama,1,Dead Poets Society,1989,27,202.5,11.3,11.3
+Drama,2,Remember the Titans,2000,27,180.7,10.1,21.4
+Drama,3,The Help,2011,27,180.4,10.1,31.4
+Romantic Comedy,1,Pretty Woman,1990,10,356.4,29.2,29.2
+Romantic Comedy,2,The Proposal,2009,10,184.3,15.1,44.3
+Romantic Comedy,3,While You Were Sleeping,1995,10,157.1,12.9,57.2
+Thriller/Suspense,1,The Sixth Sense,1999,11,485.4,31.2,31.2
+Thriller/Suspense,2,Signs,2002,11,330.8,21.3,52.5
+Thriller/Suspense,3,The Village,2004,11,155.0,10.0,62.5
+Western,1,The Lone Ranger,2013,3,92.6,33.9,33.9
+Western,2,Hidalgo,2004,3,91.3,33.5,67.4
+Western,3,Shanghai Noon,2000,3,89.0,32.6,100.0

@@ -1,0 +1,924 @@
+audit_id,op_date,week_start,month,phase,site_id,shift,category,tenure_band,sop_version,assigned_disposition,audited_disposition,defect_direction,defect_cause,recovery_leakage_usd,waste_flag
+AU000010,2025-07-01,2025-06-30,2025-07,Baseline,RC-WEST,Day,Beauty & Personal Care,90-364 days,v2.1,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU000019,2025-07-01,2025-06-30,2025-07,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,4.78,0
+AU000042,2025-07-02,2025-06-30,2025-07,Baseline,RC-WEST,Day,Tools & Home Improvement,365+ days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,28.57,0
+AU000056,2025-07-02,2025-06-30,2025-07,Baseline,RC-WEST,Day,Electronics,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),Functional test skipped,25.05,0
+AU000097,2025-07-03,2025-06-30,2025-07,Baseline,RC-WEST,Swing,Toys & Games,365+ days,v2.1,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,7.19,0
+AU000116,2025-07-04,2025-06-30,2025-07,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.1,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,2.22,0
+AU000155,2025-07-05,2025-06-30,2025-07,Baseline,RC-SOUTH,Swing,Home & Kitchen,90-364 days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,19.52,0
+AU000180,2025-07-06,2025-06-30,2025-07,Baseline,RC-WEST,Swing,Electronics,90-364 days,v2.1,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,96.19,1
+AU000182,2025-07-06,2025-06-30,2025-07,Baseline,RC-WEST,Swing,Beauty & Personal Care,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,3.5,0
+AU000185,2025-07-06,2025-06-30,2025-07,Baseline,RC-SOUTH,Swing,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,4.33,0
+AU000196,2025-07-06,2025-06-30,2025-07,Baseline,RC-WEST,Swing,Beauty & Personal Care,365+ days,v2.1,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,0.06,0
+AU000222,2025-07-07,2025-07-07,2025-07,Baseline,RC-WEST,Swing,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.09,0
+AU000253,2025-07-08,2025-07-07,2025-07,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,17.07,0
+AU000295,2025-07-09,2025-07-07,2025-07,Baseline,RC-SOUTH,Swing,Sports & Outdoors,30-89 days,v2.1,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,20.94,0
+AU000298,2025-07-09,2025-07-07,2025-07,Baseline,RC-EAST,Swing,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.32,0
+AU000301,2025-07-09,2025-07-07,2025-07,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,13.13,0
+AU000327,2025-07-10,2025-07-07,2025-07,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,2.95,0
+AU000346,2025-07-10,2025-07-07,2025-07,Baseline,RC-WEST,Swing,Books & Media,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,2.35,0
+AU000352,2025-07-11,2025-07-07,2025-07,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,3.91,0
+AU000363,2025-07-11,2025-07-07,2025-07,Baseline,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,38.13,1
+AU000383,2025-07-11,2025-07-07,2025-07,Baseline,RC-CENTRAL,Night,Home & Kitchen,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,9.21,0
+AU000388,2025-07-11,2025-07-07,2025-07,Baseline,RC-EAST,Night,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,16.41,0
+AU000412,2025-07-13,2025-07-07,2025-07,Baseline,RC-EAST,Day,Apparel,90-364 days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,14.36,0
+AU000422,2025-07-13,2025-07-07,2025-07,Baseline,RC-SOUTH,Swing,Tools & Home Improvement,365+ days,v2.1,RECYCLE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,46.74,1
+AU000445,2025-07-14,2025-07-14,2025-07,Baseline,RC-EAST,Day,Toys & Games,90-364 days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,1.98,0
+AU000457,2025-07-14,2025-07-14,2025-07,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,18.58,0
+AU000477,2025-07-14,2025-07-14,2025-07,Baseline,RC-SOUTH,Night,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.79,0
+AU000481,2025-07-15,2025-07-14,2025-07,Baseline,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.1,DESTROY,REFURB,Downgrade (graded too low),System/data entry error,98.13,1
+AU000484,2025-07-15,2025-07-14,2025-07,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.1,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,12.3,0
+AU000486,2025-07-15,2025-07-14,2025-07,Baseline,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,15.62,0
+AU000492,2025-07-15,2025-07-14,2025-07,Baseline,RC-SOUTH,Day,Home & Kitchen,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,16.3,0
+AU000499,2025-07-15,2025-07-14,2025-07,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,38.92,1
+AU000510,2025-07-15,2025-07-14,2025-07,Baseline,RC-CENTRAL,Swing,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.26,0
+AU000511,2025-07-15,2025-07-14,2025-07,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,61.95,1
+AU000524,2025-07-16,2025-07-14,2025-07,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Packaging condition misjudged,98.78,1
+AU000532,2025-07-16,2025-07-14,2025-07,Baseline,RC-WEST,Day,Home & Kitchen,365+ days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,27.8,0
+AU000557,2025-07-16,2025-07-14,2025-07,Baseline,RC-CENTRAL,Night,Apparel,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,8.19,0
+AU000566,2025-07-17,2025-07-14,2025-07,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,43.31,0
+AU000583,2025-07-17,2025-07-14,2025-07,Baseline,RC-WEST,Swing,Home & Kitchen,365+ days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Accessories/parts not verified,6.22,1
+AU000587,2025-07-17,2025-07-14,2025-07,Baseline,RC-WEST,Swing,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,6.36,0
+AU000593,2025-07-17,2025-07-14,2025-07,Baseline,RC-CENTRAL,Night,Electronics,365+ days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,59.09,0
+AU000606,2025-07-18,2025-07-14,2025-07,Baseline,RC-SOUTH,Day,Sports & Outdoors,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,11.12,0
+AU000607,2025-07-18,2025-07-14,2025-07,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,13.86,0
+AU000614,2025-07-18,2025-07-14,2025-07,Baseline,RC-CENTRAL,Day,Toys & Games,30-89 days,v2.1,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,14.05,0
+AU000615,2025-07-18,2025-07-14,2025-07,Baseline,RC-CENTRAL,Day,Tools & Home Improvement,365+ days,v2.1,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,139.48,1
+AU000678,2025-07-20,2025-07-14,2025-07,Baseline,RC-EAST,Day,Apparel,90-364 days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,3.47,0
+AU000703,2025-07-21,2025-07-21,2025-07,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,6.24,0
+AU000738,2025-07-21,2025-07-21,2025-07,Baseline,RC-WEST,Night,Electronics,365+ days,v2.1,RECYCLE,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,30.01,0
+AU000745,2025-07-22,2025-07-21,2025-07,Baseline,RC-CENTRAL,Day,Beauty & Personal Care,365+ days,v2.1,RECYCLE,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,1.01,0
+AU000757,2025-07-22,2025-07-21,2025-07,Baseline,RC-EAST,Swing,Home & Kitchen,0-29 days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,9.04,0
+AU000778,2025-07-23,2025-07-21,2025-07,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.1,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,2.06,0
+AU000789,2025-07-23,2025-07-21,2025-07,Baseline,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,8.46,0
+AU000826,2025-07-24,2025-07-21,2025-07,Baseline,RC-WEST,Swing,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,7.27,0
+AU000840,2025-07-25,2025-07-21,2025-07,Baseline,RC-WEST,Day,Beauty & Personal Care,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,1.51,0
+AU000872,2025-07-26,2025-07-21,2025-07,Baseline,RC-EAST,Day,Electronics,90-364 days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,116.83,1
+AU000925,2025-07-28,2025-07-28,2025-07,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.1,DESTROY,RECYCLE,Downgrade (graded too low),Wrong SOP criteria applied,1.25,0
+AU000930,2025-07-28,2025-07-28,2025-07,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),No photo evidence captured,6.66,0
+AU000979,2025-07-29,2025-07-28,2025-07,Baseline,RC-CENTRAL,Swing,Books & Media,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.45,0
+AU000991,2025-07-29,2025-07-28,2025-07,Baseline,RC-CENTRAL,Night,Apparel,30-89 days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),No photo evidence captured,6.84,0
+AU001015,2025-07-30,2025-07-28,2025-07,Baseline,RC-EAST,Swing,Electronics,90-364 days,v2.1,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,11.6,0
+AU001048,2025-07-31,2025-07-28,2025-07,Baseline,RC-SOUTH,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,11.73,0
+AU001068,2025-07-31,2025-07-28,2025-07,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,7.84,0
+AU001091,2025-08-01,2025-07-28,2025-08,Baseline,RC-SOUTH,Day,Toys & Games,365+ days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,17.18,0
+AU001113,2025-08-02,2025-07-28,2025-08,Baseline,RC-WEST,Day,Tools & Home Improvement,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,15.15,0
+AU001127,2025-08-02,2025-07-28,2025-08,Baseline,RC-WEST,Night,Toys & Games,90-364 days,v2.1,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,0.76,0
+AU001150,2025-08-03,2025-07-28,2025-08,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.1,RECYCLE,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,58.47,0
+AU001151,2025-08-03,2025-07-28,2025-08,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.1,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,4.79,0
+AU001161,2025-08-04,2025-08-04,2025-08,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.1,DESTROY,RECYCLE,Downgrade (graded too low),Wrong SOP criteria applied,9.64,0
+AU001165,2025-08-04,2025-08-04,2025-08,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.1,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,23.93,0
+AU001170,2025-08-04,2025-08-04,2025-08,Baseline,RC-WEST,Day,Toys & Games,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,1.02,0
+AU001193,2025-08-04,2025-08-04,2025-08,Baseline,RC-WEST,Night,Toys & Games,365+ days,v2.1,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,0.14,0
+AU001202,2025-08-05,2025-08-04,2025-08,Baseline,RC-WEST,Day,Toys & Games,365+ days,v2.1,DESTROY,RECYCLE,Downgrade (graded too low),Cosmetic grade misread,0.26,0
+AU001211,2025-08-05,2025-08-04,2025-08,Baseline,RC-SOUTH,Swing,Toys & Games,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,1.32,0
+AU001224,2025-08-05,2025-08-04,2025-08,Baseline,RC-EAST,Night,Beauty & Personal Care,365+ days,v2.1,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,0.5,0
+AU001226,2025-08-05,2025-08-04,2025-08,Baseline,RC-SOUTH,Night,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.91,0
+AU001272,2025-08-06,2025-08-04,2025-08,Baseline,RC-CENTRAL,Night,Apparel,30-89 days,v2.1,RECYCLE,LIQUIDATE,Downgrade (graded too low),No photo evidence captured,2.11,0
+AU001280,2025-08-07,2025-08-04,2025-08,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,1.14,0
+AU001281,2025-08-07,2025-08-04,2025-08,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),Packaging condition misjudged,8.7,0
+AU001296,2025-08-07,2025-08-04,2025-08,Baseline,RC-EAST,Swing,Apparel,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,17.75,0
+AU001308,2025-08-07,2025-08-04,2025-08,Baseline,RC-EAST,Night,Electronics,0-29 days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,17.69,0
+AU001313,2025-08-07,2025-08-04,2025-08,Baseline,RC-EAST,Night,Apparel,365+ days,v2.1,RECYCLE,DESTROY,Upgrade (graded too high),Packaging condition misjudged,0.0,0
+AU001338,2025-08-08,2025-08-04,2025-08,Baseline,RC-EAST,Swing,Home & Kitchen,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,25.52,0
+AU001380,2025-08-09,2025-08-04,2025-08,Baseline,RC-WEST,Swing,Books & Media,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,1.56,0
+AU001385,2025-08-09,2025-08-04,2025-08,Baseline,RC-SOUTH,Swing,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,4.35,0
+AU001390,2025-08-09,2025-08-04,2025-08,Baseline,RC-EAST,Night,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,14.25,0
+AU001408,2025-08-10,2025-08-04,2025-08,Baseline,RC-WEST,Day,Apparel,365+ days,v2.1,DESTROY,LIQUIDATE,Downgrade (graded too low),System/data entry error,4.76,0
+AU001410,2025-08-10,2025-08-04,2025-08,Baseline,RC-EAST,Day,Books & Media,365+ days,v2.1,LIQUIDATE,RECYCLE,Upgrade (graded too high),Functional test skipped,0.09,0
+AU001451,2025-08-11,2025-08-11,2025-08,Baseline,RC-SOUTH,Day,Sports & Outdoors,365+ days,v2.1,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,3.15,0
+AU001467,2025-08-11,2025-08-11,2025-08,Baseline,RC-WEST,Night,Apparel,90-364 days,v2.1,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,5.72,0
+AU001489,2025-08-12,2025-08-11,2025-08,Baseline,RC-CENTRAL,Day,Tools & Home Improvement,90-364 days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,57.56,0
+AU001505,2025-08-12,2025-08-11,2025-08,Baseline,RC-EAST,Swing,Home & Kitchen,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,4.2,0
+AU001510,2025-08-12,2025-08-11,2025-08,Baseline,RC-EAST,Night,Tools & Home Improvement,0-29 days,v2.1,REFURB,LIQUIDATE,Upgrade (graded too high),Packaging condition misjudged,5.38,0
+AU001513,2025-08-12,2025-08-11,2025-08,Baseline,RC-SOUTH,Night,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,37.39,0
+AU001519,2025-08-13,2025-08-11,2025-08,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.1,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,18.34,1
+AU001532,2025-08-13,2025-08-11,2025-08,Baseline,RC-EAST,Swing,Electronics,30-89 days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,31.85,0
+AU001556,2025-08-14,2025-08-11,2025-08,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,15.82,0
+AU001566,2025-08-14,2025-08-11,2025-08,Baseline,RC-WEST,Swing,Toys & Games,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,3.74,0
+AU001623,2025-08-16,2025-08-11,2025-08,Baseline,RC-CENTRAL,Day,Electronics,30-89 days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,17.48,1
+AU001625,2025-08-16,2025-08-11,2025-08,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.1,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,3.36,0
+AU001643,2025-08-16,2025-08-11,2025-08,Baseline,RC-EAST,Swing,Tools & Home Improvement,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,17.45,0
+AU001644,2025-08-16,2025-08-11,2025-08,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.1,DESTROY,RECYCLE,Downgrade (graded too low),Functional test skipped,1.13,0
+AU001648,2025-08-16,2025-08-11,2025-08,Baseline,RC-CENTRAL,Swing,Toys & Games,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,8.14,0
+AU001672,2025-08-17,2025-08-11,2025-08,Baseline,RC-EAST,Day,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,22.1,0
+AU001678,2025-08-17,2025-08-11,2025-08,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.1,LIQUIDATE,REFURB,Downgrade (graded too low),Functional test skipped,15.73,0
+AU001684,2025-08-17,2025-08-11,2025-08,Baseline,RC-EAST,Night,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,31.81,0
+AU001695,2025-08-18,2025-08-18,2025-08,Baseline,RC-EAST,Day,Electronics,90-364 days,v2.1,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,154.01,1
+AU001725,2025-08-19,2025-08-18,2025-08,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.1,DESTROY,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,4.46,0
+AU001731,2025-08-19,2025-08-18,2025-08,Baseline,RC-WEST,Day,Electronics,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,7.61,0
+AU001739,2025-08-19,2025-08-18,2025-08,Baseline,RC-SOUTH,Swing,Home & Kitchen,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,9.04,0
+AU001817,2025-08-21,2025-08-18,2025-08,Baseline,RC-SOUTH,Swing,Beauty & Personal Care,90-364 days,v2.1,RECYCLE,DESTROY,Upgrade (graded too high),Functional test skipped,0.0,0
+AU001834,2025-08-22,2025-08-18,2025-08,Baseline,RC-SOUTH,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.26,0
+AU001835,2025-08-22,2025-08-18,2025-08,Baseline,RC-WEST,Day,Home & Kitchen,365+ days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,24.73,0
+AU001846,2025-08-22,2025-08-18,2025-08,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,33.58,0
+AU001951,2025-08-25,2025-08-25,2025-08,Baseline,RC-WEST,Night,Apparel,90-364 days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.73,0
+AU001965,2025-08-26,2025-08-25,2025-08,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),Accessories/parts not verified,19.46,0
+AU001974,2025-08-26,2025-08-25,2025-08,Baseline,RC-EAST,Day,Sports & Outdoors,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,5.97,0
+AU001982,2025-08-26,2025-08-25,2025-08,Baseline,RC-WEST,Swing,Beauty & Personal Care,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,3.08,0
+AU001996,2025-08-26,2025-08-25,2025-08,Baseline,RC-EAST,Night,Apparel,365+ days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,29.07,0
+AU002010,2025-08-27,2025-08-25,2025-08,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.38,0
+AU002024,2025-08-27,2025-08-25,2025-08,Baseline,RC-CENTRAL,Swing,Toys & Games,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,6.02,0
+AU002066,2025-08-29,2025-08-25,2025-08,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,1.94,0
+AU002079,2025-08-29,2025-08-25,2025-08,Baseline,RC-SOUTH,Swing,Electronics,90-364 days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,23.94,0
+AU002097,2025-08-30,2025-08-25,2025-08,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.58,0
+AU002115,2025-08-30,2025-08-25,2025-08,Baseline,RC-WEST,Night,Electronics,365+ days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,209.18,1
+AU002132,2025-08-31,2025-08-25,2025-08,Baseline,RC-CENTRAL,Swing,Electronics,90-364 days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,8.65,0
+AU002141,2025-08-31,2025-08-25,2025-08,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.1,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,137.32,1
+AU002160,2025-09-01,2025-09-01,2025-09,Baseline,RC-WEST,Day,Home & Kitchen,90-364 days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,13.09,0
+AU002162,2025-09-01,2025-09-01,2025-09,Baseline,RC-WEST,Day,Toys & Games,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.61,0
+AU002166,2025-09-01,2025-09-01,2025-09,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.1,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,0.1,0
+AU002196,2025-09-02,2025-09-01,2025-09,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,87.65,0
+AU002206,2025-09-02,2025-09-01,2025-09,Baseline,RC-WEST,Swing,Home & Kitchen,90-364 days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,8.47,0
+AU002209,2025-09-02,2025-09-01,2025-09,Baseline,RC-CENTRAL,Swing,Books & Media,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.41,0
+AU002210,2025-09-02,2025-09-01,2025-09,Baseline,RC-SOUTH,Swing,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,4.18,0
+AU002217,2025-09-02,2025-09-01,2025-09,Baseline,RC-EAST,Night,Home & Kitchen,30-89 days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,12.88,0
+AU002271,2025-09-04,2025-09-01,2025-09,Baseline,RC-CENTRAL,Swing,Beauty & Personal Care,365+ days,v2.1,RECYCLE,DESTROY,Upgrade (graded too high),No photo evidence captured,0.0,0
+AU002331,2025-09-06,2025-09-01,2025-09,Baseline,RC-WEST,Swing,Home & Kitchen,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,4.39,0
+AU002346,2025-09-07,2025-09-01,2025-09,Baseline,RC-WEST,Day,Electronics,365+ days,v2.1,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,134.21,1
+AU002354,2025-09-07,2025-09-01,2025-09,Baseline,RC-WEST,Swing,Sports & Outdoors,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.89,0
+AU002358,2025-09-07,2025-09-01,2025-09,Baseline,RC-CENTRAL,Night,Apparel,90-364 days,v2.1,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,6.8,0
+AU002377,2025-09-08,2025-09-08,2025-09,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.1,DESTROY,RECYCLE,Downgrade (graded too low),Cosmetic grade misread,7.88,0
+AU002391,2025-09-08,2025-09-08,2025-09,Baseline,RC-WEST,Night,Beauty & Personal Care,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,1.99,0
+AU002393,2025-09-08,2025-09-08,2025-09,Baseline,RC-WEST,Night,Toys & Games,0-29 days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,4.67,0
+AU002395,2025-09-08,2025-09-08,2025-09,Baseline,RC-WEST,Night,Books & Media,90-364 days,v2.1,RECYCLE,LIQUIDATE,Downgrade (graded too low),System/data entry error,1.22,0
+AU002418,2025-09-09,2025-09-08,2025-09,Baseline,RC-WEST,Swing,Tools & Home Improvement,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.71,0
+AU002425,2025-09-09,2025-09-08,2025-09,Baseline,RC-WEST,Night,Toys & Games,90-364 days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,7.08,0
+AU002459,2025-09-11,2025-09-08,2025-09,Baseline,RC-EAST,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,4.85,0
+AU002499,2025-09-12,2025-09-08,2025-09,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,47.3,0
+AU002540,2025-09-13,2025-09-08,2025-09,Baseline,RC-WEST,Swing,Sports & Outdoors,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,4.22,0
+AU002546,2025-09-13,2025-09-08,2025-09,Baseline,RC-SOUTH,Swing,Tools & Home Improvement,365+ days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,32.16,0
+AU002551,2025-09-13,2025-09-08,2025-09,Baseline,RC-EAST,Swing,Home & Kitchen,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),System/data entry error,27.63,0
+AU002558,2025-09-13,2025-09-08,2025-09,Baseline,RC-SOUTH,Night,Beauty & Personal Care,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,2.46,0
+AU002568,2025-09-14,2025-09-08,2025-09,Baseline,RC-WEST,Day,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,2.86,0
+AU002597,2025-09-15,2025-09-15,2025-09,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,6.19,0
+AU002609,2025-09-15,2025-09-15,2025-09,Baseline,RC-SOUTH,Day,Toys & Games,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,2.82,0
+AU002635,2025-09-15,2025-09-15,2025-09,Baseline,RC-EAST,Swing,Electronics,0-29 days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Accessories/parts not verified,6.26,0
+AU002659,2025-09-16,2025-09-15,2025-09,Baseline,RC-CENTRAL,Swing,Toys & Games,365+ days,v2.1,DESTROY,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,3.45,0
+AU002662,2025-09-16,2025-09-15,2025-09,Baseline,RC-EAST,Night,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.16,0
+AU002674,2025-09-17,2025-09-15,2025-09,Baseline,RC-EAST,Day,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,49.21,0
+AU002679,2025-09-17,2025-09-15,2025-09,Baseline,RC-CENTRAL,Swing,Beauty & Personal Care,365+ days,v2.1,RECYCLE,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,3.86,0
+AU002745,2025-09-19,2025-09-15,2025-09,Baseline,RC-EAST,Swing,Electronics,0-29 days,v2.1,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,58.88,1
+AU002748,2025-09-19,2025-09-15,2025-09,Baseline,RC-WEST,Swing,Books & Media,365+ days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,8.11,0
+AU002770,2025-09-20,2025-09-15,2025-09,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.44,0
+AU002773,2025-09-20,2025-09-15,2025-09,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,38.89,0
+AU002797,2025-09-21,2025-09-15,2025-09,Baseline,RC-CENTRAL,Swing,Electronics,90-364 days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,6.85,0
+AU002800,2025-09-21,2025-09-15,2025-09,Baseline,RC-CENTRAL,Swing,Beauty & Personal Care,365+ days,v2.1,LIQUIDATE,RECYCLE,Upgrade (graded too high),System/data entry error,0.07,0
+AU002823,2025-09-22,2025-09-22,2025-09,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.1,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,11.8,0
+AU002897,2025-09-24,2025-09-22,2025-09,Baseline,RC-EAST,Day,Electronics,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,13.28,0
+AU002901,2025-09-24,2025-09-22,2025-09,Baseline,RC-EAST,Day,Electronics,90-364 days,v2.1,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),System/data entry error,84.98,0
+AU002911,2025-09-24,2025-09-22,2025-09,Baseline,RC-SOUTH,Swing,Beauty & Personal Care,365+ days,v2.1,DESTROY,RECYCLE,Downgrade (graded too low),Functional test skipped,0.86,0
+AU002912,2025-09-24,2025-09-22,2025-09,Baseline,RC-SOUTH,Swing,Electronics,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,13.17,0
+AU002929,2025-09-25,2025-09-22,2025-09,Baseline,RC-WEST,Day,Home & Kitchen,365+ days,v2.1,RECYCLE,REFURB,Downgrade (graded too low),Functional test skipped,86.61,1
+AU002956,2025-09-25,2025-09-22,2025-09,Baseline,RC-WEST,Swing,Home & Kitchen,365+ days,v2.1,REFURB,NEW,Downgrade (graded too low),Functional test skipped,12.28,0
+AU002971,2025-09-25,2025-09-22,2025-09,Baseline,RC-EAST,Night,Home & Kitchen,365+ days,v2.1,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,3.02,0
+AU002974,2025-09-26,2025-09-22,2025-09,Baseline,RC-WEST,Day,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Accessories/parts not verified,28.61,0
+AU003000,2025-09-26,2025-09-22,2025-09,Baseline,RC-CENTRAL,Night,Beauty & Personal Care,90-364 days,v2.1,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU003042,2025-09-28,2025-09-22,2025-09,Baseline,RC-WEST,Swing,Toys & Games,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Accessories/parts not verified,3.74,0
+AU003053,2025-09-28,2025-09-22,2025-09,Baseline,RC-CENTRAL,Night,Sports & Outdoors,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,7.81,0
+AU003065,2025-09-29,2025-09-29,2025-09,Baseline,RC-SOUTH,Day,Tools & Home Improvement,365+ days,v2.1,DESTROY,RECYCLE,Downgrade (graded too low),Cosmetic grade misread,1.53,0
+AU003099,2025-09-29,2025-09-29,2025-09,Baseline,RC-WEST,Night,Apparel,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.5,0
+AU003100,2025-09-29,2025-09-29,2025-09,Baseline,RC-WEST,Night,Electronics,0-29 days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,9.55,0
+AU003110,2025-09-30,2025-09-29,2025-09,Baseline,RC-WEST,Day,Sports & Outdoors,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,14.55,0
+AU003123,2025-09-30,2025-09-29,2025-09,Baseline,RC-EAST,Night,Books & Media,365+ days,v2.1,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,6.23,0
+AU003126,2025-09-30,2025-09-29,2025-09,Baseline,RC-CENTRAL,Night,Electronics,365+ days,v2.1,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,26.19,0
+AU003184,2025-10-02,2025-09-29,2025-10,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,6.99,0
+AU003189,2025-10-02,2025-09-29,2025-10,Baseline,RC-SOUTH,Day,Sports & Outdoors,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Packaging condition misjudged,1.04,0
+AU003192,2025-10-02,2025-09-29,2025-10,Baseline,RC-WEST,Day,Sports & Outdoors,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Packaging condition misjudged,1.08,0
+AU003214,2025-10-02,2025-09-29,2025-10,Baseline,RC-EAST,Night,Tools & Home Improvement,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,5.37,0
+AU003230,2025-10-03,2025-09-29,2025-10,Baseline,RC-SOUTH,Day,Beauty & Personal Care,90-364 days,v2.2,REFURB,NEW,Downgrade (graded too low),Functional test skipped,3.61,0
+AU003277,2025-10-04,2025-09-29,2025-10,Baseline,RC-EAST,Swing,Home & Kitchen,90-364 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,33.16,0
+AU003297,2025-10-05,2025-09-29,2025-10,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,17.14,0
+AU003307,2025-10-05,2025-09-29,2025-10,Baseline,RC-WEST,Night,Books & Media,90-364 days,v2.2,REFURB,NEW,Downgrade (graded too low),Functional test skipped,5.21,0
+AU003340,2025-10-06,2025-10-06,2025-10,Baseline,RC-WEST,Swing,Apparel,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Accessories/parts not verified,0.0,0
+AU003358,2025-10-07,2025-10-06,2025-10,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,11.98,0
+AU003403,2025-10-08,2025-10-06,2025-10,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,6.26,0
+AU003459,2025-10-09,2025-10-06,2025-10,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,51.57,1
+AU003481,2025-10-09,2025-10-06,2025-10,Baseline,RC-EAST,Night,Tools & Home Improvement,30-89 days,v2.2,DESTROY,RECYCLE,Downgrade (graded too low),Cosmetic grade misread,0.96,0
+AU003497,2025-10-10,2025-10-06,2025-10,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,33.68,0
+AU003534,2025-10-11,2025-10-06,2025-10,Baseline,RC-WEST,Swing,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,17.18,0
+AU003535,2025-10-11,2025-10-06,2025-10,Baseline,RC-SOUTH,Swing,Electronics,90-364 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,77.55,1
+AU003540,2025-10-11,2025-10-06,2025-10,Baseline,RC-EAST,Swing,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.45,0
+AU003574,2025-10-12,2025-10-06,2025-10,Baseline,RC-WEST,Swing,Electronics,90-364 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,48.95,0
+AU003585,2025-10-12,2025-10-06,2025-10,Baseline,RC-CENTRAL,Night,Tools & Home Improvement,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Packaging condition misjudged,13.82,1
+AU003590,2025-10-12,2025-10-06,2025-10,Baseline,RC-CENTRAL,Night,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,24.78,0
+AU003606,2025-10-13,2025-10-13,2025-10,Baseline,RC-SOUTH,Day,Toys & Games,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,2.26,0
+AU003607,2025-10-13,2025-10-13,2025-10,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Accessories/parts not verified,0.0,0
+AU003621,2025-10-13,2025-10-13,2025-10,Baseline,RC-CENTRAL,Swing,Apparel,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,5.87,0
+AU003627,2025-10-13,2025-10-13,2025-10,Baseline,RC-CENTRAL,Night,Toys & Games,90-364 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),No photo evidence captured,6.42,0
+AU003657,2025-10-14,2025-10-13,2025-10,Baseline,RC-SOUTH,Swing,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,16.26,0
+AU003679,2025-10-15,2025-10-13,2025-10,Baseline,RC-WEST,Day,Sports & Outdoors,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,2.83,0
+AU003736,2025-10-16,2025-10-13,2025-10,Baseline,RC-CENTRAL,Swing,Apparel,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),No photo evidence captured,9.05,0
+AU003757,2025-10-17,2025-10-13,2025-10,Baseline,RC-CENTRAL,Day,Books & Media,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),No photo evidence captured,1.41,0
+AU003767,2025-10-17,2025-10-13,2025-10,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,12.75,0
+AU003774,2025-10-17,2025-10-13,2025-10,Baseline,RC-CENTRAL,Swing,Tools & Home Improvement,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),No photo evidence captured,12.31,0
+AU003775,2025-10-17,2025-10-13,2025-10,Baseline,RC-CENTRAL,Swing,Electronics,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,20.48,0
+AU003784,2025-10-18,2025-10-13,2025-10,Baseline,RC-SOUTH,Day,Toys & Games,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,0.94,0
+AU003789,2025-10-18,2025-10-13,2025-10,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Functional test skipped,7.09,0
+AU003806,2025-10-18,2025-10-13,2025-10,Baseline,RC-WEST,Swing,Books & Media,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.96,0
+AU003820,2025-10-19,2025-10-13,2025-10,Baseline,RC-EAST,Day,Books & Media,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,1.07,0
+AU003822,2025-10-19,2025-10-13,2025-10,Baseline,RC-EAST,Day,Electronics,0-29 days,v2.2,REFURB,NEW,Downgrade (graded too low),System/data entry error,16.8,0
+AU003827,2025-10-19,2025-10-13,2025-10,Baseline,RC-WEST,Day,Electronics,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Functional test skipped,21.62,0
+AU003860,2025-10-20,2025-10-20,2025-10,Baseline,RC-WEST,Day,Electronics,0-29 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Wrong SOP criteria applied,0.0,0
+AU003880,2025-10-20,2025-10-20,2025-10,Baseline,RC-CENTRAL,Swing,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,3.4,0
+AU003883,2025-10-20,2025-10-20,2025-10,Baseline,RC-EAST,Night,Home & Kitchen,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,23.37,0
+AU003910,2025-10-21,2025-10-20,2025-10,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,46.98,0
+AU003937,2025-10-22,2025-10-20,2025-10,Baseline,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Packaging condition misjudged,14.46,0
+AU003942,2025-10-22,2025-10-20,2025-10,Baseline,RC-EAST,Day,Apparel,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,29.89,1
+AU003951,2025-10-22,2025-10-20,2025-10,Baseline,RC-CENTRAL,Day,Electronics,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,2.88,0
+AU003960,2025-10-22,2025-10-20,2025-10,Baseline,RC-EAST,Swing,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,6.28,0
+AU003972,2025-10-23,2025-10-20,2025-10,Baseline,RC-WEST,Day,Electronics,0-29 days,v2.2,DESTROY,RECYCLE,Downgrade (graded too low),Wrong SOP criteria applied,12.2,0
+AU003983,2025-10-23,2025-10-20,2025-10,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,3.4,0
+AU003987,2025-10-23,2025-10-20,2025-10,Baseline,RC-WEST,Day,Home & Kitchen,90-364 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,0.64,0
+AU004038,2025-10-24,2025-10-20,2025-10,Baseline,RC-EAST,Night,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.79,0
+AU004044,2025-10-24,2025-10-20,2025-10,Baseline,RC-WEST,Night,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,35.92,0
+AU004046,2025-10-25,2025-10-20,2025-10,Baseline,RC-WEST,Day,Home & Kitchen,0-29 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,6.59,0
+AU004055,2025-10-25,2025-10-20,2025-10,Baseline,RC-WEST,Day,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,4.13,0
+AU004062,2025-10-25,2025-10-20,2025-10,Baseline,RC-CENTRAL,Day,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.98,0
+AU004077,2025-10-25,2025-10-20,2025-10,Baseline,RC-WEST,Swing,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,3.86,0
+AU004079,2025-10-25,2025-10-20,2025-10,Baseline,RC-EAST,Swing,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,29.6,0
+AU004086,2025-10-25,2025-10-20,2025-10,Baseline,RC-SOUTH,Night,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,11.16,0
+AU004088,2025-10-26,2025-10-20,2025-10,Baseline,RC-WEST,Day,Home & Kitchen,0-29 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,8.67,0
+AU004091,2025-10-26,2025-10-20,2025-10,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,51.82,0
+AU004096,2025-10-26,2025-10-20,2025-10,Baseline,RC-CENTRAL,Day,Sports & Outdoors,0-29 days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,7.93,0
+AU004099,2025-10-26,2025-10-20,2025-10,Baseline,RC-WEST,Day,Electronics,0-29 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,11.77,0
+AU004114,2025-10-26,2025-10-20,2025-10,Baseline,RC-SOUTH,Night,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Wrong SOP criteria applied,18.51,0
+AU004118,2025-10-26,2025-10-20,2025-10,Baseline,RC-WEST,Night,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,12.85,0
+AU004152,2025-10-27,2025-10-27,2025-10,Baseline,RC-WEST,Night,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,125.48,0
+AU004158,2025-10-28,2025-10-27,2025-10,Baseline,RC-CENTRAL,Day,Tools & Home Improvement,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),No photo evidence captured,13.31,0
+AU004163,2025-10-28,2025-10-27,2025-10,Baseline,RC-CENTRAL,Day,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,4.8,0
+AU004177,2025-10-28,2025-10-27,2025-10,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,66.1,0
+AU004184,2025-10-28,2025-10-27,2025-10,Baseline,RC-WEST,Night,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,40.89,0
+AU004204,2025-10-29,2025-10-27,2025-10,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),No photo evidence captured,5.84,0
+AU004242,2025-10-30,2025-10-27,2025-10,Baseline,RC-WEST,Day,Electronics,30-89 days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,0.47,0
+AU004275,2025-10-31,2025-10-27,2025-10,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),No photo evidence captured,6.5,0
+AU004294,2025-10-31,2025-10-27,2025-10,Baseline,RC-SOUTH,Swing,Electronics,365+ days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,108.14,0
+AU004302,2025-10-31,2025-10-27,2025-10,Baseline,RC-EAST,Night,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,44.84,0
+AU004314,2025-11-01,2025-10-27,2025-11,Baseline,RC-WEST,Day,Apparel,30-89 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Accessories/parts not verified,0.0,0
+AU004325,2025-11-01,2025-10-27,2025-11,Baseline,RC-EAST,Swing,Beauty & Personal Care,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),System/data entry error,0.11,0
+AU004340,2025-11-01,2025-10-27,2025-11,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,28.97,0
+AU004350,2025-11-01,2025-10-27,2025-11,Baseline,RC-CENTRAL,Swing,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,4.58,0
+AU004352,2025-11-01,2025-10-27,2025-11,Baseline,RC-CENTRAL,Night,Home & Kitchen,0-29 days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),No photo evidence captured,0.08,0
+AU004356,2025-11-01,2025-10-27,2025-11,Baseline,RC-EAST,Night,Electronics,0-29 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Accessories/parts not verified,11.89,0
+AU004367,2025-11-02,2025-10-27,2025-11,Baseline,RC-CENTRAL,Day,Sports & Outdoors,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,6.53,0
+AU004368,2025-11-02,2025-10-27,2025-11,Baseline,RC-WEST,Day,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,58.46,0
+AU004377,2025-11-02,2025-10-27,2025-11,Baseline,RC-WEST,Swing,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.28,0
+AU004395,2025-11-02,2025-10-27,2025-11,Baseline,RC-WEST,Night,Beauty & Personal Care,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,2.09,0
+AU004415,2025-11-03,2025-11-03,2025-11,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,41.07,0
+AU004449,2025-11-03,2025-11-03,2025-11,Baseline,RC-WEST,Night,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,35.22,0
+AU004454,2025-11-03,2025-11-03,2025-11,Baseline,RC-WEST,Night,Electronics,0-29 days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Cosmetic grade misread,64.33,0
+AU004461,2025-11-03,2025-11-03,2025-11,Baseline,RC-WEST,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.1,0
+AU004466,2025-11-04,2025-11-03,2025-11,Baseline,RC-EAST,Day,Electronics,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,14.39,0
+AU004468,2025-11-04,2025-11-03,2025-11,Baseline,RC-EAST,Day,Electronics,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,20.18,0
+AU004471,2025-11-04,2025-11-03,2025-11,Baseline,RC-CENTRAL,Day,Electronics,0-29 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,9.29,0
+AU004473,2025-11-04,2025-11-03,2025-11,Baseline,RC-SOUTH,Day,Apparel,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,25.07,1
+AU004513,2025-11-04,2025-11-03,2025-11,Baseline,RC-EAST,Night,Electronics,30-89 days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,46.55,0
+AU004517,2025-11-04,2025-11-03,2025-11,Baseline,RC-EAST,Night,Books & Media,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,5.2,0
+AU004554,2025-11-05,2025-11-03,2025-11,Baseline,RC-WEST,Swing,Electronics,0-29 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),System/data entry error,83.37,0
+AU004563,2025-11-05,2025-11-03,2025-11,Baseline,RC-WEST,Night,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,9.61,0
+AU004582,2025-11-06,2025-11-03,2025-11,Baseline,RC-EAST,Day,Electronics,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,19.3,0
+AU004596,2025-11-06,2025-11-03,2025-11,Baseline,RC-SOUTH,Swing,Home & Kitchen,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,9.48,0
+AU004605,2025-11-06,2025-11-03,2025-11,Baseline,RC-EAST,Swing,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,8.01,0
+AU004610,2025-11-06,2025-11-03,2025-11,Baseline,RC-CENTRAL,Night,Electronics,0-29 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Packaging condition misjudged,37.13,0
+AU004614,2025-11-06,2025-11-03,2025-11,Baseline,RC-SOUTH,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,3.52,0
+AU004617,2025-11-07,2025-11-03,2025-11,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,55.96,0
+AU004624,2025-11-07,2025-11-03,2025-11,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,5.76,0
+AU004626,2025-11-07,2025-11-03,2025-11,Baseline,RC-CENTRAL,Day,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,3.96,0
+AU004630,2025-11-07,2025-11-03,2025-11,Baseline,RC-WEST,Day,Beauty & Personal Care,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU004646,2025-11-07,2025-11-03,2025-11,Baseline,RC-WEST,Swing,Home & Kitchen,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,9.3,0
+AU004654,2025-11-07,2025-11-03,2025-11,Baseline,RC-EAST,Swing,Toys & Games,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,2.32,0
+AU004668,2025-11-08,2025-11-03,2025-11,Baseline,RC-CENTRAL,Day,Electronics,0-29 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,9.36,0
+AU004670,2025-11-08,2025-11-03,2025-11,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),No photo evidence captured,1.76,0
+AU004686,2025-11-08,2025-11-03,2025-11,Baseline,RC-CENTRAL,Swing,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,26.63,0
+AU004698,2025-11-08,2025-11-03,2025-11,Baseline,RC-WEST,Night,Home & Kitchen,0-29 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,1.11,0
+AU004710,2025-11-09,2025-11-03,2025-11,Baseline,RC-CENTRAL,Day,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,16.62,0
+AU004723,2025-11-09,2025-11-03,2025-11,Baseline,RC-SOUTH,Day,Toys & Games,90-364 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,7.93,1
+AU004747,2025-11-09,2025-11-03,2025-11,Baseline,RC-EAST,Night,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,28.84,0
+AU004770,2025-11-10,2025-11-10,2025-11,Baseline,RC-EAST,Day,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,10.29,0
+AU004786,2025-11-10,2025-11-10,2025-11,Baseline,RC-CENTRAL,Swing,Tools & Home Improvement,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,12.58,0
+AU004792,2025-11-10,2025-11-10,2025-11,Baseline,RC-WEST,Swing,Home & Kitchen,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,7.68,0
+AU004810,2025-11-11,2025-11-10,2025-11,Baseline,RC-WEST,Day,Beauty & Personal Care,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Packaging condition misjudged,0.0,0
+AU004878,2025-11-12,2025-11-10,2025-11,Baseline,RC-SOUTH,Night,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,18.14,0
+AU004923,2025-11-13,2025-11-10,2025-11,Baseline,RC-WEST,Night,Tools & Home Improvement,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,90.27,1
+AU004929,2025-11-13,2025-11-10,2025-11,Baseline,RC-WEST,Night,Electronics,0-29 days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Functional test skipped,0.65,0
+AU004994,2025-11-15,2025-11-10,2025-11,Baseline,RC-EAST,Swing,Tools & Home Improvement,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,21.67,0
+AU005071,2025-11-17,2025-11-17,2025-11,Baseline,RC-SOUTH,Swing,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,7.81,0
+AU005075,2025-11-17,2025-11-17,2025-11,Baseline,RC-WEST,Swing,Home & Kitchen,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),Packaging condition misjudged,17.77,0
+AU005078,2025-11-17,2025-11-17,2025-11,Baseline,RC-WEST,Swing,Tools & Home Improvement,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,11.86,0
+AU005104,2025-11-18,2025-11-17,2025-11,Baseline,RC-EAST,Day,Sports & Outdoors,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),System/data entry error,15.68,0
+AU005110,2025-11-18,2025-11-17,2025-11,Baseline,RC-EAST,Day,Beauty & Personal Care,90-364 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Functional test skipped,4.39,0
+AU005143,2025-11-19,2025-11-17,2025-11,Baseline,RC-WEST,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.16,0
+AU005162,2025-11-19,2025-11-17,2025-11,Baseline,RC-WEST,Swing,Electronics,0-29 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,35.01,0
+AU005166,2025-11-19,2025-11-17,2025-11,Baseline,RC-EAST,Swing,Electronics,0-29 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,106.03,1
+AU005176,2025-11-19,2025-11-17,2025-11,Baseline,RC-CENTRAL,Night,Electronics,0-29 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),No photo evidence captured,149.58,1
+AU005193,2025-11-20,2025-11-17,2025-11,Baseline,RC-WEST,Day,Beauty & Personal Care,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,0.53,0
+AU005210,2025-11-20,2025-11-17,2025-11,Baseline,RC-CENTRAL,Swing,Tools & Home Improvement,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,10.32,0
+AU005217,2025-11-21,2025-11-17,2025-11,Baseline,RC-WEST,Day,Electronics,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,108.15,0
+AU005231,2025-11-21,2025-11-17,2025-11,Baseline,RC-EAST,Swing,Sports & Outdoors,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,3.85,0
+AU005244,2025-11-21,2025-11-17,2025-11,Baseline,RC-WEST,Swing,Home & Kitchen,0-29 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,8.28,0
+AU005246,2025-11-21,2025-11-17,2025-11,Baseline,RC-EAST,Swing,Books & Media,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,3.87,0
+AU005262,2025-11-22,2025-11-17,2025-11,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,100.86,1
+AU005273,2025-11-22,2025-11-17,2025-11,Baseline,RC-SOUTH,Swing,Sports & Outdoors,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,3.66,0
+AU005306,2025-11-23,2025-11-17,2025-11,Baseline,RC-WEST,Day,Electronics,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,19.16,0
+AU005330,2025-11-23,2025-11-17,2025-11,Baseline,RC-EAST,Night,Sports & Outdoors,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Functional test skipped,30.46,0
+AU005331,2025-11-23,2025-11-17,2025-11,Baseline,RC-CENTRAL,Night,Home & Kitchen,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,1.33,0
+AU005336,2025-11-23,2025-11-17,2025-11,Baseline,RC-WEST,Night,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,6.14,0
+AU005345,2025-11-24,2025-11-24,2025-11,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),No photo evidence captured,23.24,0
+AU005365,2025-11-24,2025-11-24,2025-11,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,10.19,0
+AU005375,2025-11-24,2025-11-24,2025-11,Baseline,RC-SOUTH,Swing,Electronics,0-29 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,63.7,1
+AU005393,2025-11-24,2025-11-24,2025-11,Baseline,RC-CENTRAL,Night,Home & Kitchen,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,13.28,0
+AU005400,2025-11-25,2025-11-24,2025-11,Baseline,RC-SOUTH,Day,Home & Kitchen,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,17.44,0
+AU005417,2025-11-25,2025-11-24,2025-11,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,45.0,0
+AU005420,2025-11-25,2025-11-24,2025-11,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,55.01,1
+AU005426,2025-11-25,2025-11-24,2025-11,Baseline,RC-CENTRAL,Swing,Home & Kitchen,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,23.66,1
+AU005432,2025-11-25,2025-11-24,2025-11,Baseline,RC-CENTRAL,Night,Home & Kitchen,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,21.25,0
+AU005441,2025-11-26,2025-11-24,2025-11,Baseline,RC-CENTRAL,Day,Beauty & Personal Care,0-29 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Accessories/parts not verified,0.0,0
+AU005444,2025-11-26,2025-11-24,2025-11,Baseline,RC-WEST,Day,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,23.6,0
+AU005445,2025-11-26,2025-11-24,2025-11,Baseline,RC-WEST,Day,Home & Kitchen,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,11.72,0
+AU005452,2025-11-26,2025-11-24,2025-11,Baseline,RC-CENTRAL,Day,Electronics,0-29 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,2.58,0
+AU005475,2025-11-26,2025-11-24,2025-11,Baseline,RC-WEST,Night,Electronics,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,24.75,0
+AU005478,2025-11-26,2025-11-24,2025-11,Baseline,RC-WEST,Night,Electronics,0-29 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,2.66,0
+AU005532,2025-11-28,2025-11-24,2025-11,Baseline,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Wrong SOP criteria applied,13.1,0
+AU005537,2025-11-28,2025-11-24,2025-11,Baseline,RC-CENTRAL,Day,Apparel,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,9.06,0
+AU005540,2025-11-28,2025-11-24,2025-11,Baseline,RC-CENTRAL,Day,Electronics,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,14.3,0
+AU005544,2025-11-28,2025-11-24,2025-11,Baseline,RC-WEST,Swing,Toys & Games,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,1.91,0
+AU005557,2025-11-28,2025-11-24,2025-11,Baseline,RC-EAST,Swing,Toys & Games,0-29 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,23.27,0
+AU005561,2025-11-28,2025-11-24,2025-11,Baseline,RC-WEST,Night,Books & Media,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),System/data entry error,1.09,0
+AU005585,2025-11-29,2025-11-24,2025-11,Baseline,RC-WEST,Swing,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,23.23,0
+AU005602,2025-11-29,2025-11-24,2025-11,Baseline,RC-EAST,Swing,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,11.44,0
+AU005606,2025-11-29,2025-11-24,2025-11,Baseline,RC-CENTRAL,Night,Books & Media,0-29 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,0.38,0
+AU005608,2025-11-29,2025-11-24,2025-11,Baseline,RC-SOUTH,Night,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,11.35,0
+AU005629,2025-11-30,2025-11-24,2025-11,Baseline,RC-WEST,Swing,Sports & Outdoors,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.42,0
+AU005630,2025-11-30,2025-11-24,2025-11,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,19.44,0
+AU005633,2025-11-30,2025-11-24,2025-11,Baseline,RC-WEST,Swing,Books & Media,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,4.12,0
+AU005654,2025-12-01,2025-12-01,2025-12,Baseline,RC-SOUTH,Day,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,11.02,0
+AU005658,2025-12-01,2025-12-01,2025-12,Baseline,RC-SOUTH,Day,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,91.49,0
+AU005660,2025-12-01,2025-12-01,2025-12,Baseline,RC-EAST,Day,Apparel,0-29 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,5.73,0
+AU005667,2025-12-01,2025-12-01,2025-12,Baseline,RC-WEST,Day,Beauty & Personal Care,0-29 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,25.96,1
+AU005682,2025-12-01,2025-12-01,2025-12,Baseline,RC-SOUTH,Swing,Electronics,0-29 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,174.65,1
+AU005685,2025-12-01,2025-12-01,2025-12,Baseline,RC-SOUTH,Swing,Home & Kitchen,0-29 days,v2.2,REFURB,NEW,Downgrade (graded too low),Functional test skipped,13.4,0
+AU005708,2025-12-01,2025-12-01,2025-12,Baseline,RC-WEST,Night,Toys & Games,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,4.62,0
+AU005710,2025-12-01,2025-12-01,2025-12,Baseline,RC-SOUTH,Night,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,2.42,0
+AU005756,2025-12-02,2025-12-01,2025-12,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,59.99,0
+AU005765,2025-12-02,2025-12-01,2025-12,Baseline,RC-EAST,Night,Home & Kitchen,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,19.56,0
+AU005771,2025-12-02,2025-12-01,2025-12,Baseline,RC-WEST,Night,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,41.74,0
+AU005781,2025-12-03,2025-12-01,2025-12,Baseline,RC-SOUTH,Day,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,2.73,0
+AU005809,2025-12-03,2025-12-01,2025-12,Baseline,RC-CENTRAL,Swing,Sports & Outdoors,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,1.62,0
+AU005810,2025-12-03,2025-12-01,2025-12,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,34.87,0
+AU005819,2025-12-03,2025-12-01,2025-12,Baseline,RC-CENTRAL,Night,Books & Media,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.8,0
+AU005843,2025-12-04,2025-12-01,2025-12,Baseline,RC-EAST,Day,Electronics,365+ days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,17.65,0
+AU005859,2025-12-04,2025-12-01,2025-12,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,17.92,0
+AU005866,2025-12-04,2025-12-01,2025-12,Baseline,RC-EAST,Night,Home & Kitchen,30-89 days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),System/data entry error,0.12,0
+AU005874,2025-12-05,2025-12-01,2025-12,Baseline,RC-CENTRAL,Day,Apparel,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,4.63,0
+AU005897,2025-12-05,2025-12-01,2025-12,Baseline,RC-EAST,Swing,Electronics,0-29 days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Wrong SOP criteria applied,0.94,0
+AU005898,2025-12-05,2025-12-01,2025-12,Baseline,RC-EAST,Swing,Home & Kitchen,0-29 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,38.68,1
+AU005917,2025-12-05,2025-12-01,2025-12,Baseline,RC-CENTRAL,Night,Electronics,90-364 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,6.46,0
+AU005922,2025-12-05,2025-12-01,2025-12,Baseline,RC-WEST,Night,Apparel,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,27.32,0
+AU005932,2025-12-06,2025-12-01,2025-12,Baseline,RC-CENTRAL,Day,Toys & Games,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,6.82,0
+AU005936,2025-12-06,2025-12-01,2025-12,Baseline,RC-EAST,Day,Home & Kitchen,0-29 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Functional test skipped,4.54,0
+AU005956,2025-12-06,2025-12-01,2025-12,Baseline,RC-EAST,Swing,Apparel,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,2.02,0
+AU005961,2025-12-06,2025-12-01,2025-12,Baseline,RC-CENTRAL,Night,Sports & Outdoors,0-29 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,85.81,0
+AU006021,2025-12-07,2025-12-01,2025-12,Baseline,RC-SOUTH,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.73,0
+AU006031,2025-12-07,2025-12-01,2025-12,Baseline,RC-WEST,Night,Home & Kitchen,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,2.17,0
+AU006032,2025-12-08,2025-12-08,2025-12,Baseline,RC-WEST,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,27.57,0
+AU006036,2025-12-08,2025-12-08,2025-12,Baseline,RC-SOUTH,Day,Beauty & Personal Care,90-364 days,v2.2,DESTROY,RECYCLE,Downgrade (graded too low),Cosmetic grade misread,0.55,0
+AU006055,2025-12-08,2025-12-08,2025-12,Baseline,RC-SOUTH,Day,Electronics,0-29 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Functional test skipped,19.65,1
+AU006106,2025-12-09,2025-12-08,2025-12,Baseline,RC-EAST,Day,Electronics,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,102.49,0
+AU006124,2025-12-09,2025-12-08,2025-12,Baseline,RC-EAST,Day,Toys & Games,0-29 days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,7.98,0
+AU006133,2025-12-09,2025-12-08,2025-12,Baseline,RC-EAST,Swing,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.37,0
+AU006137,2025-12-09,2025-12-08,2025-12,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,34.38,0
+AU006139,2025-12-09,2025-12-08,2025-12,Baseline,RC-WEST,Swing,Electronics,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),System/data entry error,12.46,0
+AU006140,2025-12-09,2025-12-08,2025-12,Baseline,RC-SOUTH,Swing,Books & Media,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),System/data entry error,2.02,0
+AU006141,2025-12-09,2025-12-08,2025-12,Baseline,RC-SOUTH,Swing,Apparel,0-29 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,5.19,0
+AU006153,2025-12-09,2025-12-08,2025-12,Baseline,RC-EAST,Night,Sports & Outdoors,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,5.64,0
+AU006181,2025-12-10,2025-12-08,2025-12,Baseline,RC-EAST,Day,Books & Media,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,3.59,0
+AU006184,2025-12-10,2025-12-08,2025-12,Baseline,RC-CENTRAL,Swing,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,11.18,0
+AU006191,2025-12-10,2025-12-08,2025-12,Baseline,RC-EAST,Swing,Books & Media,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,2.27,0
+AU006197,2025-12-10,2025-12-08,2025-12,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,10.92,0
+AU006230,2025-12-11,2025-12-08,2025-12,Baseline,RC-SOUTH,Day,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,15.47,0
+AU006255,2025-12-11,2025-12-08,2025-12,Baseline,RC-SOUTH,Night,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,3.68,0
+AU006257,2025-12-11,2025-12-08,2025-12,Baseline,RC-EAST,Night,Beauty & Personal Care,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),Functional test skipped,5.95,0
+AU006282,2025-12-12,2025-12-08,2025-12,Baseline,RC-CENTRAL,Day,Beauty & Personal Care,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.48,0
+AU006304,2025-12-12,2025-12-08,2025-12,Baseline,RC-WEST,Swing,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,34.71,0
+AU006308,2025-12-12,2025-12-08,2025-12,Baseline,RC-CENTRAL,Swing,Home & Kitchen,90-364 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,7.54,0
+AU006347,2025-12-13,2025-12-08,2025-12,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,9.3,0
+AU006348,2025-12-13,2025-12-08,2025-12,Baseline,RC-EAST,Day,Sports & Outdoors,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),No photo evidence captured,50.24,1
+AU006351,2025-12-13,2025-12-08,2025-12,Baseline,RC-WEST,Day,Toys & Games,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,15.82,0
+AU006371,2025-12-13,2025-12-08,2025-12,Baseline,RC-CENTRAL,Night,Toys & Games,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),System/data entry error,3.31,0
+AU006401,2025-12-14,2025-12-08,2025-12,Baseline,RC-CENTRAL,Swing,Sports & Outdoors,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,12.18,0
+AU006456,2025-12-15,2025-12-15,2025-12,Baseline,RC-EAST,Swing,Electronics,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,22.56,0
+AU006512,2025-12-16,2025-12-15,2025-12,Baseline,RC-WEST,Swing,Apparel,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,2.94,0
+AU006514,2025-12-16,2025-12-15,2025-12,Baseline,RC-WEST,Swing,Electronics,0-29 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Wrong SOP criteria applied,26.34,0
+AU006523,2025-12-16,2025-12-15,2025-12,Baseline,RC-WEST,Night,Home & Kitchen,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),Accessories/parts not verified,21.39,0
+AU006525,2025-12-16,2025-12-15,2025-12,Baseline,RC-CENTRAL,Night,Tools & Home Improvement,0-29 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Functional test skipped,6.26,0
+AU006530,2025-12-17,2025-12-15,2025-12,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.91,0
+AU006574,2025-12-17,2025-12-15,2025-12,Baseline,RC-WEST,Night,Home & Kitchen,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,2.92,0
+AU006578,2025-12-17,2025-12-15,2025-12,Baseline,RC-EAST,Night,Home & Kitchen,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,16.29,0
+AU006585,2025-12-18,2025-12-15,2025-12,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.81,0
+AU006614,2025-12-18,2025-12-15,2025-12,Baseline,RC-SOUTH,Swing,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.83,0
+AU006615,2025-12-18,2025-12-15,2025-12,Baseline,RC-WEST,Swing,Beauty & Personal Care,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,9.27,0
+AU006616,2025-12-18,2025-12-15,2025-12,Baseline,RC-CENTRAL,Swing,Toys & Games,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Packaging condition misjudged,1.22,0
+AU006622,2025-12-18,2025-12-15,2025-12,Baseline,RC-EAST,Swing,Sports & Outdoors,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,6.09,0
+AU006623,2025-12-18,2025-12-15,2025-12,Baseline,RC-EAST,Swing,Tools & Home Improvement,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,22.75,0
+AU006624,2025-12-18,2025-12-15,2025-12,Baseline,RC-SOUTH,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,75.4,0
+AU006633,2025-12-19,2025-12-15,2025-12,Baseline,RC-SOUTH,Day,Tools & Home Improvement,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,6.85,0
+AU006654,2025-12-19,2025-12-15,2025-12,Baseline,RC-EAST,Day,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Accessories/parts not verified,25.14,0
+AU006683,2025-12-19,2025-12-15,2025-12,Baseline,RC-WEST,Night,Toys & Games,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.3,0
+AU006689,2025-12-19,2025-12-15,2025-12,Baseline,RC-WEST,Night,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,23.3,0
+AU006691,2025-12-19,2025-12-15,2025-12,Baseline,RC-SOUTH,Night,Books & Media,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Packaging condition misjudged,7.4,0
+AU006693,2025-12-20,2025-12-15,2025-12,Baseline,RC-CENTRAL,Day,Electronics,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),No photo evidence captured,56.47,0
+AU006705,2025-12-20,2025-12-15,2025-12,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.3,0
+AU006734,2025-12-20,2025-12-15,2025-12,Baseline,RC-EAST,Swing,Electronics,0-29 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Accessories/parts not verified,28.41,0
+AU006736,2025-12-20,2025-12-15,2025-12,Baseline,RC-CENTRAL,Swing,Electronics,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,28.7,0
+AU006745,2025-12-20,2025-12-15,2025-12,Baseline,RC-EAST,Swing,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,33.32,0
+AU006749,2025-12-20,2025-12-15,2025-12,Baseline,RC-SOUTH,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,1.52,0
+AU006753,2025-12-20,2025-12-15,2025-12,Baseline,RC-WEST,Night,Books & Media,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,1.1,0
+AU006755,2025-12-20,2025-12-15,2025-12,Baseline,RC-SOUTH,Night,Toys & Games,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,2.72,0
+AU006776,2025-12-21,2025-12-15,2025-12,Baseline,RC-WEST,Swing,Books & Media,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Packaging condition misjudged,0.22,0
+AU006788,2025-12-21,2025-12-15,2025-12,Baseline,RC-WEST,Night,Home & Kitchen,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,21.52,0
+AU006789,2025-12-21,2025-12-15,2025-12,Baseline,RC-WEST,Night,Home & Kitchen,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,7.52,0
+AU006821,2025-12-22,2025-12-22,2025-12,Baseline,RC-EAST,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,6.08,0
+AU006860,2025-12-22,2025-12-22,2025-12,Baseline,RC-WEST,Night,Electronics,30-89 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,156.07,1
+AU006865,2025-12-22,2025-12-22,2025-12,Baseline,RC-CENTRAL,Night,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,50.47,0
+AU006875,2025-12-23,2025-12-22,2025-12,Baseline,RC-SOUTH,Day,Books & Media,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,1.39,0
+AU006919,2025-12-24,2025-12-22,2025-12,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,0.98,0
+AU006920,2025-12-24,2025-12-22,2025-12,Baseline,RC-CENTRAL,Day,Home & Kitchen,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,15.8,0
+AU006928,2025-12-24,2025-12-22,2025-12,Baseline,RC-SOUTH,Day,Toys & Games,0-29 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,2.01,0
+AU006929,2025-12-24,2025-12-22,2025-12,Baseline,RC-CENTRAL,Day,Toys & Games,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),System/data entry error,6.72,0
+AU006939,2025-12-24,2025-12-22,2025-12,Baseline,RC-WEST,Swing,Books & Media,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,3.41,0
+AU006940,2025-12-24,2025-12-22,2025-12,Baseline,RC-CENTRAL,Swing,Toys & Games,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,20.89,1
+AU006941,2025-12-24,2025-12-22,2025-12,Baseline,RC-WEST,Swing,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.81,0
+AU006943,2025-12-24,2025-12-22,2025-12,Baseline,RC-WEST,Swing,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,8.75,0
+AU006948,2025-12-24,2025-12-22,2025-12,Baseline,RC-EAST,Night,Beauty & Personal Care,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,2.98,0
+AU006972,2025-12-25,2025-12-22,2025-12,Baseline,RC-CENTRAL,Day,Tools & Home Improvement,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,21.39,0
+AU006975,2025-12-25,2025-12-22,2025-12,Baseline,RC-SOUTH,Day,Books & Media,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,2.5,0
+AU006977,2025-12-25,2025-12-22,2025-12,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,11.37,0
+AU006994,2025-12-25,2025-12-22,2025-12,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,30.4,0
+AU007009,2025-12-25,2025-12-22,2025-12,Baseline,RC-WEST,Night,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.8,0
+AU007022,2025-12-26,2025-12-22,2025-12,Baseline,RC-CENTRAL,Day,Toys & Games,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,1.68,0
+AU007055,2025-12-26,2025-12-22,2025-12,Baseline,RC-SOUTH,Swing,Sports & Outdoors,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Accessories/parts not verified,5.6,0
+AU007074,2025-12-26,2025-12-22,2025-12,Baseline,RC-WEST,Night,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,42.47,0
+AU007086,2025-12-27,2025-12-22,2025-12,Baseline,RC-WEST,Day,Home & Kitchen,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,3.86,0
+AU007094,2025-12-27,2025-12-22,2025-12,Baseline,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,17.97,0
+AU007102,2025-12-27,2025-12-22,2025-12,Baseline,RC-CENTRAL,Day,Electronics,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,51.82,0
+AU007114,2025-12-27,2025-12-22,2025-12,Baseline,RC-WEST,Swing,Home & Kitchen,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Accessories/parts not verified,0.71,0
+AU007135,2025-12-28,2025-12-22,2025-12,Baseline,RC-SOUTH,Day,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,9.83,0
+AU007162,2025-12-28,2025-12-22,2025-12,Baseline,RC-WEST,Swing,Electronics,30-89 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,3.3,0
+AU007170,2025-12-28,2025-12-22,2025-12,Baseline,RC-SOUTH,Night,Beauty & Personal Care,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU007171,2025-12-28,2025-12-22,2025-12,Baseline,RC-CENTRAL,Night,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,13.34,0
+AU007172,2025-12-28,2025-12-22,2025-12,Baseline,RC-EAST,Night,Toys & Games,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,10.64,0
+AU007174,2025-12-28,2025-12-22,2025-12,Baseline,RC-SOUTH,Night,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,4.58,0
+AU007178,2025-12-29,2025-12-29,2025-12,Baseline,RC-SOUTH,Day,Toys & Games,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,1.1,0
+AU007191,2025-12-29,2025-12-29,2025-12,Baseline,RC-CENTRAL,Day,Beauty & Personal Care,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Accessories/parts not verified,0.0,0
+AU007211,2025-12-29,2025-12-29,2025-12,Baseline,RC-SOUTH,Swing,Toys & Games,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,5.36,0
+AU007216,2025-12-29,2025-12-29,2025-12,Baseline,RC-EAST,Swing,Sports & Outdoors,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,4.74,0
+AU007220,2025-12-29,2025-12-29,2025-12,Baseline,RC-WEST,Swing,Beauty & Personal Care,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.42,0
+AU007221,2025-12-29,2025-12-29,2025-12,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,23.98,0
+AU007239,2025-12-29,2025-12-29,2025-12,Baseline,RC-CENTRAL,Night,Home & Kitchen,30-89 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,29.25,1
+AU007248,2025-12-29,2025-12-29,2025-12,Baseline,RC-SOUTH,Night,Tools & Home Improvement,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),System/data entry error,5.25,0
+AU007249,2025-12-29,2025-12-29,2025-12,Baseline,RC-SOUTH,Night,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,19.83,0
+AU007254,2025-12-29,2025-12-29,2025-12,Baseline,RC-SOUTH,Night,Home & Kitchen,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.98,0
+AU007261,2025-12-30,2025-12-29,2025-12,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,28.42,0
+AU007275,2025-12-30,2025-12-29,2025-12,Baseline,RC-WEST,Day,Beauty & Personal Care,365+ days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,5.07,0
+AU007313,2025-12-31,2025-12-29,2025-12,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),No photo evidence captured,3.44,0
+AU007314,2025-12-31,2025-12-29,2025-12,Baseline,RC-WEST,Day,Books & Media,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,2.26,0
+AU007316,2025-12-31,2025-12-29,2025-12,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU007349,2025-12-31,2025-12-29,2025-12,Baseline,RC-CENTRAL,Swing,Toys & Games,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.99,0
+AU007387,2026-01-01,2025-12-29,2026-01,Baseline,RC-SOUTH,Day,Apparel,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,24.5,0
+AU007399,2026-01-01,2025-12-29,2026-01,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,14.0,0
+AU007401,2026-01-01,2025-12-29,2026-01,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,0.75,0
+AU007418,2026-01-01,2025-12-29,2026-01,Baseline,RC-WEST,Night,Electronics,90-364 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Wrong SOP criteria applied,0.0,0
+AU007425,2026-01-01,2025-12-29,2026-01,Baseline,RC-SOUTH,Night,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Wrong SOP criteria applied,69.93,0
+AU007482,2026-01-02,2025-12-29,2026-01,Baseline,RC-EAST,Night,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,64.27,0
+AU007504,2026-01-03,2025-12-29,2026-01,Baseline,RC-CENTRAL,Day,Beauty & Personal Care,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,2.0,0
+AU007511,2026-01-03,2025-12-29,2026-01,Baseline,RC-EAST,Day,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,37.24,0
+AU007537,2026-01-03,2025-12-29,2026-01,Baseline,RC-EAST,Swing,Home & Kitchen,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,23.58,0
+AU007545,2026-01-03,2025-12-29,2026-01,Baseline,RC-EAST,Night,Home & Kitchen,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),System/data entry error,8.64,0
+AU007566,2026-01-04,2025-12-29,2026-01,Baseline,RC-WEST,Swing,Sports & Outdoors,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),System/data entry error,11.79,0
+AU007588,2026-01-04,2025-12-29,2026-01,Baseline,RC-SOUTH,Night,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,6.09,0
+AU007590,2026-01-04,2025-12-29,2026-01,Baseline,RC-CENTRAL,Night,Toys & Games,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,3.4,0
+AU007592,2026-01-04,2025-12-29,2026-01,Baseline,RC-CENTRAL,Night,Beauty & Personal Care,30-89 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU007593,2026-01-04,2025-12-29,2026-01,Baseline,RC-CENTRAL,Night,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,10.11,0
+AU007603,2026-01-05,2026-01-05,2026-01,Baseline,RC-EAST,Day,Books & Media,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,3.77,0
+AU007605,2026-01-05,2026-01-05,2026-01,Baseline,RC-WEST,Day,Sports & Outdoors,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,3.47,0
+AU007613,2026-01-05,2026-01-05,2026-01,Baseline,RC-WEST,Day,Home & Kitchen,30-89 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,5.08,0
+AU007619,2026-01-05,2026-01-05,2026-01,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,2.98,0
+AU007622,2026-01-05,2026-01-05,2026-01,Baseline,RC-EAST,Swing,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.24,0
+AU007630,2026-01-05,2026-01-05,2026-01,Baseline,RC-WEST,Swing,Beauty & Personal Care,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,2.33,0
+AU007649,2026-01-05,2026-01-05,2026-01,Baseline,RC-WEST,Swing,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,9.83,0
+AU007656,2026-01-05,2026-01-05,2026-01,Baseline,RC-CENTRAL,Night,Home & Kitchen,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,21.7,0
+AU007662,2026-01-05,2026-01-05,2026-01,Baseline,RC-EAST,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,11.53,0
+AU007667,2026-01-06,2026-01-05,2026-01,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,30.27,0
+AU007670,2026-01-06,2026-01-05,2026-01,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,7.35,0
+AU007700,2026-01-06,2026-01-05,2026-01,Baseline,RC-WEST,Swing,Tools & Home Improvement,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,110.38,0
+AU007705,2026-01-06,2026-01-05,2026-01,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,20.35,0
+AU007712,2026-01-06,2026-01-05,2026-01,Baseline,RC-EAST,Swing,Books & Media,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,1.39,0
+AU007729,2026-01-06,2026-01-05,2026-01,Baseline,RC-SOUTH,Night,Electronics,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,4.84,0
+AU007732,2026-01-06,2026-01-05,2026-01,Baseline,RC-CENTRAL,Night,Tools & Home Improvement,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,7.62,0
+AU007742,2026-01-06,2026-01-05,2026-01,Baseline,RC-CENTRAL,Night,Sports & Outdoors,30-89 days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Functional test skipped,53.64,0
+AU007746,2026-01-06,2026-01-05,2026-01,Baseline,RC-WEST,Night,Apparel,90-364 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,2.94,0
+AU007757,2026-01-07,2026-01-05,2026-01,Baseline,RC-CENTRAL,Day,Electronics,30-89 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,19.74,1
+AU007765,2026-01-07,2026-01-05,2026-01,Baseline,RC-WEST,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,2.97,0
+AU007783,2026-01-07,2026-01-05,2026-01,Baseline,RC-CENTRAL,Swing,Beauty & Personal Care,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),No photo evidence captured,0.0,0
+AU007798,2026-01-07,2026-01-05,2026-01,Baseline,RC-EAST,Swing,Electronics,30-89 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,3.67,0
+AU007804,2026-01-07,2026-01-05,2026-01,Baseline,RC-EAST,Night,Electronics,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,14.2,0
+AU007816,2026-01-08,2026-01-05,2026-01,Baseline,RC-CENTRAL,Day,Electronics,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,9.01,0
+AU007819,2026-01-08,2026-01-05,2026-01,Baseline,RC-WEST,Day,Toys & Games,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,0.39,0
+AU007826,2026-01-08,2026-01-05,2026-01,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,54.66,0
+AU007833,2026-01-08,2026-01-05,2026-01,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,5.03,0
+AU007840,2026-01-08,2026-01-05,2026-01,Baseline,RC-EAST,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,5.69,0
+AU007872,2026-01-08,2026-01-05,2026-01,Baseline,RC-EAST,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.21,0
+AU007875,2026-01-08,2026-01-05,2026-01,Baseline,RC-CENTRAL,Night,Electronics,30-89 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,120.35,1
+AU007877,2026-01-08,2026-01-05,2026-01,Baseline,RC-WEST,Night,Sports & Outdoors,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,6.52,0
+AU007896,2026-01-09,2026-01-05,2026-01,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,23.66,0
+AU007916,2026-01-09,2026-01-05,2026-01,Baseline,RC-WEST,Day,Sports & Outdoors,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),System/data entry error,11.99,0
+AU007927,2026-01-09,2026-01-05,2026-01,Baseline,RC-WEST,Swing,Toys & Games,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,2.45,0
+AU007965,2026-01-10,2026-01-05,2026-01,Baseline,RC-SOUTH,Day,Beauty & Personal Care,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU007990,2026-01-10,2026-01-05,2026-01,Baseline,RC-EAST,Swing,Toys & Games,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,8.75,0
+AU007992,2026-01-10,2026-01-05,2026-01,Baseline,RC-EAST,Swing,Beauty & Personal Care,0-29 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Wrong SOP criteria applied,0.0,0
+AU008000,2026-01-10,2026-01-05,2026-01,Baseline,RC-SOUTH,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.43,0
+AU008027,2026-01-11,2026-01-05,2026-01,Baseline,RC-EAST,Day,Tools & Home Improvement,30-89 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,34.46,1
+AU008029,2026-01-11,2026-01-05,2026-01,Baseline,RC-CENTRAL,Day,Electronics,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,17.58,0
+AU008036,2026-01-11,2026-01-05,2026-01,Baseline,RC-SOUTH,Day,Sports & Outdoors,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,9.97,0
+AU008056,2026-01-11,2026-01-05,2026-01,Baseline,RC-EAST,Swing,Electronics,30-89 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Functional test skipped,43.39,1
+AU008078,2026-01-12,2026-01-12,2026-01,Baseline,RC-WEST,Day,Sports & Outdoors,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,4.29,0
+AU008093,2026-01-12,2026-01-12,2026-01,Baseline,RC-SOUTH,Day,Electronics,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,54.27,0
+AU008103,2026-01-12,2026-01-12,2026-01,Baseline,RC-WEST,Day,Home & Kitchen,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),System/data entry error,1.3,0
+AU008107,2026-01-12,2026-01-12,2026-01,Baseline,RC-SOUTH,Swing,Sports & Outdoors,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Wrong SOP criteria applied,0.28,0
+AU008112,2026-01-12,2026-01-12,2026-01,Baseline,RC-CENTRAL,Swing,Apparel,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Accessories/parts not verified,0.0,0
+AU008113,2026-01-12,2026-01-12,2026-01,Baseline,RC-SOUTH,Swing,Electronics,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),System/data entry error,0.19,0
+AU008133,2026-01-12,2026-01-12,2026-01,Baseline,RC-WEST,Swing,Home & Kitchen,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,7.18,0
+AU008136,2026-01-12,2026-01-12,2026-01,Baseline,RC-EAST,Swing,Electronics,30-89 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Functional test skipped,40.26,1
+AU008151,2026-01-12,2026-01-12,2026-01,Baseline,RC-WEST,Night,Sports & Outdoors,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,49.67,1
+AU008154,2026-01-12,2026-01-12,2026-01,Baseline,RC-CENTRAL,Night,Beauty & Personal Care,30-89 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Functional test skipped,0.0,0
+AU008167,2026-01-13,2026-01-12,2026-01,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,32.73,0
+AU008174,2026-01-13,2026-01-12,2026-01,Baseline,RC-SOUTH,Day,Electronics,30-89 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,21.29,0
+AU008191,2026-01-13,2026-01-12,2026-01,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Packaging condition misjudged,2.42,0
+AU008197,2026-01-13,2026-01-12,2026-01,Baseline,RC-WEST,Swing,Books & Media,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,5.49,0
+AU008202,2026-01-13,2026-01-12,2026-01,Baseline,RC-CENTRAL,Swing,Toys & Games,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),No photo evidence captured,3.26,0
+AU008204,2026-01-13,2026-01-12,2026-01,Baseline,RC-CENTRAL,Night,Toys & Games,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,8.07,0
+AU008206,2026-01-13,2026-01-12,2026-01,Baseline,RC-WEST,Night,Electronics,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Wrong SOP criteria applied,0.0,0
+AU008216,2026-01-13,2026-01-12,2026-01,Baseline,RC-SOUTH,Night,Tools & Home Improvement,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,10.02,0
+AU008249,2026-01-14,2026-01-12,2026-01,Baseline,RC-CENTRAL,Day,Tools & Home Improvement,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,32.43,0
+AU008271,2026-01-14,2026-01-12,2026-01,Baseline,RC-EAST,Swing,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,16.81,0
+AU008277,2026-01-14,2026-01-12,2026-01,Baseline,RC-WEST,Night,Home & Kitchen,90-364 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,40.41,0
+AU008293,2026-01-15,2026-01-12,2026-01,Baseline,RC-EAST,Day,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,10.11,0
+AU008319,2026-01-15,2026-01-12,2026-01,Baseline,RC-EAST,Day,Home & Kitchen,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,15.56,0
+AU008321,2026-01-15,2026-01-12,2026-01,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU008348,2026-01-15,2026-01-12,2026-01,Baseline,RC-CENTRAL,Night,Sports & Outdoors,90-364 days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),No photo evidence captured,0.31,0
+AU008377,2026-01-16,2026-01-12,2026-01,Baseline,RC-WEST,Day,Beauty & Personal Care,90-364 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Functional test skipped,0.0,0
+AU008411,2026-01-16,2026-01-12,2026-01,Baseline,RC-EAST,Night,Sports & Outdoors,90-364 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,38.43,0
+AU008412,2026-01-16,2026-01-12,2026-01,Baseline,RC-EAST,Night,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,6.87,0
+AU008414,2026-01-16,2026-01-12,2026-01,Baseline,RC-SOUTH,Night,Apparel,30-89 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,0.6,0
+AU008415,2026-01-16,2026-01-12,2026-01,Baseline,RC-WEST,Night,Home & Kitchen,90-364 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,6.28,0
+AU008417,2026-01-16,2026-01-12,2026-01,Baseline,RC-EAST,Night,Electronics,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,8.23,0
+AU008419,2026-01-16,2026-01-12,2026-01,Baseline,RC-EAST,Night,Electronics,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,22.13,0
+AU008445,2026-01-17,2026-01-12,2026-01,Baseline,RC-EAST,Day,Books & Media,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,3.68,0
+AU008466,2026-01-17,2026-01-12,2026-01,Baseline,RC-WEST,Swing,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,4.42,0
+AU008494,2026-01-18,2026-01-12,2026-01,Baseline,RC-CENTRAL,Day,Apparel,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),System/data entry error,2.75,0
+AU008519,2026-01-18,2026-01-12,2026-01,Baseline,RC-EAST,Swing,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.37,0
+AU008523,2026-01-18,2026-01-12,2026-01,Baseline,RC-EAST,Swing,Toys & Games,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,3.33,0
+AU008538,2026-01-19,2026-01-19,2026-01,Baseline,RC-WEST,Day,Apparel,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,6.67,0
+AU008543,2026-01-19,2026-01-19,2026-01,Baseline,RC-WEST,Day,Toys & Games,90-364 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,13.95,0
+AU008559,2026-01-19,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Apparel,30-89 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU008573,2026-01-19,2026-01-19,2026-01,Baseline,RC-EAST,Swing,Apparel,30-89 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,0.95,0
+AU008576,2026-01-19,2026-01-19,2026-01,Baseline,RC-WEST,Swing,Sports & Outdoors,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,11.15,0
+AU008585,2026-01-19,2026-01-19,2026-01,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,15.16,0
+AU008591,2026-01-19,2026-01-19,2026-01,Baseline,RC-EAST,Night,Tools & Home Improvement,365+ days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),System/data entry error,10.77,0
+AU008606,2026-01-20,2026-01-19,2026-01,Baseline,RC-WEST,Day,Electronics,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,23.02,0
+AU008608,2026-01-20,2026-01-19,2026-01,Baseline,RC-EAST,Day,Electronics,90-364 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,17.3,0
+AU008611,2026-01-20,2026-01-19,2026-01,Baseline,RC-WEST,Day,Apparel,90-364 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,3.64,0
+AU008612,2026-01-20,2026-01-19,2026-01,Baseline,RC-EAST,Day,Electronics,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,0.19,0
+AU008645,2026-01-20,2026-01-19,2026-01,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,27.89,0
+AU008650,2026-01-20,2026-01-19,2026-01,Baseline,RC-SOUTH,Swing,Home & Kitchen,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,14.52,0
+AU008652,2026-01-20,2026-01-19,2026-01,Baseline,RC-SOUTH,Swing,Electronics,30-89 days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Wrong SOP criteria applied,1.21,0
+AU008654,2026-01-20,2026-01-19,2026-01,Baseline,RC-CENTRAL,Swing,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.87,0
+AU008665,2026-01-20,2026-01-19,2026-01,Baseline,RC-SOUTH,Night,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,23.14,0
+AU008670,2026-01-21,2026-01-19,2026-01,Baseline,RC-SOUTH,Day,Apparel,365+ days,v2.2,DESTROY,RECYCLE,Downgrade (graded too low),Packaging condition misjudged,0.83,0
+AU008685,2026-01-21,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,10.4,0
+AU008694,2026-01-21,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,2.33,0
+AU008699,2026-01-21,2026-01-19,2026-01,Baseline,RC-EAST,Swing,Beauty & Personal Care,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.24,0
+AU008703,2026-01-21,2026-01-19,2026-01,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,1.37,0
+AU008728,2026-01-22,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,11.35,0
+AU008733,2026-01-22,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,30.3,0
+AU008753,2026-01-22,2026-01-19,2026-01,Baseline,RC-CENTRAL,Swing,Apparel,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,4.34,0
+AU008756,2026-01-22,2026-01-19,2026-01,Baseline,RC-CENTRAL,Swing,Sports & Outdoors,30-89 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,5.6,0
+AU008773,2026-01-22,2026-01-19,2026-01,Baseline,RC-SOUTH,Swing,Electronics,30-89 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,46.36,1
+AU008787,2026-01-22,2026-01-19,2026-01,Baseline,RC-EAST,Night,Tools & Home Improvement,90-364 days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,20.67,0
+AU008790,2026-01-23,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),No photo evidence captured,4.32,0
+AU008791,2026-01-23,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Home & Kitchen,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,18.7,0
+AU008802,2026-01-23,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),No photo evidence captured,29.86,0
+AU008806,2026-01-23,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Books & Media,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,2.29,0
+AU008820,2026-01-23,2026-01-19,2026-01,Baseline,RC-SOUTH,Day,Home & Kitchen,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,6.77,0
+AU008851,2026-01-23,2026-01-19,2026-01,Baseline,RC-EAST,Swing,Tools & Home Improvement,30-89 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,34.88,0
+AU008853,2026-01-23,2026-01-19,2026-01,Baseline,RC-WEST,Swing,Tools & Home Improvement,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,14.39,0
+AU008858,2026-01-23,2026-01-19,2026-01,Baseline,RC-CENTRAL,Night,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,45.37,0
+AU008860,2026-01-23,2026-01-19,2026-01,Baseline,RC-EAST,Night,Home & Kitchen,30-89 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,9.95,0
+AU008862,2026-01-23,2026-01-19,2026-01,Baseline,RC-CENTRAL,Night,Tools & Home Improvement,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,11.61,0
+AU008868,2026-01-24,2026-01-19,2026-01,Baseline,RC-WEST,Day,Electronics,90-364 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),System/data entry error,67.82,0
+AU008874,2026-01-24,2026-01-19,2026-01,Baseline,RC-SOUTH,Day,Apparel,365+ days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Functional test skipped,6.72,0
+AU008880,2026-01-24,2026-01-19,2026-01,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,27.41,0
+AU008902,2026-01-24,2026-01-19,2026-01,Baseline,RC-WEST,Swing,Home & Kitchen,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Wrong SOP criteria applied,0.0,0
+AU008908,2026-01-24,2026-01-19,2026-01,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,9.48,0
+AU008924,2026-01-24,2026-01-19,2026-01,Baseline,RC-EAST,Night,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,5.28,0
+AU008927,2026-01-24,2026-01-19,2026-01,Baseline,RC-CENTRAL,Night,Electronics,90-364 days,v2.2,DESTROY,REFURB,Downgrade (graded too low),Functional test skipped,62.23,1
+AU008935,2026-01-24,2026-01-19,2026-01,Baseline,RC-CENTRAL,Night,Sports & Outdoors,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,4.85,0
+AU008944,2026-01-25,2026-01-19,2026-01,Baseline,RC-SOUTH,Day,Tools & Home Improvement,30-89 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,5.64,0
+AU008956,2026-01-25,2026-01-19,2026-01,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,8.39,0
+AU008969,2026-01-25,2026-01-19,2026-01,Baseline,RC-CENTRAL,Swing,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,2.44,0
+AU008985,2026-01-26,2026-01-26,2026-01,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,7.73,0
+AU008988,2026-01-26,2026-01-26,2026-01,Baseline,RC-SOUTH,Day,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,16.1,0
+AU009000,2026-01-26,2026-01-26,2026-01,Baseline,RC-SOUTH,Day,Apparel,365+ days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,8.4,0
+AU009024,2026-01-26,2026-01-26,2026-01,Baseline,RC-WEST,Swing,Beauty & Personal Care,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,0.97,0
+AU009035,2026-01-26,2026-01-26,2026-01,Baseline,RC-EAST,Night,Apparel,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,7.81,0
+AU009042,2026-01-26,2026-01-26,2026-01,Baseline,RC-EAST,Night,Beauty & Personal Care,90-364 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,3.5,0
+AU009045,2026-01-26,2026-01-26,2026-01,Baseline,RC-WEST,Night,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.95,0
+AU009059,2026-01-27,2026-01-26,2026-01,Baseline,RC-WEST,Day,Electronics,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,25.99,0
+AU009070,2026-01-27,2026-01-26,2026-01,Baseline,RC-EAST,Day,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Wrong SOP criteria applied,4.76,0
+AU009104,2026-01-27,2026-01-26,2026-01,Baseline,RC-CENTRAL,Night,Books & Media,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,1.81,0
+AU009110,2026-01-27,2026-01-26,2026-01,Baseline,RC-SOUTH,Night,Electronics,30-89 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,102.69,1
+AU009119,2026-01-28,2026-01-26,2026-01,Baseline,RC-WEST,Day,Electronics,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,29.61,1
+AU009124,2026-01-28,2026-01-26,2026-01,Baseline,RC-SOUTH,Day,Electronics,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,31.54,1
+AU009128,2026-01-28,2026-01-26,2026-01,Baseline,RC-EAST,Day,Electronics,90-364 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,95.38,1
+AU009146,2026-01-28,2026-01-26,2026-01,Baseline,RC-WEST,Swing,Home & Kitchen,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Functional test skipped,0.25,0
+AU009147,2026-01-28,2026-01-26,2026-01,Baseline,RC-EAST,Swing,Electronics,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,32.75,1
+AU009170,2026-01-28,2026-01-26,2026-01,Baseline,RC-EAST,Swing,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,6.6,0
+AU009176,2026-01-28,2026-01-26,2026-01,Baseline,RC-WEST,Night,Electronics,365+ days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Accessories/parts not verified,0.0,0
+AU009177,2026-01-28,2026-01-26,2026-01,Baseline,RC-WEST,Night,Home & Kitchen,30-89 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,5.51,0
+AU009193,2026-01-29,2026-01-26,2026-01,Baseline,RC-WEST,Day,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,6.15,0
+AU009229,2026-01-29,2026-01-26,2026-01,Baseline,RC-CENTRAL,Swing,Electronics,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),No photo evidence captured,36.32,0
+AU009237,2026-01-29,2026-01-26,2026-01,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),No photo evidence captured,0.28,0
+AU009252,2026-01-29,2026-01-26,2026-01,Baseline,RC-EAST,Swing,Sports & Outdoors,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,7.05,0
+AU009261,2026-01-29,2026-01-26,2026-01,Baseline,RC-CENTRAL,Night,Electronics,90-364 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Functional test skipped,27.67,0
+AU009299,2026-01-30,2026-01-26,2026-01,Baseline,RC-CENTRAL,Swing,Apparel,90-364 days,v2.2,DESTROY,RECYCLE,Downgrade (graded too low),Functional test skipped,0.95,0
+AU009323,2026-01-30,2026-01-26,2026-01,Baseline,RC-EAST,Night,Toys & Games,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.93,0
+AU009334,2026-01-31,2026-01-26,2026-01,Baseline,RC-WEST,Day,Books & Media,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Functional test skipped,2.48,0
+AU009355,2026-01-31,2026-01-26,2026-01,Baseline,RC-CENTRAL,Day,Tools & Home Improvement,30-89 days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Accessories/parts not verified,23.04,0
+AU009363,2026-01-31,2026-01-26,2026-01,Baseline,RC-WEST,Swing,Toys & Games,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,0.34,0
+AU009383,2026-01-31,2026-01-26,2026-01,Baseline,RC-EAST,Night,Electronics,30-89 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,18.76,0
+AU009385,2026-01-31,2026-01-26,2026-01,Baseline,RC-CENTRAL,Night,Toys & Games,90-364 days,v2.2,REFURB,NEW,Downgrade (graded too low),No photo evidence captured,4.44,0
+AU009440,2026-02-02,2026-02-02,2026-02,Baseline,RC-EAST,Day,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,5.59,0
+AU009475,2026-02-02,2026-02-02,2026-02,Baseline,RC-CENTRAL,Night,Home & Kitchen,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,3.06,0
+AU009477,2026-02-02,2026-02-02,2026-02,Baseline,RC-CENTRAL,Night,Books & Media,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,2.54,0
+AU009505,2026-02-03,2026-02-02,2026-02,Baseline,RC-EAST,Day,Toys & Games,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,4.6,0
+AU009510,2026-02-03,2026-02-02,2026-02,Baseline,RC-CENTRAL,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,12.43,0
+AU009512,2026-02-03,2026-02-02,2026-02,Baseline,RC-EAST,Swing,Home & Kitchen,30-89 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),System/data entry error,7.98,0
+AU009518,2026-02-03,2026-02-02,2026-02,Baseline,RC-WEST,Swing,Sports & Outdoors,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,0.71,0
+AU009524,2026-02-03,2026-02-02,2026-02,Baseline,RC-WEST,Night,Home & Kitchen,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Accessories/parts not verified,7.81,0
+AU009535,2026-02-04,2026-02-02,2026-02,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,2.71,0
+AU009538,2026-02-04,2026-02-02,2026-02,Baseline,RC-CENTRAL,Day,Electronics,90-364 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,66.84,1
+AU009540,2026-02-04,2026-02-02,2026-02,Baseline,RC-WEST,Day,Tools & Home Improvement,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,7.27,0
+AU009588,2026-02-05,2026-02-02,2026-02,Baseline,RC-WEST,Day,Books & Media,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,1.61,0
+AU009593,2026-02-05,2026-02-02,2026-02,Baseline,RC-EAST,Day,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.47,0
+AU009612,2026-02-05,2026-02-02,2026-02,Baseline,RC-EAST,Swing,Beauty & Personal Care,30-89 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Packaging condition misjudged,0.0,0
+AU009621,2026-02-05,2026-02-02,2026-02,Baseline,RC-WEST,Night,Electronics,0-29 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,26.37,0
+AU009629,2026-02-06,2026-02-02,2026-02,Baseline,RC-WEST,Day,Home & Kitchen,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,7.44,0
+AU009642,2026-02-06,2026-02-02,2026-02,Baseline,RC-WEST,Day,Electronics,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,32.7,0
+AU009663,2026-02-06,2026-02-02,2026-02,Baseline,RC-WEST,Swing,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Wrong SOP criteria applied,3.5,0
+AU009667,2026-02-06,2026-02-02,2026-02,Baseline,RC-CENTRAL,Night,Toys & Games,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,6.09,0
+AU009688,2026-02-07,2026-02-02,2026-02,Baseline,RC-WEST,Day,Apparel,90-364 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Packaging condition misjudged,0.0,0
+AU009689,2026-02-07,2026-02-02,2026-02,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,14.36,0
+AU009695,2026-02-07,2026-02-02,2026-02,Baseline,RC-WEST,Swing,Beauty & Personal Care,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.88,0
+AU009696,2026-02-07,2026-02-02,2026-02,Baseline,RC-CENTRAL,Swing,Toys & Games,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,10.0,0
+AU009715,2026-02-07,2026-02-02,2026-02,Baseline,RC-WEST,Night,Electronics,90-364 days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Functional test skipped,18.23,0
+AU009751,2026-02-08,2026-02-02,2026-02,Baseline,RC-EAST,Night,Home & Kitchen,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,21.59,0
+AU009763,2026-02-09,2026-02-09,2026-02,Baseline,RC-CENTRAL,Day,Apparel,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.59,0
+AU009772,2026-02-09,2026-02-09,2026-02,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,16.71,0
+AU009801,2026-02-10,2026-02-09,2026-02,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),No photo evidence captured,1.23,0
+AU009810,2026-02-10,2026-02-09,2026-02,Baseline,RC-CENTRAL,Day,Home & Kitchen,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Packaging condition misjudged,1.35,0
+AU009817,2026-02-10,2026-02-09,2026-02,Baseline,RC-EAST,Day,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,15.28,0
+AU009867,2026-02-11,2026-02-09,2026-02,Baseline,RC-EAST,Swing,Tools & Home Improvement,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,6.7,0
+AU009884,2026-02-11,2026-02-09,2026-02,Baseline,RC-WEST,Night,Electronics,90-364 days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,100.9,0
+AU009895,2026-02-12,2026-02-09,2026-02,Baseline,RC-SOUTH,Day,Sports & Outdoors,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,21.21,0
+AU009934,2026-02-13,2026-02-09,2026-02,Baseline,RC-EAST,Day,Apparel,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,5.36,0
+AU009937,2026-02-13,2026-02-09,2026-02,Baseline,RC-WEST,Day,Home & Kitchen,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,8.32,0
+AU009943,2026-02-13,2026-02-09,2026-02,Baseline,RC-SOUTH,Swing,Apparel,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),Packaging condition misjudged,5.65,0
+AU009985,2026-02-14,2026-02-09,2026-02,Baseline,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,9.55,0
+AU010004,2026-02-14,2026-02-09,2026-02,Baseline,RC-CENTRAL,Swing,Tools & Home Improvement,90-364 days,v2.2,DESTROY,RECYCLE,Downgrade (graded too low),Wrong SOP criteria applied,5.29,0
+AU010047,2026-02-15,2026-02-09,2026-02,Baseline,RC-CENTRAL,Swing,Tools & Home Improvement,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Packaging condition misjudged,40.42,1
+AU010055,2026-02-15,2026-02-09,2026-02,Baseline,RC-SOUTH,Night,Electronics,30-89 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Functional test skipped,12.59,0
+AU010099,2026-02-16,2026-02-16,2026-02,Baseline,RC-CENTRAL,Night,Apparel,90-364 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,4.96,0
+AU010122,2026-02-17,2026-02-16,2026-02,Baseline,RC-SOUTH,Swing,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Wrong SOP criteria applied,10.64,0
+AU010129,2026-02-17,2026-02-16,2026-02,Baseline,RC-CENTRAL,Swing,Electronics,30-89 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,2.11,0
+AU010133,2026-02-17,2026-02-16,2026-02,Baseline,RC-CENTRAL,Swing,Electronics,90-364 days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,33.22,1
+AU010177,2026-02-18,2026-02-16,2026-02,Baseline,RC-CENTRAL,Night,Apparel,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,7.83,0
+AU010186,2026-02-19,2026-02-16,2026-02,Baseline,RC-CENTRAL,Day,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,11.57,0
+AU010188,2026-02-19,2026-02-16,2026-02,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,30.59,0
+AU010192,2026-02-19,2026-02-16,2026-02,Baseline,RC-CENTRAL,Day,Tools & Home Improvement,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,4.88,0
+AU010197,2026-02-19,2026-02-16,2026-02,Baseline,RC-WEST,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,4.71,0
+AU010219,2026-02-19,2026-02-16,2026-02,Baseline,RC-EAST,Swing,Electronics,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,18.65,0
+AU010237,2026-02-20,2026-02-16,2026-02,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,13.65,0
+AU010300,2026-02-21,2026-02-16,2026-02,Baseline,RC-CENTRAL,Day,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.68,0
+AU010302,2026-02-21,2026-02-16,2026-02,Baseline,RC-EAST,Swing,Home & Kitchen,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,5.41,0
+AU010306,2026-02-21,2026-02-16,2026-02,Baseline,RC-CENTRAL,Swing,Home & Kitchen,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.28,0
+AU010331,2026-02-22,2026-02-16,2026-02,Baseline,RC-EAST,Day,Electronics,30-89 days,v2.2,RECYCLE,DESTROY,Upgrade (graded too high),Functional test skipped,0.0,0
+AU010349,2026-02-22,2026-02-16,2026-02,Baseline,RC-EAST,Day,Apparel,30-89 days,v2.2,REFURB,NEW,Downgrade (graded too low),Accessories/parts not verified,6.46,0
+AU010419,2026-02-23,2026-02-23,2026-02,Baseline,RC-SOUTH,Night,Electronics,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,74.41,1
+AU010421,2026-02-23,2026-02-23,2026-02,Baseline,RC-EAST,Night,Apparel,90-364 days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),No photo evidence captured,1.71,0
+AU010434,2026-02-23,2026-02-23,2026-02,Baseline,RC-WEST,Night,Toys & Games,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,3.45,0
+AU010443,2026-02-24,2026-02-23,2026-02,Baseline,RC-EAST,Day,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,99.51,0
+AU010475,2026-02-24,2026-02-23,2026-02,Baseline,RC-CENTRAL,Night,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Wrong SOP criteria applied,17.39,0
+AU010492,2026-02-25,2026-02-23,2026-02,Baseline,RC-CENTRAL,Day,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,86.31,0
+AU010550,2026-02-26,2026-02-23,2026-02,Baseline,RC-CENTRAL,Swing,Electronics,90-364 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,1.6,0
+AU010593,2026-02-27,2026-02-23,2026-02,Baseline,RC-EAST,Swing,Books & Media,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,2.02,0
+AU010603,2026-02-27,2026-02-23,2026-02,Baseline,RC-WEST,Night,Home & Kitchen,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,3.75,0
+AU010618,2026-02-28,2026-02-23,2026-02,Baseline,RC-CENTRAL,Day,Sports & Outdoors,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,11.67,0
+AU010621,2026-02-28,2026-02-23,2026-02,Baseline,RC-CENTRAL,Day,Apparel,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,3.62,0
+AU010642,2026-03-01,2026-02-23,2026-03,Pilot,RC-SOUTH,Day,Home & Kitchen,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Accessories/parts not verified,19.69,0
+AU010687,2026-03-02,2026-03-02,2026-03,Pilot,RC-EAST,Day,Toys & Games,90-364 days,v2.2,REFURB,NEW,Downgrade (graded too low),Packaging condition misjudged,2.44,0
+AU010702,2026-03-02,2026-03-02,2026-03,Pilot,RC-EAST,Day,Tools & Home Improvement,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,13.09,0
+AU010710,2026-03-02,2026-03-02,2026-03,Pilot,RC-WEST,Day,Electronics,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Wrong SOP criteria applied,34.07,1
+AU010721,2026-03-02,2026-03-02,2026-03,Pilot,RC-CENTRAL,Swing,Sports & Outdoors,90-364 days,v3.0,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,9.2,0
+AU010724,2026-03-02,2026-03-02,2026-03,Pilot,RC-EAST,Swing,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,238.4,0
+AU010729,2026-03-02,2026-03-02,2026-03,Pilot,RC-EAST,Swing,Toys & Games,90-364 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,12.91,0
+AU010739,2026-03-02,2026-03-02,2026-03,Pilot,RC-WEST,Night,Toys & Games,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,3.7,0
+AU010774,2026-03-03,2026-03-02,2026-03,Pilot,RC-EAST,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,6.46,0
+AU010824,2026-03-04,2026-03-02,2026-03,Pilot,RC-CENTRAL,Night,Electronics,90-364 days,v3.0,NEW,OPEN_BOX,Upgrade (graded too high),System/data entry error,19.84,0
+AU010832,2026-03-04,2026-03-02,2026-03,Pilot,RC-WEST,Night,Electronics,90-364 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,170.45,0
+AU010851,2026-03-05,2026-03-02,2026-03,Pilot,RC-SOUTH,Day,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.04,0
+AU010909,2026-03-06,2026-03-02,2026-03,Pilot,RC-WEST,Swing,Sports & Outdoors,90-364 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,0.64,0
+AU010927,2026-03-07,2026-03-02,2026-03,Pilot,RC-EAST,Day,Tools & Home Improvement,0-29 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,2.6,0
+AU010957,2026-03-07,2026-03-02,2026-03,Pilot,RC-CENTRAL,Swing,Electronics,365+ days,v3.0,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,1.03,0
+AU011030,2026-03-09,2026-03-09,2026-03,Pilot,RC-SOUTH,Swing,Home & Kitchen,30-89 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,74.31,1
+AU011055,2026-03-10,2026-03-09,2026-03,Pilot,RC-EAST,Day,Books & Media,365+ days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,6.06,0
+AU011076,2026-03-10,2026-03-09,2026-03,Pilot,RC-SOUTH,Day,Tools & Home Improvement,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,60.31,0
+AU011088,2026-03-10,2026-03-09,2026-03,Pilot,RC-WEST,Swing,Apparel,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,8.04,0
+AU011099,2026-03-10,2026-03-09,2026-03,Pilot,RC-CENTRAL,Night,Toys & Games,90-364 days,v3.0,LIQUIDATE,RECYCLE,Upgrade (graded too high),Accessories/parts not verified,0.06,0
+AU011101,2026-03-10,2026-03-09,2026-03,Pilot,RC-EAST,Night,Apparel,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,13.62,0
+AU011103,2026-03-10,2026-03-09,2026-03,Pilot,RC-CENTRAL,Night,Tools & Home Improvement,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,18.12,0
+AU011109,2026-03-11,2026-03-09,2026-03,Pilot,RC-CENTRAL,Day,Home & Kitchen,365+ days,v3.0,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,24.25,0
+AU011127,2026-03-11,2026-03-09,2026-03,Pilot,RC-CENTRAL,Day,Electronics,365+ days,v3.0,LIQUIDATE,RECYCLE,Upgrade (graded too high),Functional test skipped,0.79,0
+AU011157,2026-03-11,2026-03-09,2026-03,Pilot,RC-WEST,Night,Electronics,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,22.13,0
+AU011163,2026-03-12,2026-03-09,2026-03,Pilot,RC-SOUTH,Day,Apparel,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,10.73,0
+AU011205,2026-03-12,2026-03-09,2026-03,Pilot,RC-WEST,Night,Apparel,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Accessories/parts not verified,4.11,0
+AU011230,2026-03-13,2026-03-09,2026-03,Pilot,RC-SOUTH,Day,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,3.67,0
+AU011252,2026-03-13,2026-03-09,2026-03,Pilot,RC-EAST,Swing,Apparel,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,3.07,0
+AU011262,2026-03-13,2026-03-09,2026-03,Pilot,RC-WEST,Night,Tools & Home Improvement,365+ days,v2.2,RECYCLE,REFURB,Downgrade (graded too low),Accessories/parts not verified,48.1,1
+AU011267,2026-03-14,2026-03-09,2026-03,Pilot,RC-SOUTH,Day,Apparel,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Accessories/parts not verified,8.91,0
+AU011277,2026-03-14,2026-03-09,2026-03,Pilot,RC-SOUTH,Day,Apparel,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,4.92,0
+AU011303,2026-03-14,2026-03-09,2026-03,Pilot,RC-WEST,Night,Electronics,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,273.38,1
+AU011313,2026-03-15,2026-03-09,2026-03,Pilot,RC-CENTRAL,Day,Books & Media,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.28,0
+AU011338,2026-03-15,2026-03-09,2026-03,Pilot,RC-CENTRAL,Swing,Electronics,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,17.92,0
+AU011339,2026-03-15,2026-03-09,2026-03,Pilot,RC-WEST,Swing,Toys & Games,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,9.13,0
+AU011346,2026-03-15,2026-03-09,2026-03,Pilot,RC-SOUTH,Night,Electronics,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,11.58,0
+AU011359,2026-03-16,2026-03-16,2026-03,Pilot,RC-SOUTH,Day,Apparel,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,2.78,0
+AU011378,2026-03-16,2026-03-16,2026-03,Pilot,RC-EAST,Swing,Electronics,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,34.97,0
+AU011411,2026-03-17,2026-03-16,2026-03,Pilot,RC-EAST,Day,Electronics,90-364 days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,119.12,0
+AU011485,2026-03-18,2026-03-16,2026-03,Pilot,RC-SOUTH,Swing,Tools & Home Improvement,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,18.44,0
+AU011510,2026-03-19,2026-03-16,2026-03,Pilot,RC-EAST,Day,Home & Kitchen,90-364 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,2.05,0
+AU011523,2026-03-19,2026-03-16,2026-03,Pilot,RC-EAST,Swing,Electronics,90-364 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,10.1,0
+AU011540,2026-03-19,2026-03-16,2026-03,Pilot,RC-EAST,Night,Sports & Outdoors,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,7.4,0
+AU011595,2026-03-20,2026-03-16,2026-03,Pilot,RC-EAST,Night,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,7.01,0
+AU011600,2026-03-20,2026-03-16,2026-03,Pilot,RC-SOUTH,Night,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,60.25,0
+AU011622,2026-03-21,2026-03-16,2026-03,Pilot,RC-SOUTH,Day,Tools & Home Improvement,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,6.78,0
+AU011658,2026-03-22,2026-03-16,2026-03,Pilot,RC-CENTRAL,Day,Electronics,365+ days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,18.23,0
+AU011675,2026-03-22,2026-03-16,2026-03,Pilot,RC-WEST,Swing,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,200.47,0
+AU011683,2026-03-22,2026-03-16,2026-03,Pilot,RC-WEST,Swing,Tools & Home Improvement,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Packaging condition misjudged,24.76,0
+AU011693,2026-03-22,2026-03-16,2026-03,Pilot,RC-WEST,Night,Home & Kitchen,30-89 days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,3.8,0
+AU011715,2026-03-23,2026-03-23,2026-03,Pilot,RC-WEST,Day,Apparel,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,12.31,0
+AU011728,2026-03-23,2026-03-23,2026-03,Pilot,RC-WEST,Swing,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.99,0
+AU011747,2026-03-24,2026-03-23,2026-03,Pilot,RC-WEST,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,7.32,0
+AU011750,2026-03-24,2026-03-23,2026-03,Pilot,RC-EAST,Day,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.77,0
+AU011752,2026-03-24,2026-03-23,2026-03,Pilot,RC-WEST,Day,Home & Kitchen,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,8.13,0
+AU011768,2026-03-24,2026-03-23,2026-03,Pilot,RC-EAST,Day,Sports & Outdoors,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,1.79,0
+AU011793,2026-03-24,2026-03-23,2026-03,Pilot,RC-EAST,Night,Tools & Home Improvement,365+ days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,56.67,1
+AU011809,2026-03-25,2026-03-23,2026-03,Pilot,RC-CENTRAL,Day,Toys & Games,365+ days,v3.0,REFURB,LIQUIDATE,Upgrade (graded too high),Packaging condition misjudged,0.69,0
+AU011814,2026-03-25,2026-03-23,2026-03,Pilot,RC-CENTRAL,Day,Apparel,365+ days,v3.0,REFURB,NEW,Downgrade (graded too low),Functional test skipped,2.37,0
+AU011853,2026-03-26,2026-03-23,2026-03,Pilot,RC-SOUTH,Day,Apparel,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Accessories/parts not verified,1.05,0
+AU011870,2026-03-26,2026-03-23,2026-03,Pilot,RC-WEST,Swing,Toys & Games,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,8.76,0
+AU011883,2026-03-26,2026-03-23,2026-03,Pilot,RC-WEST,Swing,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,4.62,0
+AU011884,2026-03-26,2026-03-23,2026-03,Pilot,RC-SOUTH,Swing,Electronics,90-364 days,v2.2,RECYCLE,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,167.74,1
+AU011897,2026-03-26,2026-03-23,2026-03,Pilot,RC-SOUTH,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),No photo evidence captured,3.93,0
+AU011946,2026-03-28,2026-03-23,2026-03,Pilot,RC-SOUTH,Day,Sports & Outdoors,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Functional test skipped,14.89,0
+AU011953,2026-03-28,2026-03-23,2026-03,Pilot,RC-CENTRAL,Day,Apparel,365+ days,v3.0,RECYCLE,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,6.92,0
+AU011983,2026-03-28,2026-03-23,2026-03,Pilot,RC-EAST,Night,Home & Kitchen,90-364 days,v2.2,DESTROY,RECYCLE,Downgrade (graded too low),Cosmetic grade misread,0.35,0
+AU011992,2026-03-29,2026-03-23,2026-03,Pilot,RC-EAST,Day,Apparel,30-89 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.18,0
+AU012020,2026-03-29,2026-03-23,2026-03,Pilot,RC-EAST,Night,Sports & Outdoors,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,5.14,0
+AU012023,2026-03-29,2026-03-23,2026-03,Pilot,RC-SOUTH,Night,Apparel,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,10.88,0
+AU012044,2026-03-30,2026-03-30,2026-03,Pilot,RC-EAST,Swing,Electronics,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,14.4,0
+AU012066,2026-03-30,2026-03-30,2026-03,Pilot,RC-EAST,Night,Sports & Outdoors,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,89.67,0
+AU012075,2026-03-31,2026-03-30,2026-03,Pilot,RC-EAST,Day,Apparel,90-364 days,v2.2,DESTROY,RECYCLE,Downgrade (graded too low),Wrong SOP criteria applied,1.18,0
+AU012093,2026-03-31,2026-03-30,2026-03,Pilot,RC-SOUTH,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,96.55,0
+AU012125,2026-03-31,2026-03-30,2026-03,Pilot,RC-EAST,Night,Beauty & Personal Care,90-364 days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),System/data entry error,0.17,0
+AU012133,2026-04-01,2026-03-30,2026-04,Pilot,RC-WEST,Day,Apparel,0-29 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Accessories/parts not verified,0.7,0
+AU012134,2026-04-01,2026-03-30,2026-04,Pilot,RC-CENTRAL,Day,Electronics,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,19.42,0
+AU012141,2026-04-01,2026-03-30,2026-04,Pilot,RC-EAST,Swing,Home & Kitchen,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Wrong SOP criteria applied,3.03,0
+AU012155,2026-04-01,2026-03-30,2026-04,Pilot,RC-WEST,Night,Home & Kitchen,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,15.72,0
+AU012232,2026-04-03,2026-03-30,2026-04,Pilot,RC-EAST,Swing,Sports & Outdoors,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,9.19,0
+AU012288,2026-04-04,2026-03-30,2026-04,Pilot,RC-EAST,Swing,Toys & Games,90-364 days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,1.98,0
+AU012306,2026-04-04,2026-03-30,2026-04,Pilot,RC-CENTRAL,Night,Electronics,365+ days,v3.0,LIQUIDATE,REFURB,Downgrade (graded too low),System/data entry error,57.48,0
+AU012338,2026-04-05,2026-03-30,2026-04,Pilot,RC-WEST,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Wrong SOP criteria applied,48.98,0
+AU012347,2026-04-05,2026-03-30,2026-04,Pilot,RC-CENTRAL,Night,Apparel,90-364 days,v3.0,REFURB,LIQUIDATE,Upgrade (graded too high),Packaging condition misjudged,0.41,0
+AU012351,2026-04-05,2026-03-30,2026-04,Pilot,RC-WEST,Night,Beauty & Personal Care,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,9.29,0
+AU012355,2026-04-06,2026-04-06,2026-04,Pilot,RC-EAST,Day,Electronics,365+ days,v2.2,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,16.36,0
+AU012363,2026-04-06,2026-04-06,2026-04,Pilot,RC-EAST,Day,Beauty & Personal Care,365+ days,v2.2,LIQUIDATE,RECYCLE,Upgrade (graded too high),Packaging condition misjudged,0.11,0
+AU012376,2026-04-06,2026-04-06,2026-04,Pilot,RC-SOUTH,Day,Apparel,365+ days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,7.51,0
+AU012378,2026-04-06,2026-04-06,2026-04,Pilot,RC-WEST,Day,Tools & Home Improvement,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,4.42,0
+AU012407,2026-04-07,2026-04-06,2026-04,Pilot,RC-WEST,Day,Home & Kitchen,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,17.89,0
+AU012410,2026-04-07,2026-04-06,2026-04,Pilot,RC-SOUTH,Day,Sports & Outdoors,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,1.64,0
+AU012519,2026-04-09,2026-04-06,2026-04,Pilot,RC-SOUTH,Swing,Toys & Games,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.32,0
+AU012520,2026-04-09,2026-04-06,2026-04,Pilot,RC-EAST,Swing,Toys & Games,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,6.23,0
+AU012522,2026-04-09,2026-04-06,2026-04,Pilot,RC-CENTRAL,Swing,Home & Kitchen,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,17.51,0
+AU012526,2026-04-09,2026-04-06,2026-04,Pilot,RC-WEST,Swing,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,9.58,0
+AU012531,2026-04-09,2026-04-06,2026-04,Pilot,RC-EAST,Swing,Apparel,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,5.06,0
+AU012544,2026-04-09,2026-04-06,2026-04,Pilot,RC-CENTRAL,Night,Toys & Games,90-364 days,v3.0,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,11.62,0
+AU012551,2026-04-10,2026-04-06,2026-04,Pilot,RC-WEST,Day,Beauty & Personal Care,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,7.59,0
+AU012567,2026-04-10,2026-04-06,2026-04,Pilot,RC-WEST,Swing,Electronics,90-364 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Wrong SOP criteria applied,22.35,0
+AU012626,2026-04-11,2026-04-06,2026-04,Pilot,RC-WEST,Night,Electronics,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,18.01,0
+AU012646,2026-04-12,2026-04-06,2026-04,Pilot,RC-EAST,Swing,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,86.04,0
+AU012674,2026-04-12,2026-04-06,2026-04,Pilot,RC-CENTRAL,Night,Apparel,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,2.27,0
+AU012676,2026-04-13,2026-04-13,2026-04,Pilot,RC-WEST,Day,Tools & Home Improvement,0-29 days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,6.24,0
+AU012692,2026-04-13,2026-04-13,2026-04,Pilot,RC-WEST,Day,Books & Media,0-29 days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),System/data entry error,2.51,0
+AU012788,2026-04-15,2026-04-13,2026-04,Pilot,RC-WEST,Day,Apparel,365+ days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Functional test skipped,5.08,0
+AU012799,2026-04-15,2026-04-13,2026-04,Pilot,RC-CENTRAL,Swing,Apparel,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,6.91,0
+AU012830,2026-04-16,2026-04-13,2026-04,Pilot,RC-EAST,Day,Electronics,365+ days,v2.2,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,15.03,0
+AU012855,2026-04-16,2026-04-13,2026-04,Pilot,RC-CENTRAL,Swing,Electronics,90-364 days,v3.0,REFURB,NEW,Downgrade (graded too low),System/data entry error,90.64,0
+AU012861,2026-04-16,2026-04-13,2026-04,Pilot,RC-EAST,Night,Toys & Games,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,1.92,0
+AU012894,2026-04-17,2026-04-13,2026-04,Pilot,RC-SOUTH,Swing,Books & Media,365+ days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,0.27,0
+AU012934,2026-04-18,2026-04-13,2026-04,Pilot,RC-EAST,Night,Books & Media,90-364 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.12,0
+AU013030,2026-04-21,2026-04-20,2026-04,Pilot,RC-SOUTH,Day,Toys & Games,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Packaging condition misjudged,2.35,0
+AU013050,2026-04-21,2026-04-20,2026-04,Pilot,RC-EAST,Swing,Books & Media,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,1.61,0
+AU013057,2026-04-21,2026-04-20,2026-04,Pilot,RC-WEST,Swing,Apparel,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,5.34,0
+AU013072,2026-04-21,2026-04-20,2026-04,Pilot,RC-SOUTH,Night,Electronics,365+ days,v2.2,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,26.96,0
+AU013110,2026-04-22,2026-04-20,2026-04,Pilot,RC-EAST,Swing,Electronics,365+ days,v2.2,LIQUIDATE,REFURB,Downgrade (graded too low),Functional test skipped,157.71,0
+AU013122,2026-04-23,2026-04-20,2026-04,Pilot,RC-CENTRAL,Day,Electronics,365+ days,v3.0,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,31.01,0
+AU013135,2026-04-23,2026-04-20,2026-04,Pilot,RC-CENTRAL,Day,Beauty & Personal Care,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Accessories/parts not verified,7.63,0
+AU013141,2026-04-23,2026-04-20,2026-04,Pilot,RC-WEST,Day,Electronics,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,4.94,0
+AU013148,2026-04-23,2026-04-20,2026-04,Pilot,RC-WEST,Swing,Toys & Games,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,6.36,0
+AU013154,2026-04-23,2026-04-20,2026-04,Pilot,RC-EAST,Swing,Electronics,0-29 days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,37.65,0
+AU013155,2026-04-23,2026-04-20,2026-04,Pilot,RC-CENTRAL,Swing,Electronics,365+ days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,28.49,0
+AU013215,2026-04-24,2026-04-20,2026-04,Pilot,RC-CENTRAL,Swing,Electronics,365+ days,v3.0,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,74.04,0
+AU013225,2026-04-24,2026-04-20,2026-04,Pilot,RC-WEST,Night,Home & Kitchen,365+ days,v2.2,RECYCLE,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,7.77,0
+AU013257,2026-04-25,2026-04-20,2026-04,Pilot,RC-EAST,Swing,Electronics,365+ days,v2.2,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,30.14,0
+AU013278,2026-04-25,2026-04-20,2026-04,Pilot,RC-CENTRAL,Night,Apparel,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,2.59,0
+AU013310,2026-04-26,2026-04-20,2026-04,Pilot,RC-CENTRAL,Swing,Home & Kitchen,30-89 days,v3.0,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,7.3,0
+AU013333,2026-04-27,2026-04-27,2026-04,Pilot,RC-WEST,Day,Electronics,365+ days,v2.2,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,18.16,0
+AU013355,2026-04-27,2026-04-27,2026-04,Pilot,RC-SOUTH,Swing,Electronics,30-89 days,v2.2,REFURB,LIQUIDATE,Upgrade (graded too high),Accessories/parts not verified,3.43,0
+AU013377,2026-04-27,2026-04-27,2026-04,Pilot,RC-WEST,Night,Home & Kitchen,365+ days,v2.2,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,8.86,0
+AU013379,2026-04-28,2026-04-27,2026-04,Pilot,RC-WEST,Day,Electronics,365+ days,v2.2,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Functional test skipped,65.27,0
+AU013423,2026-04-29,2026-04-27,2026-04,Pilot,RC-CENTRAL,Day,Home & Kitchen,90-364 days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,14.29,0
+AU013508,2026-05-01,2026-04-27,2026-05,Control,RC-EAST,Swing,Apparel,90-364 days,v3.0,REFURB,NEW,Downgrade (graded too low),Functional test skipped,4.41,0
+AU013535,2026-05-02,2026-04-27,2026-05,Control,RC-EAST,Day,Electronics,30-89 days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Functional test skipped,14.85,0
+AU013554,2026-05-02,2026-04-27,2026-05,Control,RC-SOUTH,Swing,Sports & Outdoors,365+ days,v3.0,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,0.8,0
+AU013614,2026-05-04,2026-05-04,2026-05,Control,RC-CENTRAL,Day,Home & Kitchen,365+ days,v3.0,REFURB,LIQUIDATE,Upgrade (graded too high),System/data entry error,0.99,0
+AU013615,2026-05-04,2026-05-04,2026-05,Control,RC-SOUTH,Swing,Books & Media,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,1.93,0
+AU013630,2026-05-04,2026-05-04,2026-05,Control,RC-WEST,Swing,Beauty & Personal Care,365+ days,v3.0,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU013659,2026-05-05,2026-05-04,2026-05,Control,RC-EAST,Swing,Home & Kitchen,365+ days,v3.0,DESTROY,LIQUIDATE,Downgrade (graded too low),Accessories/parts not verified,12.14,0
+AU013672,2026-05-06,2026-05-04,2026-05,Control,RC-WEST,Day,Electronics,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Wrong SOP criteria applied,10.04,0
+AU013690,2026-05-06,2026-05-04,2026-05,Control,RC-WEST,Day,Tools & Home Improvement,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,2.67,0
+AU013735,2026-05-07,2026-05-04,2026-05,Control,RC-CENTRAL,Swing,Sports & Outdoors,90-364 days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,6.54,0
+AU013738,2026-05-07,2026-05-04,2026-05,Control,RC-CENTRAL,Swing,Sports & Outdoors,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,16.18,0
+AU013774,2026-05-08,2026-05-04,2026-05,Control,RC-WEST,Swing,Home & Kitchen,365+ days,v3.0,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,16.69,0
+AU013833,2026-05-10,2026-05-04,2026-05,Control,RC-EAST,Day,Electronics,30-89 days,v3.0,LIQUIDATE,RECYCLE,Upgrade (graded too high),Cosmetic grade misread,2.22,0
+AU013841,2026-05-10,2026-05-04,2026-05,Control,RC-EAST,Swing,Electronics,90-364 days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),System/data entry error,50.96,0
+AU013857,2026-05-10,2026-05-04,2026-05,Control,RC-CENTRAL,Night,Electronics,90-364 days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,37.52,0
+AU013870,2026-05-11,2026-05-11,2026-05,Control,RC-EAST,Day,Electronics,90-364 days,v3.0,NEW,OPEN_BOX,Upgrade (graded too high),System/data entry error,27.38,0
+AU013905,2026-05-12,2026-05-11,2026-05,Control,RC-WEST,Day,Electronics,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,18.63,0
+AU013910,2026-05-12,2026-05-11,2026-05,Control,RC-WEST,Day,Electronics,365+ days,v3.0,LIQUIDATE,REFURB,Downgrade (graded too low),Accessories/parts not verified,15.01,0
+AU013963,2026-05-13,2026-05-11,2026-05,Control,RC-CENTRAL,Swing,Home & Kitchen,365+ days,v3.0,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,1.7,0
+AU013995,2026-05-14,2026-05-11,2026-05,Control,RC-WEST,Swing,Sports & Outdoors,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,4.39,0
+AU014035,2026-05-15,2026-05-11,2026-05,Control,RC-EAST,Swing,Toys & Games,0-29 days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,2.57,0
+AU014037,2026-05-15,2026-05-11,2026-05,Control,RC-EAST,Swing,Home & Kitchen,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,18.72,0
+AU014068,2026-05-16,2026-05-11,2026-05,Control,RC-EAST,Swing,Apparel,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,8.72,0
+AU014076,2026-05-16,2026-05-11,2026-05,Control,RC-WEST,Night,Tools & Home Improvement,365+ days,v3.0,RECYCLE,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,29.94,1
+AU014110,2026-05-18,2026-05-18,2026-05,Control,RC-EAST,Day,Home & Kitchen,30-89 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,68.84,0
+AU014166,2026-05-19,2026-05-18,2026-05,Control,RC-EAST,Swing,Books & Media,365+ days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Cosmetic grade misread,3.84,0
+AU014179,2026-05-19,2026-05-18,2026-05,Control,RC-EAST,Night,Apparel,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,7.89,0
+AU014180,2026-05-19,2026-05-18,2026-05,Control,RC-CENTRAL,Night,Apparel,365+ days,v3.0,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,7.54,0
+AU014235,2026-05-21,2026-05-18,2026-05,Control,RC-WEST,Day,Electronics,90-364 days,v3.0,REFURB,OPEN_BOX,Downgrade (graded too low),Accessories/parts not verified,7.31,0
+AU014253,2026-05-21,2026-05-18,2026-05,Control,RC-EAST,Night,Beauty & Personal Care,90-364 days,v3.0,LIQUIDATE,RECYCLE,Upgrade (graded too high),Packaging condition misjudged,0.08,0
+AU014296,2026-05-22,2026-05-18,2026-05,Control,RC-SOUTH,Swing,Toys & Games,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,1.71,0
+AU014360,2026-05-24,2026-05-18,2026-05,Control,RC-CENTRAL,Swing,Home & Kitchen,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),System/data entry error,7.6,0
+AU014394,2026-05-25,2026-05-25,2026-05,Control,RC-SOUTH,Swing,Apparel,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,12.0,0
+AU014409,2026-05-25,2026-05-25,2026-05,Control,RC-WEST,Swing,Home & Kitchen,0-29 days,v3.0,REFURB,NEW,Downgrade (graded too low),Wrong SOP criteria applied,20.65,0
+AU014410,2026-05-25,2026-05-25,2026-05,Control,RC-WEST,Swing,Toys & Games,365+ days,v3.0,NEW,OPEN_BOX,Upgrade (graded too high),Packaging condition misjudged,1.37,0
+AU014419,2026-05-25,2026-05-25,2026-05,Control,RC-WEST,Night,Apparel,365+ days,v3.0,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,2.31,0
+AU014488,2026-05-27,2026-05-25,2026-05,Control,RC-SOUTH,Swing,Toys & Games,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,2.22,0
+AU014514,2026-05-28,2026-05-25,2026-05,Control,RC-EAST,Day,Apparel,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,5.56,0
+AU014565,2026-05-29,2026-05-25,2026-05,Control,RC-EAST,Night,Home & Kitchen,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,6.04,0
+AU014582,2026-05-30,2026-05-25,2026-05,Control,RC-EAST,Day,Electronics,365+ days,v3.0,RECYCLE,REFURB,Downgrade (graded too low),Packaging condition misjudged,69.03,1
+AU014586,2026-05-30,2026-05-25,2026-05,Control,RC-EAST,Swing,Apparel,365+ days,v3.0,RECYCLE,DESTROY,Upgrade (graded too high),Cosmetic grade misread,0.0,0
+AU014617,2026-05-31,2026-05-25,2026-05,Control,RC-WEST,Swing,Home & Kitchen,365+ days,v3.0,REFURB,NEW,Downgrade (graded too low),Cosmetic grade misread,15.44,0
+AU014630,2026-05-31,2026-05-25,2026-05,Control,RC-WEST,Night,Apparel,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,8.64,0
+AU014659,2026-06-01,2026-06-01,2026-06,Control,RC-SOUTH,Swing,Home & Kitchen,90-364 days,v3.0,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,3.39,0
+AU014704,2026-06-02,2026-06-01,2026-06,Control,RC-EAST,Swing,Toys & Games,365+ days,v3.0,NEW,OPEN_BOX,Upgrade (graded too high),Cosmetic grade misread,1.41,0
+AU014737,2026-06-03,2026-06-01,2026-06,Control,RC-EAST,Swing,Apparel,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Functional test skipped,5.23,0
+AU014778,2026-06-04,2026-06-01,2026-06,Control,RC-CENTRAL,Night,Apparel,365+ days,v3.0,DESTROY,LIQUIDATE,Downgrade (graded too low),Functional test skipped,4.14,0
+AU014805,2026-06-05,2026-06-01,2026-06,Control,RC-WEST,Swing,Tools & Home Improvement,90-364 days,v3.0,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,65.55,1
+AU014856,2026-06-06,2026-06-01,2026-06,Control,RC-SOUTH,Night,Toys & Games,365+ days,v3.0,RECYCLE,DESTROY,Upgrade (graded too high),System/data entry error,0.0,0
+AU014933,2026-06-08,2026-06-08,2026-06,Control,RC-SOUTH,Night,Home & Kitchen,365+ days,v3.0,DESTROY,RECYCLE,Downgrade (graded too low),Accessories/parts not verified,0.68,0
+AU014951,2026-06-09,2026-06-08,2026-06,Control,RC-SOUTH,Day,Electronics,365+ days,v3.0,LIQUIDATE,RECYCLE,Upgrade (graded too high),Wrong SOP criteria applied,0.5,0
+AU015027,2026-06-11,2026-06-08,2026-06,Control,RC-WEST,Day,Apparel,365+ days,v3.0,LIQUIDATE,OPEN_BOX,Downgrade (graded too low),Packaging condition misjudged,6.89,0
+AU015167,2026-06-15,2026-06-15,2026-06,Control,RC-WEST,Night,Apparel,90-364 days,v3.0,RECYCLE,LIQUIDATE,Downgrade (graded too low),Functional test skipped,5.04,0
+AU015216,2026-06-17,2026-06-15,2026-06,Control,RC-WEST,Day,Tools & Home Improvement,0-29 days,v3.0,NEW,OPEN_BOX,Upgrade (graded too high),System/data entry error,26.7,0
+AU015291,2026-06-19,2026-06-15,2026-06,Control,RC-WEST,Night,Home & Kitchen,90-364 days,v3.0,REFURB,NEW,Downgrade (graded too low),Packaging condition misjudged,10.24,0
+AU015328,2026-06-20,2026-06-15,2026-06,Control,RC-EAST,Night,Electronics,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Packaging condition misjudged,30.58,0
+AU015365,2026-06-22,2026-06-22,2026-06,Control,RC-SOUTH,Day,Toys & Games,365+ days,v3.0,OPEN_BOX,REFURB,Upgrade (graded too high),Cosmetic grade misread,1.24,0
+AU015377,2026-06-22,2026-06-22,2026-06,Control,RC-CENTRAL,Swing,Home & Kitchen,90-364 days,v3.0,REFURB,LIQUIDATE,Upgrade (graded too high),Cosmetic grade misread,4.56,0
+AU015380,2026-06-22,2026-06-22,2026-06,Control,RC-CENTRAL,Swing,Apparel,365+ days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,3.96,0
+AU015395,2026-06-22,2026-06-22,2026-06,Control,RC-EAST,Night,Home & Kitchen,365+ days,v3.0,NEW,OPEN_BOX,Upgrade (graded too high),Wrong SOP criteria applied,8.57,0
+AU015432,2026-06-23,2026-06-22,2026-06,Control,RC-WEST,Night,Electronics,90-364 days,v3.0,OPEN_BOX,NEW,Downgrade (graded too low),Cosmetic grade misread,13.69,0
+AU015478,2026-06-25,2026-06-22,2026-06,Control,RC-EAST,Day,Electronics,90-364 days,v3.0,LIQUIDATE,REFURB,Downgrade (graded too low),Packaging condition misjudged,91.25,0
+AU015495,2026-06-26,2026-06-22,2026-06,Control,RC-CENTRAL,Day,Toys & Games,365+ days,v3.0,DESTROY,LIQUIDATE,Downgrade (graded too low),Cosmetic grade misread,7.14,0
+AU015547,2026-06-27,2026-06-22,2026-06,Control,RC-WEST,Swing,Tools & Home Improvement,365+ days,v3.0,LIQUIDATE,REFURB,Downgrade (graded too low),Functional test skipped,4.5,0
+AU015596,2026-06-28,2026-06-22,2026-06,Control,RC-SOUTH,Night,Electronics,365+ days,v3.0,RECYCLE,REFURB,Downgrade (graded too low),Cosmetic grade misread,241.96,1

@@ -1,0 +1,9 @@
+kpi,display_name,unit,direction,target,amber_band,owner_team,initiative_id,sort_order
+return_rate,Return rate,pct,lower,0.095,0.05,Returns Policy,INI-2,1
+refund_cycle_days,Refund cycle time,days,lower,3.3,0.05,Reverse Logistics Ops,INI-3,2
+contacts_per_return,Customer contacts per return,ratio,lower,0.18,0.05,Returns Experience Tech,INI-4,3
+resale_pct,Resold share of dispositions,pct,higher,0.5,0.03,ReCommerce,INI-1,4
+liquidation_pct,Liquidated share of dispositions,pct,lower,0.36,0.05,Liquidation & Disposition,INI-5,5
+recovery_rate,Recovery rate ($ recovered / $ refunded),pct,higher,0.36,0.03,Liquidation & Disposition,INI-5,6
+waste_units,Waste (landfill) units,units,lower,11000.0,0.05,Liquidation & Disposition,INI-5,7
+cost_per_return,Cost per return,usd,lower,6.8,0.05,Reverse Logistics Ops,INI-3,8

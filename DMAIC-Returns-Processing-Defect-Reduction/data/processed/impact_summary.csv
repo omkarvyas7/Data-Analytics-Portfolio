@@ -1,0 +1,21 @@
+metric,value
+Annualized units processed,150918.0
+Baseline defect rate,0.06816472358029334
+Control defect rate,0.02955889040472942
+Target defect rate (charter),0.035
+Incremental leakage per defect (USD),16.90313633545451
+Defects avoided per year (at control rate),5826.315131189755
+Recovery value protected per year at control rate (USD),98482.99899582195
+Recovery value protected per year at target rate (USD),84602.79627178471
+Baseline recovery rate (achieved / potential),0.957055501884198
+Control recovery rate (achieved / potential),0.9744508523649852
+Baseline leakage per unit (USD),1.83917407854074
+Control leakage per unit (USD),1.0838815287196297
+Baseline waste units per 10k,44.09436948820382
+Control waste units per 10k,15.269232496519514
+Waste units avoided per year,435.02320245110116
+Baseline customer complaint rate,0.012059998492500189
+Control customer complaint rate,0.006871154623433781
+Customer complaints avoided per year,783.0899390317641
+"Baseline total leakage, Jul 2025-Feb 2026 (USD)",195202.58
+"Baseline waste units, Jul 2025-Feb 2026",468.0

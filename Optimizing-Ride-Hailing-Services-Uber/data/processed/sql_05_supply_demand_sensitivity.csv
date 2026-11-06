@@ -1,0 +1,5 @@
+supply_segment,windows,greedy_avg_eta_min,batched_avg_eta_min,eta_saved_min_per_rider,eta_reduction_pct,match_rate_pct,driver_utilization_pct,rank_by_eta_reduction
+1. Under-supplied (<0.8),310,8.857,5.043,3.814,43.06,58.27,100.0,1
+2. Tight (0.8-1.0),146,7.625,5.552,2.073,27.19,87.86,100.0,2
+3. Balanced (1.0-1.2),184,6.605,5.52,1.084,16.42,100.0,93.22,3
+4. Over-supplied (>=1.2),360,4.858,4.392,0.466,9.6,100.0,66.92,4

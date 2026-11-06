@@ -1,0 +1,2 @@
+table_name,row_count,missing_genre,missing_mpaa,zero_gross,duplicate_rows
+disney_gross,579,17,56,4,0

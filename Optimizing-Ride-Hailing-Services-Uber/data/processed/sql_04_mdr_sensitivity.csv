@@ -1,0 +1,17 @@
+mdr_miles,protocol,windows,match_rate_pct,avg_eta_min,avg_p90_eta_min,contribution_per_window,match_rate_pp_vs_prev_mdr,eta_min_vs_prev_mdr,eta_rank_within_mdr
+1.5,batched_max_profit_mdr,246,64.25,3.917,5.428,117.54,,,3
+1.5,batched_min_eta,246,85.53,4.951,8.034,143.59,,,4
+1.5,batched_min_eta_mdr,246,64.25,3.661,5.063,110.85,,,1
+1.5,greedy_first_dispatch_mdr,246,60.88,3.762,5.24,104.96,,,2
+2.0,batched_max_profit_mdr,231,75.5,4.667,6.849,137.75,11.25,0.751,3
+2.0,batched_min_eta,231,85.76,4.941,7.828,144.53,0.23,-0.01,4
+2.0,batched_min_eta_mdr,231,75.5,4.293,6.247,129.26,11.25,0.632,1
+2.0,greedy_first_dispatch_mdr,231,70.25,4.358,6.428,121.18,9.37,0.596,2
+3.0,batched_max_profit_mdr,270,84.54,5.437,8.583,142.49,9.04,0.769,4
+3.0,batched_min_eta,270,86.35,4.949,7.887,138.42,0.59,0.008,2
+3.0,batched_min_eta_mdr,270,84.54,4.886,7.486,136.58,9.04,0.593,1
+3.0,greedy_first_dispatch_mdr,270,79.71,5.117,7.979,127.78,9.46,0.759,3
+4.0,batched_max_profit_mdr,253,84.37,5.724,9.72,148.05,-0.17,0.288,3
+4.0,batched_min_eta,253,84.58,4.96,7.87,139.81,-1.77,0.012,1
+4.0,batched_min_eta_mdr,253,84.37,4.978,7.819,139.41,-0.17,0.093,2
+4.0,greedy_first_dispatch_mdr,253,81.84,5.76,9.493,133.18,2.14,0.643,4

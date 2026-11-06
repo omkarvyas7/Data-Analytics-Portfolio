@@ -1,0 +1,2 @@
+rating_rows,movie_rows,users,rated_movies,null_ratings,out_of_range_ratings,duplicate_user_movie_pairs,ratings_without_movie
+100836,9742,610,9724,0,0,0,0

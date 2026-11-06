@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# regenerable by src/build_db.py
+*.db
+reports/logs/
+~$*.xlsx
+~$*.docx

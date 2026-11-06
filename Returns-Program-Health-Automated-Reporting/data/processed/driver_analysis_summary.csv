@@ -1,0 +1,23 @@
+metric,value
+report_week,2026-10-26
+refund_cycle_days_current,3.7672
+refund_cycle_target,3.3
+baseline_cycle_days_program,3.3404
+program_change_days,0.4268
+top_driver_segment,US Mail-in
+top_driver_effect_days,0.4404
+top_driver_days_base,4.08
+top_driver_days_cur,6.2748
+top_driver_transit_change_days,2.2215
+top_driver_processing_change_days,-0.0267
+top_driver_volume_share,0.2017
+control_chart_ucl_days,3.5691
+first_week_above_ucl,2026-10-12
+contacts_per_day_slope,0.0339
+ols_r2,0.9596
+excess_contacts_week,2611
+assumed_cost_per_contact_usd,4.5
+excess_contact_cost_week_usd,11749
+excess_contact_cost_annualized_usd,610959
+cycle_days_if_us_mailin_restored,3.3267
+cycle_days_if_us_mailin_refund_at_scan,2.5522

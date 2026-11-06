@@ -1,0 +1,9 @@
+gap_type,supply_segment,windows,pct_of_segment_windows,avg_mdr_miles,avg_extra_riders_served,avg_eta_delta_min,avg_contribution_delta_usd
+No gap,Balanced/over supply (>=1.0),252,46.3,2.95,0.29,-0.367,4.86
+Higher avg ETA - serves more riders,Balanced/over supply (>=1.0),178,32.7,2.39,1.61,0.417,16.36
+Longer p90 tail only,Balanced/over supply (>=1.0),64,11.8,2.8,0.44,-0.24,6.07
+Lower contribution only,Balanced/over supply (>=1.0),50,9.2,2.24,0.02,-0.31,-3.66
+No gap,Under/tight supply (<1.0),242,53.1,2.67,0.21,-1.126,9.12
+Lower contribution only,Under/tight supply (<1.0),116,25.4,2.63,0.06,-1.2,-8.09
+Higher avg ETA - serves more riders,Under/tight supply (<1.0),77,16.9,2.39,1.57,0.584,18.26
+Longer p90 tail only,Under/tight supply (<1.0),21,4.6,2.74,1.0,-0.35,11.99

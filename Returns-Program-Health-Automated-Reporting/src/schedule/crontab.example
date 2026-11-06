@@ -1,0 +1,4 @@
+# Weekly WBR refresh on Linux/macOS (crontab -e). Monday 06:00 server time.
+# Computes the Monday of the week that just ended and runs the pipeline; output appended to a log.
+# m h dom mon dow  command
+0 6 * * 1  cd /opt/returns-wbr && WEEK=$(date -d "last monday" +\%F) && .venv/bin/python src/run_wbr.py --week "$WEEK" --rebuild >> reports/logs/wbr_cron.log 2>&1 || echo "WBR failed for $WEEK" | mail -s "WBR refresh failed" returns-analytics@example.com

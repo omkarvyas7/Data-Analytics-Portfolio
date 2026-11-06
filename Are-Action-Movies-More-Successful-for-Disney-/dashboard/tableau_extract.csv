@@ -1,0 +1,149 @@
+title,release_year,decade,disney_genre,imdb_genre,segment,mpaa_rating,company,star,star_power,star_bucket,imdb_score,budget_band,budget,inflation_budget,total_gross,inflation_adjusted_gross,roi_multiple,predicted_adj_gross,gross_vs_expected,is_action,is_marvel
+The Avengers,2012,2010,Action,Action,Marvel,PG-13,Marvel Studios,Robert Downey Jr.,1077,Q4 highest,8.0,High,220000000,232989948.06,623279547,660081224,2.83,573637680.26,86443543.74,1,1
+Rogue One: A Star Wars Story,2016,2010,Adventure,Action,Other genres,PG-13,Lucasfilm,Felicity Jones,488,Q1 lowest,7.8,High,200000000,200000000.0,529483936,529483936,2.65,410105138.5,119378797.5,0,0
+The Sixth Sense,1999,1990,Thriller/Suspense,Drama,Other genres,PG-13,Hollywood Pictures,Bruce Willis,747,Q3,8.1,Mid,40000000,66155273.29,293506292,485424724,7.34,204500208.76,280924515.24,0,0
+Avengers: Age of Ultron,2015,2010,Action,Action,Marvel,PG-13,Marvel Studios,Robert Downey Jr.,1077,Q4 highest,7.3,High,250000000,250000000.0,459005868,459005868,1.84,462926034.94,-3920166.94,1,1
+Toy Story 3,2010,2010,Adventure,Animation,Other genres,G,Walt Disney Pictures,Tom Hanks,1392,Q4 highest,8.2,High,200000000,213688212.53,415004880,443408255,2.08,626402918.15,-182994663.15,0,0
+Iron Man 3,2013,2010,Action,Action,Marvel,PG-13,Marvel Studios,Robert Downey Jr.,1077,Q4 highest,7.1,High,200000000,207380071.47,408992272,424084233,2.04,369733531.75,54350701.25,1,1
+Frozen,2013,2010,Adventure,Animation,Other genres,PG,Walt Disney Animation Studios,Kristen Bell,562,Q1 lowest,7.4,High,150000000,155337339.36,400738009,414997174,2.67,293021413.65,121975760.35,0,0
+Captain America: Civil War,2016,2010,Action,Action,Marvel,PG-13,Marvel Studios,Chris Evans,947,Q4 highest,7.8,High,250000000,250000000.0,408084349,408084349,1.63,544182117.79,-136097768.79,1,1
+Toy Story 2,1999,1990,Adventure,Animation,Other genres,G,Pixar Animation Studios,Tom Hanks,1392,Q4 highest,7.9,High,90000000,148058636.24,245852179,404450426,2.73,417574046.95,-13123620.95,0,0
+Toy Story,1995,1990,Adventure,Animation,Other genres,G,Walt Disney Pictures,Tom Hanks,1392,Q4 highest,8.3,Mid,30000000,57937993.65,191796233,370409631,6.39,232243487.7,138166143.3,0,0
+Armageddon,1998,1990,Adventure,Action,Other genres,PG-13,Touchstone Pictures,Bruce Willis,747,Q3,6.7,High,140000000,251641787.2,201578182,362324957,1.44,342257435.46,20067521.54,0,0
+Inside Out,2015,2010,Adventure,Animation,Other genres,PG,Pixar Animation Studios,Amy Poehler,530,Q1 lowest,8.1,High,175000000,175000000.0,356461711,356461711,2.04,418543995.12,-62082284.12,0,0
+Pretty Woman,1990,1990,Romantic Comedy,Comedy,Other genres,R,Touchstone Pictures,Richard Gere,873,Q3,7.0,Low,14000000,27966824.07,178406268,356389765,12.74,69853042.65,286536722.35,0,0
+Guardians of the Galaxy,2014,2010,Adventure,Action,Marvel,PG-13,Marvel Studios,Chris Pratt,882,Q3,8.0,High,170000000,175408134.28,333172112,343771168,1.96,439008690.6,-95237522.6,0,1
+Signs,2002,2000,Thriller/Suspense,Drama,Other genres,PG-13,Touchstone Pictures,Mel Gibson,536,Q1 lowest,6.7,High,72000000,104464490.28,227965690,330754439,3.17,162482607.55,168271831.45,0,0
+Cars,2006,2000,Comedy,Animation,Other genres,G,Pixar Animation Studios,Owen Wilson,563,Q1 lowest,7.1,High,120000000,154442746.36,244082982,314140384,2.03,259868032.1,54272351.9,0,0
+Pearl Harbor,2001,2000,Action,Action,Action (non-Marvel),PG-13,Touchstone Pictures,Ben Affleck,674,Q2,6.2,High,140000000,208515895.61,198539855,295705112,1.42,238203417.76,57501694.24,1,0
+A Bug's Life,1998,1990,Adventure,Animation,Other genres,G,Pixar Animation Studios,Kevin Spacey,598,Q2,7.2,High,120000000,213010500.18,162798565,288981698,1.36,351106388.67,-62124690.67,0,0
+The Waterboy,1998,1990,Comedy,Comedy,Other genres,PG-13,Robert Simonds Productions,Adam Sandler,971,Q4 highest,6.1,Low,23000000,41116134.01,161491646,288691833,7.02,68513725.06,220178107.94,0,0
+Sister Act,1992,1990,Comedy,Comedy,Other genres,PG,Touchstone Pictures,Whoopi Goldberg,457,Q1 lowest,6.4,Mid,31000000,62971084.03,139605150,283583472,4.5,95210582.85,188372889.15,0,0
+Pocahontas,1995,1990,Adventure,Animation,Other genres,G,Walt Disney Pictures,Mel Gibson,536,Q1 lowest,6.7,High,55000000,106585865.45,141579773,274370957,2.57,165083049.55,109287907.45,0,0
+Captain America: The Winter Soldier,2014,2010,Action,Action,Marvel,PG-13,Marvel Entertainment,Chris Evans,947,Q4 highest,7.7,High,170000000,175410034.72,259746958,268013076,1.53,395776810.36,-127763734.36,1,1
+Ransom,1996,1990,Action,Action,Action (non-Marvel),R,Touchstone Pictures,Mel Gibson,536,Q1 lowest,6.7,High,80000000,152276484.33,136492681,259807820,1.71,218039608.44,41768211.56,1,0
+The Rock,1996,1990,Action,Action,Action (non-Marvel),R,Hollywood Pictures,Sean Connery,746,Q3,7.4,High,75000000,143042983.69,134069511,255702705,1.79,285932982.34,-30230277.34,1,0
+Maleficent,2014,2010,Adventure,Action,Other genres,PG,Jolie Pas,Angelina Jolie,700,Q2,7.0,High,180000000,185728270.93,241407328,249089809,1.34,298914203.63,-49824394.63,0,0
+National Treasure,2004,2000,Adventure,Action,Other genres,PG,Walt Disney Pictures,Nicolas Cage,789,Q3,6.9,High,100000000,135296292.18,173005002,234069353,1.73,228769257.05,5300095.95,0,0
+Tangled,2010,2010,Adventure,Animation,Other genres,PG,Walt Disney Animation Studios,Mandy Moore,483,Q1 lowest,7.7,High,260000000,277564411.49,200821936,214388548,0.77,510541878.47,-296153330.47,0,0
+Thor: The Dark World,2013,2010,Adventure,Action,Marvel,PG-13,Marvel Studios,Chris Hemsworth,1128,Q4 highest,6.8,High,170000000,176260874.6,206362140,213962184,1.21,294238090.83,-80275906.83,0,1
+Cars 2,2011,2010,Adventure,Animation,Other genres,G,Walt Disney Pictures,Owen Wilson,563,Q1 lowest,6.1,High,200000000,212610338.81,191450875,203522177,0.96,227417326.84,-23895149.84,0,0
+Dead Poets Society,1989,1980,Drama,Comedy,Other genres,PG,Touchstone Pictures,Robin Williams,1139,Q4 highest,8.1,Low,16400000,34649622.99,95860116,202531517,5.85,134811610.1,67719906.9,0,0
+Wreck-It Ralph,2012,2010,Adventure,Animation,Other genres,PG,Walt Disney Animation Studios,John C. Reilly,506,Q1 lowest,7.7,High,165000000,174531973.04,189412677,200354959,1.15,355872778.91,-155517819.91,0,0
+Enemy of the State,1998,1990,Action,Action,Action (non-Marvel),R,Touchstone Pictures,Will Smith,492,Q1 lowest,7.3,High,90000000,160130049.14,111549836,198472008,1.24,282968147.78,-84496139.78,1,0
+The Hunchback of Notre Dame,1996,1990,Adventure,Animation,Other genres,G,Walt Disney Animation Studios,Demi Moore,608,Q2,7.0,High,100000000,190723976.85,100138851,190988799,1.0,298580454.72,-107591655.72,0,0
+Con Air,1997,1990,Action,Action,Action (non-Marvel),R,Touchstone Pictures,Nicolas Cage,789,Q3,6.9,High,75000000,137745096.0,101117573,185712664,1.35,231216299.52,-45503635.52,1,0
+Bringing Down the House,2003,2000,Comedy,Comedy,Other genres,PG-13,Touchstone Pictures,Steve Martin,461,Q1 lowest,5.6,Mid,33000000,46134327.82,132675402,185481530,4.02,54743884.01,130737645.99,0,0
+The Proposal,2009,2000,Romantic Comedy,Comedy,Other genres,PG-13,Touchstone Pictures,Sandra Bullock,725,Q3,6.7,Mid,40000000,44960000.53,163958031,184288829,4.1,87363672.24,96925156.76,0,0
+Remember the Titans,2000,2000,Drama,Biography,Other genres,PG,Jerry Bruckheimer Films,Denzel Washington,468,Q1 lowest,7.8,Mid,30000000,46883282.56,115654751,180742479,3.86,129787565.59,50954913.41,0,0
+The Help,2011,2010,Drama,Drama,Other genres,PG-13,DreamWorks,Emma Stone,686,Q2,8.0,Low,25000000,26576169.23,169705587,180404976,6.79,94355037.38,86049938.62,0,0
+Flubber,1997,1990,Comedy,Comedy,Other genres,PG,Walt Disney Pictures,Robin Williams,1139,Q4 highest,5.3,High,80000000,146595941.81,92993801,170406423,1.16,142983868.94,27422554.06,0,0
+The Princess Diaries,2001,2000,Comedy,Comedy,Other genres,G,Walt Disney Pictures,Julie Andrews,517,Q1 lowest,6.4,Low,26000000,38724198.62,108244774,161218928,4.16,65791223.0,95427705.0,0,0
+Cocktail,1988,1980,Drama,Comedy,Other genres,R,Touchstone Pictures,Tom Cruise,2237,Q4 highest,5.9,Low,20000000,41021897.81,78222753,160442289,3.91,85789610.53,74652678.47,0,0
+Gone in 60 Seconds,2000,2000,Action,Action,Action (non-Marvel),PG-13,Touchstone Pictures,Nicolas Cage,789,Q3,6.5,High,90000000,140760660.98,101643008,158970411,1.13,201567414.75,-42597003.75,1,0
+While You Were Sleeping,1995,1990,Romantic Comedy,Comedy,Other genres,PG,Hollywood Pictures,Sandra Bullock,725,Q3,6.7,Low,17000000,32944826.15,81057016,157082900,4.77,68340521.72,88742378.28,0,0
+Splash,1984,1980,Comedy,Comedy,Other genres,PG,Touchstone Pictures,Tom Hanks,1392,Q4 highest,6.3,Low,8000000,20071428.5,62599495,157057661,7.82,46473416.79,110584244.21,0,0
+Enchanted,2007,2000,Romantic Comedy,Comedy,Other genres,PG,Walt Disney Pictures,Amy Adams,960,Q4 highest,7.0,High,85000000,103880986.38,127706877,156074310,1.5,201071029.46,-44996719.46,0,0
+The Village,2004,2000,Thriller/Suspense,Drama,Other genres,PG-13,Touchstone Pictures,Sigourney Weaver,897,Q3,6.5,Mid,60000000,81449272.1,114197520,155021748,1.9,134759585.56,20262162.44,0,0
+Freaky Friday,2003,2000,Comedy,Comedy,Other genres,PG,Casual Friday Productions,Jamie Lee Curtis,669,Q2,6.2,Low,20000000,27959889.62,110222438,154090360,5.51,48841002.77,105249357.23,0,0
+Turner & Hooch,1989,1980,Comedy,Comedy,Other genres,PG,Touchstone Pictures,Tom Hanks,1392,Q4 highest,6.2,Low,13000000,27466165.27,71079915,150176361,5.47,57283970.52,92892390.48,0,0
+The Pacifier,2005,2000,Comedy,Action,Other genres,PG,Walt Disney Pictures,Vin Diesel,840,Q3,5.6,Mid,56000000,73647424.16,113006880,148619029,2.02,86750544.23,61868484.77,0,0
+Unbreakable,2000,2000,Thriller/Suspense,Drama,Other genres,PG-13,Touchstone Pictures,Bruce Willis,747,Q3,7.3,High,75000000,117008082.64,94999143,148208901,1.27,235631875.03,-87422974.03,0,0
+Father of the Bride Part II,1995,1990,Comedy,Comedy,Other genres,PG,Sandollar Productions,Steve Martin,461,Q1 lowest,6.1,Mid,30000000,57845601.12,76578911,147658438,2.55,79380211.66,68278226.34,0,0
+Down and Out in Beverly Hills,1986,1980,Comedy,Comedy,Other genres,R,Touchstone Pictures,Nick Nolte,720,Q2,6.2,Low,14000000,31811319.8,62134225,141183693,4.44,54747610.81,86436082.19,0,0
+The Princess Diaries 2: Royal Engagement,2004,2000,Romantic Comedy,Comedy,Other genres,G,Walt Disney Pictures,Anne Hathaway,709,Q2,5.8,Mid,40000000,54299516.12,95149435,129164207,2.38,71382710.25,57781496.75,0,0
+Bedtime Stories,2008,2000,Comedy,Adventure,Other genres,PG,Walt Disney Pictures,Adam Sandler,971,Q4 highest,6.0,Mid,80000000,93033520.24,110101975,128039679,1.38,125632560.41,2407118.59,0,0
+What About Bob?,1991,1990,Comedy,Comedy,Other genres,PG,Touchstone Pictures,Bill Murray,640,Q2,7.0,Mid,35000000,70083132.55,63710000,127571325,1.82,136459054.04,-8887729.04,0,0
+Brother Bear,2003,2000,Adventure,Animation,Other genres,G,Walt Disney Animation Studios,Joaquin Phoenix,598,Q2,6.8,High,128000000,178821330.86,85336277,119218333,0.67,262061301.78,-142842968.78,0,0
+Flightplan,2005,2000,Thriller/Suspense,Drama,Other genres,PG-13,Touchstone Pictures,Jodie Foster,523,Q1 lowest,6.3,Mid,55000000,72322385.58,89706988,117960425,1.63,103824369.95,14136055.05,0,0
+Jack,1996,1990,Drama,Comedy,Other genres,PG-13,Hollywood Pictures,Robin Williams,1139,Q4 highest,5.8,Mid,45000000,85822366.81,58617334,111792852,1.3,113612619.83,-1819767.83,0,0
+The Game Plan,2007,2000,Comedy,Comedy,Other genres,PG,Walt Disney Pictures,Dwayne Johnson,1568,Q4 highest,6.1,Low,22000000,26941920.77,90648202,111010758,4.12,56625388.77,54385369.23,0,0
+Beverly Hills Chihuahua,2008,2000,Comedy,Adventure,Other genres,PG,Mandeville Films,Drew Barrymore,502,Q1 lowest,3.8,Low,20000000,23474099.11,94514402,110932022,4.73,16189697.19,94742324.81,0,0
+The Kid,2000,2000,Comedy,Comedy,Other genres,PG,Chester Films Inc.,Bruce Willis,747,Q3,6.1,Mid,65000000,101660480.75,69688384,108993148,1.07,132717393.85,-23724245.85,0,0
+The Haunted Mansion,2003,2000,Comedy,Comedy,Other genres,PG,Walt Disney Pictures,Eddie Murphy,592,Q2,5.1,High,90000000,125561367.66,75817994,105775678,0.84,102714851.47,3060826.53,0,0
+Eight Below,2006,2000,Adventure,Adventure,Other genres,PG,Walt Disney Pictures,Paul Walker,969,Q4 highest,7.3,Mid,40000000,51480913.51,81612565,105037235,2.04,129944577.82,-24907342.82,0,0
+Angels in the Outfield,1994,1990,Comedy,Comedy,Other genres,PG,Caravan Pictures,Danny Glover,648,Q2,6.2,Mid,24000000,49588232.35,50236831,103798152,2.09,76406391.13,27391760.87,0,0
+Ladder 49,2004,2000,Action,Action,Action (non-Marvel),PG-13,Touchstone Pictures,Joaquin Phoenix,598,Q2,6.5,Mid,55000000,74640864.81,74541707,101161045,1.36,116659774.31,-15498729.31,1,0
+Mission to Mars,2000,2000,Adventure,Adventure,Other genres,PG,Touchstone Pictures,Tim Robbins,489,Q1 lowest,5.7,High,100000000,156400732.88,60874615,95208344,0.61,150234301.09,-55025957.09,0,0
+Bicentennial Man,1999,1990,Drama,Comedy,Other genres,PG,1492 Pictures,Robin Williams,1139,Q4 highest,6.9,High,100000000,162894127.35,58220776,94838225,0.58,288105322.98,-193267097.98,0,0
+The Distinguished Gentleman,1992,1990,Comedy,Comedy,Other genres,R,Hollywood Pictures,Eddie Murphy,592,Q2,5.9,Mid,50000000,101594458.61,46434570,94349900,0.93,118313962.12,-23964062.12,0,0
+Holes,2003,2000,Drama,Adventure,Other genres,PG,Walt Disney Pictures,Shia LaBeouf,852,Q3,7.0,Low,20000000,27960198.64,67383924,94203395,3.37,69488861.33,24714533.67,0,0
+The Muppets,2011,2010,Comedy,Adventure,Other genres,PG,Walt Disney Pictures,Amy Adams,960,Q4 highest,7.1,Mid,45000000,47824920.06,88625922,94189503,1.97,113250465.48,-19060962.48,0,0
+Tomorrowland,2015,2010,Adventure,Action,Other genres,PG,Walt Disney Pictures,George Clooney,706,Q2,6.4,High,190000000,190000000.0,93436322,93436322,0.49,241786615.24,-148350293.24,0,0
+The Lone Ranger,2013,2010,Western,Action,Other genres,PG-13,Walt Disney Pictures,Johnny Depp,1250,Q4 highest,6.4,High,215000000,222933560.08,89302115,92597388,0.42,312581300.32,-219983912.32,0,0
+Hidalgo,2004,2000,Western,Action,Other genres,PG-13,Touchstone Pictures,Viggo Mortensen,555,Q1 lowest,6.7,High,100000000,135748786.79,67286731,91340921,0.67,200742621.12,-109401700.12,0,0
+Medicine Man,1992,1990,Drama,Adventure,Other genres,PG-13,Hollywood Pictures,Sean Connery,746,Q3,6.0,Mid,40000000,81253010.13,44948240,91304495,1.12,106957294.88,-15652799.88,0,0
+The Preacher's Wife,1996,1990,Drama,Comedy,Other genres,PG,Mundy Lane Entertainment,Denzel Washington,468,Q1 lowest,5.6,Mid,40000000,75735205.82,48102795,91076877,1.2,81112219.71,9964657.29,0,0
+Real Steel,2011,2010,Action,Action,Action (non-Marvel),PG-13,Dreamworks Pictures,Hugh Jackman,746,Q3,7.0,High,110000000,116930671.27,85463309,90848019,0.78,208978332.21,-118130313.21,1,0
+Shanghai Noon,2000,2000,Western,Action,Other genres,PG-13,Touchstone Pictures,Jackie Chan,577,Q2,6.6,Mid,55000000,86020401.86,56932305,89042541,1.04,135422675.73,-46380134.73,0,0
+G.I. Jane,1997,1990,Drama,Action,Other genres,R,Caravan Pictures,Demi Moore,608,Q2,6.0,Mid,50000000,91830061.34,48169156,88467531,0.96,113972529.64,-25504998.64,0,0
+Mighty Joe Young,1998,1990,Adventure,Action,Other genres,PG,RKO Pictures,Bill Paxton,490,Q1 lowest,5.7,High,90000000,156255688.07,50632037,87906042,0.56,150160286.4,-62254244.4,0,0
+Three Fugitives,1989,1980,Comedy,Action,Other genres,PG-13,Touchstone Pictures,Nick Nolte,720,Q2,6.2,Low,15000000,31691728.38,40590000,85757817,2.71,54584993.33,31172823.67,0,0
+Shanghai Knights,2003,2000,Adventure,Action,Other genres,PG-13,Touchstone Pictures,Jackie Chan,577,Q2,6.2,Mid,50000000,69900491.51,60470220,84537962,1.21,98511803.87,-13973841.87,0,0
+Step Up,2006,2000,Drama,Crime,Other genres,PG-13,Touchstone Pictures,Channing Tatum,656,Q2,6.5,Low,12000000,15444273.38,65328121,84078780,5.44,34207121.12,49871658.88,0,0
+Race to Witch Mountain,2009,2000,Adventure,Action,Other genres,PG,Walt Disney Pictures,Dwayne Johnson,1568,Q4 highest,5.7,Mid,65000000,73060001.3,67172594,75501997,1.03,106699553.98,-31197556.98,0,0
+Alive,1993,1990,Adventure,Biography,Other genres,R,Film Andes S.A.,Ethan Hawke,575,Q1 lowest,7.1,Mid,32000000,65159418.14,36299670,73914543,1.13,131825005.42,-57910462.42,0,0
+The Recruit,2003,2000,Thriller/Suspense,Action,Other genres,PG-13,Touchstone Pictures,Al Pacino,666,Q2,6.6,Mid,46000000,64308450.54,52784696,73793522,1.15,109948945.69,-36155423.69,0,0
+Bridge of Spies,2015,2010,Thriller/Suspense,Drama,Other genres,PG-13,Dreamworks Pictures,Tom Hanks,1392,Q4 highest,7.6,Low,40000000,40000000.0,72313754,72313754,1.81,132302372.56,-59988618.56,0,0
+King Arthur,2004,2000,Adventure,Action,Other genres,PG-13,Touchstone Pictures,Clive Owen,572,Q1 lowest,6.3,High,120000000,162898545.57,51877963,70423706,0.43,199490357.63,-129066651.63,0,0
+White Fang,1991,1990,Adventure,Adventure,Other genres,PG,Walt Disney Pictures,Ethan Hawke,575,Q1 lowest,6.7,Low,14000000,28033253.39,34729091,69540672,2.48,58032114.2,11508557.8,0,0
+The Prestige,2006,2000,Thriller/Suspense,Drama,Other genres,PG-13,Touchstone Pictures,Christian Bale,1006,Q4 highest,8.5,Mid,40000000,51452290.98,53089891,68289913,1.33,208210504.96,-139920591.96,0,0
+"O Brother, Where Art Thou?",2000,2000,Comedy,Adventure,Other genres,PG-13,Touchstone Pictures,George Clooney,706,Q2,7.7,Low,26000000,38806927.23,45506619,67922002,1.75,113876719.67,-45954717.67,0,0
+The Sorcerer's Apprentice,2010,2010,Adventure,Action,Other genres,PG,Walt Disney Pictures,Nicolas Cage,789,Q3,6.1,High,150000000,160266142.93,63150991,67473105,0.42,192060902.97,-124587797.97,0,0
+Judge Dredd,1995,1990,Action,Action,Action (non-Marvel),R,Hollywood Pictures,Sylvester Stallone,892,Q3,5.6,High,90000000,174413779.65,34687912,67222776,0.39,172932368.65,-105709592.65,1,0
+The Jungle Book 2,2003,2000,Adventure,Animation,Other genres,G,Disney Television Animation,John Goodman,615,Q2,5.4,Low,20000000,27960196.81,47901582,66966883,2.4,35408488.75,31558394.25,0,0
+Secretariat,2010,2010,Drama,Biography,Other genres,PG,Walt Disney Pictures,Diane Lane,700,Q2,7.2,Low,35000000,37393390.46,59699513,63781920,1.71,91054156.13,-27272236.13,0,0
+I Love Trouble,1994,1990,Romantic Comedy,Action,Other genres,PG,Annhall,Nick Nolte,720,Q2,5.3,Mid,45000000,92977932.13,30806194,63651027,0.68,90248330.01,-26597303.01,0,0
+Reign of Fire,2002,2000,Action,Action,Action (non-Marvel),PG-13,Touchstone Pictures,Matthew McConaughey,873,Q3,6.2,Mid,60000000,87056788.51,43061982,62480631,0.72,125341156.11,-62860525.11,1,0
+My Favorite Martian,1999,1990,Comedy,Comedy,Other genres,PG,Walt Disney Pictures,Christopher Lloyd,523,Q1 lowest,5.1,High,65000000,107864159.86,36850101,61150849,0.57,89604902.31,-28454053.31,0,0
+Under the Tuscan Sun,2003,2000,Comedy,Comedy,Other genres,PG-13,Touchstone Pictures,Diane Lane,700,Q2,6.8,Low,18000000,25159518.66,43601508,60944053,2.42,57063251.73,3880801.27,0,0
+Eddie,1996,1990,Comedy,Comedy,Other genres,PG-13,Permut Presentations,Whoopi Goldberg,457,Q1 lowest,5.2,Mid,30000000,57217190.09,31369401,59828966,1.05,55557118.5,4271847.5,0,0
+Metro,1997,1990,Action,Action,Action (non-Marvel),R,Touchstone Pictures,Eddie Murphy,592,Q2,5.5,Mid,55000000,101013068.79,32017895,58804106,0.58,100579478.36,-41775372.36,1,0
+Keeping the Faith,2000,2000,Romantic Comedy,Comedy,Other genres,PG-13,Spyglass Entertainment,Ben Stiller,906,Q3,6.4,Mid,29000000,45356208.39,37036404,57925202,1.28,81834529.49,-23909327.49,0,0
+Instinct,1999,1990,Drama,Drama,Other genres,R,Spyglass Entertainment,Anthony Hopkins,1050,Q4 highest,6.6,High,80000000,132755897.36,34105207,56595842,0.43,213712953.04,-157117111.04,0,0
+The Hundred-Foot Journey,2014,2010,Romantic Comedy,Comedy,Other genres,PG,Amblin Entertainment,Helen Mirren,891,Q3,7.3,Low,22000000,22700119.61,54235441,55961409,2.47,66798127.89,-10836718.89,0,0
+Old Dogs,2009,2000,Comedy,Comedy,Other genres,PG,Walt Disney Pictures,Robin Williams,1139,Q4 highest,5.3,Low,35000000,39251498.42,49492060,55503929,1.41,50502981.14,5000947.86,0,0
+The Muppet Christmas Carol,1992,1990,Comedy,Comedy,Other genres,G,Walt Disney Pictures,Michael Caine,809,Q3,7.7,Low,12000000,24375903.43,27281507,55417615,2.27,80848835.69,-25431220.69,0,0
+Treasure Planet,2002,2000,Adventure,Animation,Other genres,PG,Walt Disney Animation Studios,Joseph Gordon-Levitt,533,Q1 lowest,7.2,High,140000000,202685414.8,38120554,55189145,0.27,332369503.78,-277180358.78,0,0
+The Ladykillers,2004,2000,Comedy,Comedy,Other genres,R,Touchstone Pictures,Tom Hanks,1392,Q4 highest,6.2,Mid,35000000,47512071.72,39692139,53881593,1.13,88309605.83,-34428012.83,0,0
+Raising Helen,2004,2000,Comedy,Comedy,Other genres,PG-13,Touchstone Pictures,Kate Hudson,623,Q2,6.0,Mid,50000000,67874386.08,37485528,50886144,0.75,90090870.78,-39204726.78,0,0
+Quiz Show,1994,1990,Drama,Biography,Other genres,PG-13,Baltimore Pictures,Ralph Fiennes,601,Q2,7.5,Mid,31000000,63583099.35,24787282,50840394,0.8,151821829.59,-100981435.59,0,0
+The Adventures of Huck Finn,1993,1990,Adventure,Adventure,Other genres,PG,Steve White Productions,Elijah Wood,530,Q1 lowest,6.2,Low,6500000,13235506.81,24103594,49080505,3.71,26168357.15,22912147.85,0,0
+Oscar,1991,1990,Comedy,Comedy,Other genres,PG,Joseph S. Vecchio Entertainment,Sylvester Stallone,892,Q3,6.5,Mid,35000000,70083127.3,23562716,47181395,0.67,119532480.48,-72351085.48,0,0
+Need for Speed,2014,2010,Action,Action,Action (non-Marvel),PG-13,Dreamworks Pictures,Aaron Paul,519,Q1 lowest,6.4,Mid,66000000,68100359.51,43568507,44955015,0.66,102441301.08,-57486286.08,1,0
+Bad Company,2002,2000,Action,Action,Action (non-Marvel),PG-13,Touchstone Pictures,Anthony Hopkins,1050,Q4 highest,5.6,Mid,70000000,101566257.75,30157016,43756218,0.43,117186429.82,-73430211.82,1,0
+Surrogates,2009,2000,Action,Action,Action (non-Marvel),PG-13,Touchstone Pictures,Bruce Willis,747,Q3,6.3,Mid,80000000,89920000.56,38577772,43361416,0.48,129663132.52,-86301716.52,1,0
+Calendar Girls,2003,2000,Comedy,Comedy,Other genres,PG-13,Touchstone Pictures,Helen Mirren,891,Q3,6.9,Low,10000000,13665734.16,31011616,42379650,3.1,38341760.45,4037889.55,0,0
+Color of Night,1994,1990,Thriller/Suspense,Mystery,Other genres,R,Cinergi Pictures Entertainment,Bruce Willis,747,Q3,5.2,Mid,40000000,82640698.68,19750470,40804816,0.49,79628903.08,-38824087.08,0,0
+He Got Game,1998,1990,Drama,Drama,Other genres,R,Touchstone Pictures,Denzel Washington,468,Q1 lowest,6.9,Mid,25000000,44936030.49,21567853,38766948,0.86,88689772.15,-49922824.15,0,0
+Million Dollar Arm,2014,2010,Drama,Biography,Other genres,PG,Walt Disney Pictures,Jon Hamm,727,Q3,7.0,Low,25000000,25795590.5,36447959,37607865,1.46,63277264.27,-25669399.27,0,0
+Frankenweenie,2012,2010,Comedy,Animation,Other genres,PG,Walt Disney Pictures,Winona Ryder,755,Q3,6.9,Low,39000000,41294087.55,35287788,37363513,0.9,88878622.69,-51515109.69,0,0
+When in Rome,2010,2010,Romantic Comedy,Comedy,Other genres,PG-13,Touchstone Pictures,Kristen Bell,562,Q1 lowest,5.6,Mid,55000000,58764258.02,32680633,34917330,0.59,67898682.37,-32981352.37,0,0
+Dark Water,2005,2000,Thriller/Suspense,Drama,Other genres,PG-13,Touchstone Pictures,Jennifer Connelly,992,Q4 highest,5.6,Low,30000000,39453973.26,25473093,33500491,0.85,54957809.98,-21457318.98,0,0
+Around the World in 80 Days,2004,2000,Adventure,Action,Other genres,PG,Walt Disney Pictures,Jackie Chan,577,Q2,5.9,High,110000000,149323671.79,24004159,32585356,0.22,159798173.71,-127212817.71,0,0
+The Life Aquatic with Steve Zissou,2004,2000,Comedy,Action,Other genres,R,Touchstone Pictures,Bill Murray,640,Q2,7.3,Mid,50000000,67061737.2,24006726,32198655,0.48,147964132.66,-115765477.66,0,0
+Summer of Sam,1999,1990,Drama,Crime,Other genres,R,Touchstone Pictures,John Leguizamo,543,Q1 lowest,6.7,Low,22000000,36507864.27,19288130,32007656,0.88,70946693.56,-38939037.56,0,0
+Fire Birds,1990,1990,Action,Action,Action (non-Marvel),PG-13,Nova International Films,Nicolas Cage,789,Q3,4.8,Low,22000000,43947864.87,14760451,29485923,0.67,41714343.64,-12228420.64,1,0
+A Lot Like Love,2005,2000,Comedy,Comedy,Other genres,PG-13,Touchstone Pictures,Ashton Kutcher,462,Q1 lowest,6.6,Low,30000000,39453971.98,21835784,28716947,0.73,71179049.05,-42462102.05,0,0
+The Finest Hours,2016,2010,Thriller/Suspense,Action,Other genres,PG,Walt Disney Pictures,Chris Pine,621,Q2,6.8,Mid,80000000,80000000.0,27569558,27569558,0.34,139605723.92,-112036165.92,0,0
+You Again,2010,2010,Comedy,Comedy,Other genres,PG,Touchstone Pictures,Kristen Bell,562,Q1 lowest,5.8,Low,20000000,21368815.17,25702053,27461121,1.29,32990854.58,-5529733.58,0,0
+Nixon,1995,1990,Drama,Biography,Other genres,R,Cinergi Pictures Entertainment,Anthony Hopkins,1050,Q4 highest,7.1,Mid,44000000,84669822.74,13668249,26302005,0.31,181696955.98,-155394950.98,0,0
+Valiant,2005,2000,Adventure,Animation,Other genres,G,Vanguard Films and Animation,Ewan McGregor,469,Q1 lowest,5.5,Mid,35000000,46029640.66,19478106,25616292,0.56,52678534.87,-27062242.87,0,0
+The Marrying Man,1991,1990,Romantic Comedy,Comedy,Other genres,R,Hollywood Pictures,Kim Basinger,610,Q2,5.8,Mid,26000000,52061754.02,12454768,24939118,0.48,67427796.76,-42488678.76,0,0
+Holy Man,1998,1990,Comedy,Comedy,Other genres,PG,Caravan Pictures,Eddie Murphy,592,Q2,4.9,High,60000000,107846446.14,12069719,21694605,0.2,84324604.21,-62629999.21,0,0
+The Greatest Game Ever Played,2005,2000,Drama,Biography,Other genres,PG,Fairway Films,Shia LaBeouf,852,Q3,7.4,Low,26000000,34193437.49,15331289,20162672,0.59,95054151.45,-74891479.45,0,0
+The Scarlet Letter,1995,1990,Drama,Drama,Other genres,R,Allied Stars Ltd.,Demi Moore,608,Q2,5.3,Mid,46000000,89144799.99,10359006,20075033,0.23,84981580.44,-64906547.44,0,0
+Fright Night,2011,2010,Horror,Comedy,Other genres,R,Dreamworks Pictures,Anton Yelchin,656,Q2,6.4,Low,30000000,31891538.0,18298649,19452402,0.61,58354091.21,-38901689.21,0,0
+25th Hour,2002,2000,Drama,Drama,Other genres,R,25th Hour Productions,Edward Norton,937,Q4 highest,7.6,Low,5000000,7002686.37,13084595,18325463,2.62,29952457.91,-11626994.91,0,0
+People Like Us,2012,2010,Drama,Comedy,Other genres,PG-13,Dreamworks Pictures,Chris Pine,621,Q2,7.1,Low,16000000,16944713.36,12431792,13165822,0.78,46005530.38,-32839708.38,0,0
+The Light Between Oceans,2016,2010,Drama,Drama,Other genres,PG-13,Heyday Films,Michael Fassbender,817,Q3,7.2,Low,20000000,20000000.0,12545979,12545979,0.63,57129125.53,-44583146.53,0,0
+Ed Wood,1994,1990,Comedy,Biography,Other genres,R,Touchstone Pictures,Johnny Depp,1250,Q4 highest,7.8,Low,18000000,37191160.08,5828466,12042634,0.32,130408668.73,-118366034.73,0,0
+Moonlight Mile,2002,2000,Drama,Drama,Other genres,PG-13,Touchstone Pictures,Jake Gyllenhaal,1312,Q4 highest,6.6,Low,21000000,30462931.33,6830957,9909094,0.33,71160759.16,-61251665.16,0,0
+Meet the Deedles,1998,1990,Comedy,Comedy,Other genres,PG,DIC Entertainment,Paul Walker,969,Q4 highest,4.1,Low,24000000,43138570.37,4356126,7829877,0.18,32878189.5,-25048312.5,0,0
+Bubble Boy,2001,2000,Comedy,Adventure,Other genres,PG-13,Bandeira Entertainment,Jake Gyllenhaal,1312,Q4 highest,5.6,Low,13000000,19362183.07,5002310,7450434,0.38,33824433.41,-26373999.41,0,0
+The Lookout,2007,2000,Drama,Crime,Other genres,R,Miramax,Joseph Gordon-Levitt,533,Q1 lowest,7.0,Low,16000000,19604630.28,4600585,5637048,0.29,48628865.28,-42991817.28,0,0
+Jefferson in Paris,1995,1990,Drama,Biography,Other genres,PG-13,Touchstone Pictures,Nick Nolte,720,Q2,5.7,Low,14000000,27131010.05,2461628,4770461,0.18,39810300.12,-35039839.12,0,0
+Noises Off...,1992,1990,Comedy,Comedy,Other genres,PG-13,Touchstone Pictures,Michael Caine,809,Q3,7.5,Low,12000000,24375891.39,2280148,4631720,0.19,74844603.25,-70212883.25,0,0
+Gun Shy,2000,2000,Comedy,Comedy,Other genres,R,Hollywood Pictures,Liam Neeson,902,Q3,5.7,Low,14000000,21896060.44,1638202,2562155,0.12,35110428.65,-32548273.65,0,0
+Veronica Guerin,2003,2000,Drama,Biography,Other genres,R,Touchstone Pictures,Cate Blanchett,723,Q3,6.9,Low,17000000,23766147.66,1569918,2194759,0.09,57012250.97,-54817491.97,0,0
+Breakfast of Champions,1999,1990,Comedy,Comedy,Other genres,R,Flying Heart Films,Bruce Willis,747,Q3,4.6,Low,12000000,19912904.47,178287,295851,0.01,20530237.49,-20234386.49,0,0

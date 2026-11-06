@@ -1,0 +1,7 @@
+check_name,value,share_of_units
+Units processed (clean),150918,1.0
+Units audited (QA sample),15689,0.104
+Units with imputed price,350,0.0023
+Units with NULL cycle time (bad stage data),25,0.0002
+Distinct associates,194,
+Days covered,365,

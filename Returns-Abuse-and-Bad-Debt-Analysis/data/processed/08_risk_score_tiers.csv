@@ -1,0 +1,4 @@
+risk_tier,customers,pct_of_customers,avg_score,avg_return_rate,avg_return_dollar_share,inr_claims,condition_mismatches,never_received_refunds
+High,519,2.6,4.95,0.4119,0.3978,177,809,281
+Medium,1083,5.42,2.31,0.3522,0.3876,115,506,249
+Low,18398,91.99,0.22,0.1019,0.1045,363,702,0

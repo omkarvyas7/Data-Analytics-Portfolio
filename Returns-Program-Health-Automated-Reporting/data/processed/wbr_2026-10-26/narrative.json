@@ -1,0 +1,29 @@
+{
+  "week_start": "2026-10-26",
+  "week_end": "2026-11-01",
+  "headline": [
+    "3 of 8 KPIs met target for the week of 2026-10-26 to 2026-11-01; 3 are Amber and 2 are Red (Refund cycle time, Customer contacts per return).",
+    "Refund cycle time was 3.77 days vs a 3.30 days target (+14.2% unfavourable), +0.06 days WoW and +0.28 days YoY; it has missed target 4 of the last 4 weeks.",
+    "Customer contacts per return was 0.192 vs a 0.180 target (+6.8% unfavourable), +0.003 WoW and +0.009 YoY; it has missed target 4 of the last 4 weeks.",
+    "Driver: US Mail-in accounts for +0.44 days, more than the whole +0.43-day program change vs the pre-incident baseline (all other segments net -0.01 days). Its cycle time rose from 4.08 to 6.27 days, and +2.22 days of that is carrier transit, not warehouse processing (-0.03 days).",
+    "Bright spot: Waste (landfill) units at 10,829 (-29.2% YoY), ahead of its 11,000 target.",
+    "Program health: 2 initiatives Red (Drop-off point expansion, Return reason capture redesign), 2 Amber, 1 Green. 6 milestones are at risk, 3 are blocked by a dependency, and 5 High risks are open.",
+    "Critical path: M402 QR label and reason-code API (Returns Experience Tech, forecast 2026-11-13) is blocking 3 downstream milestones, including drop-off Wave 2, which is the structural fix for mail-in transit delays."
+  ],
+  "asks": [
+    "[P1] Returns Experience Tech (Software Development Manager), M402 QR label and reason-code API: Commit a firm delivery date or an interim workaround for the blocked teams. Blocks 3 milestone(s): M304 (Reverse Logistics Ops), M403 (Returns Experience Tech), M404 (Returns Experience Tech); predecessor forecast 2026-11-13. Due 2026-11-08.",
+    "[P1] Reverse Logistics Ops (Software Development Manager), R04 QR label API slip blocks Wave 2 drop-off go-live: Assign a mitigation owner and plan, or accept the risk explicitly at the WBR. Severity 20; mitigation: none recorded; target close 2026-10-30. Due 2026-11-08.",
+    "[P1] Reverse Logistics Ops (Transportation Manager), R05 Carrier linehaul consolidation lengthens US mail-in transit: Assign a mitigation owner and plan, or accept the risk explicitly at the WBR. Severity 20; mitigation: none recorded; target close 2026-11-06. Due 2026-11-08.",
+    "[P1] Returns Experience Tech (Returns Experience Product Manager), Customer contacts per return: Root cause and recovery plan with a date-to-green at next WBR. 0.192 vs target 0.180 (Red). Due 2026-11-08.",
+    "[P1] Reverse Logistics Ops (Reverse Logistics Program Manager), Refund cycle time: Root cause and recovery plan with a date-to-green at next WBR. 3.77 days vs target 3.30 days (Red). Due 2026-11-08.",
+    "[P1] Returns Experience Tech (Software Development Manager), M402 QR label and reason-code API: Re-baseline the plan or add capacity; confirm impact on downstream milestones. Planned end 2026-09-11, forecast 2026-11-13 (63 days late). Due 2026-11-08."
+  ],
+  "counts": {
+    "green": 3,
+    "amber": 3,
+    "red": 2,
+    "init_red": 2,
+    "init_amber": 2,
+    "init_green": 1
+  }
+}

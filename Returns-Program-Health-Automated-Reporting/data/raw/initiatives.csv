@@ -1,0 +1,6 @@
+initiative_id,initiative,owner_role,team,primary_kpi,start_date,target_end_date
+INI-1,Grade-and-resell open-box electronics,ReCommerce Program Manager,ReCommerce,resale_pct,2026-02-02,2027-01-15
+INI-2,Returnless refunds for low-value items,Returns Policy Manager,Returns Policy,cost_per_return,2026-03-02,2026-12-18
+INI-3,Drop-off point expansion,Reverse Logistics Program Manager,Reverse Logistics Ops,refund_cycle_days,2026-01-12,2026-12-18
+INI-4,Return reason capture redesign,Returns Experience Product Manager,Returns Experience Tech,contacts_per_return,2026-04-06,2027-01-29
+INI-5,Liquidation partner onboarding,Disposition Program Manager,Liquidation & Disposition,recovery_rate,2026-03-02,2026-12-18

@@ -1,0 +1,15 @@
+table,check,rows
+returns_daily,exact duplicate rows removed,45
+returns_daily,marketplace codes trimmed/upper-cased,60
+returns_daily,channel labels mapped to canonical names,45
+returns_daily,duplicates removed after key normalisation,0
+returns_daily,rows with negative return_units excluded,15
+returns_daily,rows with missing cycle scans excluded from cycle-time calc only,40
+returns_daily,remaining duplicate keys at daily grain (expect 0),0
+kpi_targets,rows loaded,8
+initiatives,rows loaded,5
+milestones,rows loaded,28
+risks,rows loaded,10
+issues,rows loaded,7
+returns_daily,rows loaded after cleaning,43665
+shipments_daily,rows loaded,10920

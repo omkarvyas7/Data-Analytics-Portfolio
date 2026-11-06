@@ -1,0 +1,4 @@
+blocked_milestone_id,blocked_milestone,blocked_initiative,blocked_team,blocked_status,planned_start,days_past_planned_start,dependency_id,dependency_milestone,dependency_team,dependency_owner_role,dependency_status,dependency_forecast_end,dependency_type
+M304,"Wave 2 go-live (900 points, US/CA)",Drop-off point expansion,Reverse Logistics Ops,Blocked,2026-07-13,111,M402,QR label and reason-code API,Returns Experience Tech,Software Development Manager,At Risk,2026-11-13,Cross-team
+M403,Return-flow UX redesign A/B test,Return reason capture redesign,Returns Experience Tech,Blocked,2026-09-14,48,M402,QR label and reason-code API,Returns Experience Tech,Software Development Manager,At Risk,2026-11-13,Same team
+M404,Reason-code data feed to Operations,Return reason capture redesign,Returns Experience Tech,Not Started,2026-10-26,6,M402,QR label and reason-code API,Returns Experience Tech,Software Development Manager,At Risk,2026-11-13,Same team

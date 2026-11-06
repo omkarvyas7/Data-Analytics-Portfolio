@@ -1,0 +1,5 @@
+site_id,site_name,region,daily_capacity_units,photo_grading_step_baseline
+RC-WEST,West Returns Center,West,140,1
+RC-CENTRAL,Central Returns Center,Central,112,0
+RC-EAST,East Returns Center,East,128,1
+RC-SOUTH,South Returns Center,South,80,1

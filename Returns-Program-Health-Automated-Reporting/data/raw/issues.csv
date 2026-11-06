@@ -1,0 +1,8 @@
+issue_id,logged_date,initiative_id,milestone_id,issue,status,owner_role
+ISS-001,2026-05-12,INI-1,M102,Pilot site grading accuracy below 95% in week 1,Closed,Returns Operations Manager
+ISS-002,2026-08-05,INI-1,M103,Listing integration defect duplicated open-box ASIN variants,Closed,Software Development Manager
+ISS-003,2026-09-21,INI-4,M402,API contract for reason codes not agreed with Ops tooling,Open,Software Development Manager
+ISS-004,2026-10-02,INI-3,M304,Wave 2 partners cannot print labels without QR API,Open,Reverse Logistics Program Manager
+ISS-005,2026-10-14,INI-3,M305,US mail-in transit scans show +2 day dwell at consolidation hubs,Open,Transportation Manager
+ISS-006,2026-10-19,INI-1,M104,Two scale sites missing grading benches,Open,Returns Operations Manager
+ISS-007,2026-10-21,INI-2,M204,UK returnless launch copy pending legal review,Closed,Returns Policy Manager

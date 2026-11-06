@@ -1,0 +1,13 @@
+{
+  "rating_rows": 100836,
+  "users": 610,
+  "rated_movies": 9724,
+  "null_ratings": 0,
+  "duplicate_pairs": 0,
+  "pct_movies_under_10_ratings": 76.6,
+  "pct_ratings_from_movies_100plus": 20.0,
+  "pct_ratings_from_power_users": 40.2,
+  "power_users": 44,
+  "knn_matrix_movies": 450,
+  "knn_matrix_users": 606
+}

@@ -1,0 +1,12 @@
+table,check,rows
+returns_units,raw rows,151098
+returns_units,duplicate unit rows removed,180
+returns_units,category variants standardized,400
+returns_units,negative prices corrected (abs),12
+returns_units,missing prices imputed (category median),350
+returns_units,missing shift derived from received hour,250
+returns_units,clean rows,150918
+unit_cycle_stages,rows with negative stage time set to NULL,25
+audits,duplicate audit rows removed,15
+audits,orphan audits removed (no matching unit),8
+audits,clean rows,15689

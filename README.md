@@ -1,8 +1,8 @@
 # Data Analytics Portfolio
 
-This portfolio is about operational analytics: finding where a process loses money or quality, measuring it with SQL, testing what drives it, and turning the answer into a recommendation, a dashboard and the documents a team needs to act on it.
+Good analytics should end in a decision. The projects here take a business question, find the answer in the data, and put a number on what acting on it is worth. Then they hand it off as a dashboard, a memo or a weekly report that someone can use.
 
-Most of the work centers on a returns and reverse logistics operation. That includes refund abuse and bad debt, grading defects tackled with DMAIC, and an automated weekly business review for program health. Alongside those are projects on dispatch optimization, hypothesis testing and regression, recommendation systems, and NLP.
+Most of the work covers returns operations: refund abuse and bad debt, grading defects and program health. The rest covers dispatch, film performance, recommendations and NLP.
 
 Each folder stands on its own: README, SQL, Python, Excel workbook, docs and charts. Most rebuild from scratch with `python src/run_all.py`.
 
